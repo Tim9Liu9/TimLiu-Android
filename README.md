@@ -25,7 +25,8 @@ TimLiu-Android
 ##### 下拉刷新
 
 ##### 模糊效果
- 
+
+* [Android Wheel](https://code.google.com/p/android-wheel/) - 带有刻度的旋转器：日历、三级联动
 
 ##### HUD与Toast
 
