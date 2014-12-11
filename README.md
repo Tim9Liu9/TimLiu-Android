@@ -14,6 +14,7 @@ TimLiu-Android
 - [图像浏览及处理](#图像浏览及处理)
 - [测试及调试](#测试及调试)
 - [消息推送](#消息推送)
+- [其他](#其他)
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
     - [中文开发博客列表](#中文开发博客列表)
@@ -66,6 +67,9 @@ TimLiu-Android
 ##### 客户端
 
 ##### 服务器端
+
+#### 其他
+* [java-zhconverter](http://code.google.com/p/java-zhconverter/) - java-zhconverter是一个简繁体中文互换的Java开源类库。
 
 
 ========
