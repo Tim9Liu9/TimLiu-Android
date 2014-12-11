@@ -81,4 +81,5 @@ TimLiu-Android
 
 
 ##### 中文开发博客列表
+* [脉脉不得语](http://www.inferjay.com/) - Android开发周报
  
