@@ -55,6 +55,8 @@ TimLiu-Android
 
 ========
 #### 图像浏览及处理
+* [MPAndroidChart](https://github.com/ggchxx/MPAndroidChart) - MPAndroidChart是一个功能强大的图表开源类库：曲线图、柱形图、环形图。
+* [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) - (国人开发)基于Android Canvas来绘制各种图表,使用简便,定制灵活。
 
 ========
 #### 测试及调试
