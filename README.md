@@ -81,6 +81,8 @@ TimLiu-Android
 
 * [GitHub优秀Android开源项目](http://www.cnblogs.com/hawkon/p/3593709.html) - GitHub 优秀的 Android 开源项目,很多中文现成项目。
 
+* [Android开发工具及文档](http://www.androiddevtools.cn/) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。。
+
 
 ##### 中文开发博客列表
 * [脉脉不得语](http://www.inferjay.com/) - Android开发周报
