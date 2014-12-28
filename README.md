@@ -35,6 +35,7 @@ TimLiu-Android
 
 ========
 #### 动画
+* [SwitchLayout](http://blog.csdn.net/jay100500/article/details/42227365) - 国内开发者， Android的Activity切换动画特效库SwitchLayout，视图切换动画库，媲美IOS 
 
 
 
