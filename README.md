@@ -78,6 +78,9 @@ TimLiu-Android
 
 #### 其他
 * [java-zhconverter](http://code.google.com/p/java-zhconverter/) - java-zhconverter是一个简繁体中文互换的Java开源类库。
+* [joda-time-android](https://github.com/dlew/joda-time-android) - 一个超赞的时间处理的库，Joda-Time ！ 他能帮你轻松处理时区，处理时间加减，计算到期时间等等场景下的问题。[java版本](http://www.joda.org/joda-time/key_partial.html)
+* [AssistiveTouch](https://github.com/luozi/AssistiveTouch) - 配合Android手机沉浸式隐藏虚拟按键后快捷操作 (Nexus5屏幕变大了)。
+
 
 
 ========
