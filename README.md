@@ -27,7 +27,8 @@ TimLiu-Android
 * [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) - 一个支持Material Design的PagerSlidingTabStrip。
 * [ChipsLibrary](https://github.com/AndroidDeveloperLB/ChipsLibrary) - 在Android EditText中实现打Tag功能。
 * [bitmapMesh](https://github.com/7heaven/bitmapMesh) - 拉窗帘效果。
-
+* [ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - 在滚动的视图观测滚动事件的Android库
+它易于与在Android 5.0 Lollipop中引入的工具条Toolbar相交互，并能够帮助实现Material Design apps的外观。
 
 ##### 下拉刷新
 
@@ -51,6 +52,15 @@ TimLiu-Android
 
 
 ##### 图像获取
+* [glide](https://github.com/bumptech/glide) - glide 。
+* [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Universal Image Loader 是一个强大的、可高度定制的图片缓存，简称：UIL，可以高度配置的网络图片缓存库，非常灵活，用户量最多 。
+* [picasso](https://github.com/square/picasso) - picasso 功能单一，没有缓存过期，同androidQuery一样链式调用，载入本地文件速度慢（没有生成thumbnails）。。
+* [ImageLoader](https://github.com/novoda/ImageLoader) - ImageLoader 。
+* [Volley](https://github.com/mcxiaoke/android-volley) - Volley 综合框架,包含图片部分。
+* [enif](code.google.com/p/enif/) - enif 。
+
+
+
 
 
 ##### 网络测试
@@ -58,6 +68,11 @@ TimLiu-Android
 
 ========
 #### 数据库
+* [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - ORMLite做的最棒但是学习成本有点儿高，ORMLite的文档有点儿烂。
+* [SugarORM](http://satyan.github.io/sugar/index.html) - SugarORM比较轻便， 支持Has a 和 Has many映射，但无法保存集合，没有映射关系。
+* [GreenDAO](http://greendao-orm.com/) - GreenDAO要先建立一个java项目来生成对应的表，一变动又要生成，很不方便。
+* [ActiveDriod](https://github.com/pardom/ActiveAndroid) - ActiveDriod也不错 [官网](http://www.activeandroid.com/)。
+* [ORMDroid](https://github.com/roscopeco/ormdroid) - ormdroid 。
 
 
 ========
@@ -89,7 +104,7 @@ TimLiu-Android
 ##### 他人开源总结
 * [material design 的android开源代码整理](https://github.com/soyoungboy/android-material-design-Open-source-projects/blob/master/README.md) - material design 的android开源代码整理。
 * [Android开源项目分类汇总](https://github.com/Trinea/android-open-project) - [Trinea](http://www.trinea.cn/) 国内最多好的开源库总结。  [Android 开源库获取途径整理](http://www.trinea.cn/android/android-open-project-summary/)
-* [Android开源库源码分析](https://github.com/android-cn/android-open-project-analysis) - [Trinea](http://www.trinea.cn/) 我们从 Android 开始建了了协作项目，从简介、总体设计、流程图、详细设计全方面分析开源库源码。目前第一期完成，包括10个开源库及5个公共技术点的全面介绍。  [在线网页](https://github.com/android-cn/android-open-project-analysis)
+* [Android开源库源码分析](https://github.com/android-cn/android-open-project-analysis) - [Trinea](http://www.trinea.cn/) 我们从 Android 开始建了了协作项目，从简介、总体设计、流程图、详细设计全方面分析开源库源码。目前第一期完成，包括10个开源库及5个公共技术点的全面介绍。  [在线网页](http://www.codekk.com/open-source-project-analysis)
 
 * [年薪30万的Android程序员必须知道的帖子](http://www.itlanbao.com/forum.php?mod=viewthread&tid=45&fromuid=1) - Android开源项目汇总，带效果gif图。
 
