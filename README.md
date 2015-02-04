@@ -89,6 +89,7 @@ TimLiu-Android
 ##### 他人开源总结
 * [material design 的android开源代码整理](https://github.com/soyoungboy/android-material-design-Open-source-projects/blob/master/README.md) - material design 的android开源代码整理。
 * [Android开源项目分类汇总](https://github.com/Trinea/android-open-project) - [Trinea](http://www.trinea.cn/) 国内最多好的开源库总结。  [Android 开源库获取途径整理](http://www.trinea.cn/android/android-open-project-summary/)
+* [Android开源库源码分析](https://github.com/android-cn/android-open-project-analysis) - [Trinea](http://www.trinea.cn/) 我们从 Android 开始建了了协作项目，从简介、总体设计、流程图、详细设计全方面分析开源库源码。目前第一期完成，包括10个开源库及5个公共技术点的全面介绍。  [在线网页](https://github.com/android-cn/android-open-project-analysis)
 
 * [年薪30万的Android程序员必须知道的帖子](http://www.itlanbao.com/forum.php?mod=viewthread&tid=45&fromuid=1) - Android开源项目汇总，带效果gif图。
 
