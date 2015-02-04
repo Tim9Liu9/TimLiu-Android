@@ -29,6 +29,8 @@ TimLiu-Android
 * [bitmapMesh](https://github.com/7heaven/bitmapMesh) - 拉窗帘效果。
 * [ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - 在滚动的视图观测滚动事件的Android库
 它易于与在Android 5.0 Lollipop中引入的工具条Toolbar相交互，并能够帮助实现Material Design apps的外观。
+* [iconify](https://github.com/JoanZapata/android-iconify) - iconify 图片与文字同一行显示。
+
 
 ##### 下拉刷新
 
