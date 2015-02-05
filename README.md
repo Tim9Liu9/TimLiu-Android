@@ -117,7 +117,12 @@ TimLiu-Android
 
 * [GitHub优秀Android开源项目](http://www.cnblogs.com/hawkon/p/3593709.html) - GitHub 优秀的 Android 开源项目,很多中文现成项目。
 
-* [Android开发工具及文档](http://www.androiddevtools.cn/) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。。
+* [Android开发工具及文档](http://www.androiddevtools.cn/) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
+
+* [material_design](https://github.com/1sters/material_design_zh) - eoeAndroid Material Design 中文协同翻译。
+* [Android-Open-Sourse-Library](https://github.com/1sters/Android-Open-Sourse-Library/) - eoeAndroid 开源组件深度剖析: 1.Http请求组件:Volley\android-async-http\okhttp 2.json数据解析组件:Gson\fast-json\json-smart\Jackson。
+* [wiki-eoeandroid](http://wiki.eoeandroid.com/) - wiki-eoeandroid : Android Develop - 开发技术、Android Design - 设计规范、Android Distribute - 软件发布 。
+
 
 
 ##### 中文开发博客列表
