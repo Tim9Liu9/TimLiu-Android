@@ -15,6 +15,7 @@ TimLiu-Android
 - [测试及调试](#测试及调试)
 - [消息推送](#消息推送)
 - [其他](#其他)
+- [UI资源](#UI资源)
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
     - [中文开发博客列表](#中文开发博客列表)
@@ -101,7 +102,9 @@ TimLiu-Android
 * [AssistiveTouch](https://github.com/luozi/AssistiveTouch) - 配合Android手机沉浸式隐藏虚拟按键后快捷操作 (Nexus5屏幕变大了)。
 * [S-Tools](https://github.com/naman14/S-Tools) - S-Tools一个可以实时查看的CPU状态和手机各类传感器数据，还有一些例如颜色选择、指南针和设备信息等功能。
 
-
+========
+### UI资源
+* [fontawesome](http://fontawesome.io/icons/) - Font-Awesome图标。
 
 ========
 #### 开发资源
