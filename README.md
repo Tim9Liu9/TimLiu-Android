@@ -127,6 +127,7 @@ TimLiu-Android
 * [Android-Open-Sourse-Library](https://github.com/1sters/Android-Open-Sourse-Library/) - eoeAndroid 开源组件深度剖析: 1.Http请求组件:Volley\android-async-http\okhttp 2.json数据解析组件:Gson\fast-json\json-smart\Jackson。
 * [wiki-eoeandroid](http://wiki.eoeandroid.com/) - wiki-eoeandroid : Android Develop - 开发技术、Android Design - 设计规范、Android Distribute - 软件发布 。
 
+* [Java资源大全](http://www.importnew.com/14429.html) - 国外程序员整理的Java资源大全。
 
 
 ##### 中文开发博客列表
