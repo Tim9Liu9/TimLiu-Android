@@ -32,6 +32,8 @@ TimLiu-Android
 它易于与在Android 5.0 Lollipop中引入的工具条Toolbar相交互，并能够帮助实现Material Design apps的外观。
 * [iconify](https://github.com/JoanZapata/android-iconify) - iconify 图片与文字同一行显示。
 * [iosched](https://github.com/google/iosched) - The Google I/O 2014 Android App，Android 5.0 and Material Design。
+* [MaterialList](https://github.com/dexafree/MaterialList) - MaterialList 。
+* [material design card](https://dribbble.com/search?q=material+design+card) - material design card 。 
 
 
 ##### 下拉刷新
