@@ -37,7 +37,7 @@ TimLiu-Android
 * [NavigationDrawer-MaterialDesign](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) - 一个Material Design的抽屉模板库，分分钟搭起一个程序框架。
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 直接继承EditText，无需修改Java文件即能实现自定义控件颜色， [直接拿来用！十大Material Design开源项目](http://www.csdn.net/article/2014-11-21/2822753-material-design-libs)。
 * [fab](https://github.com/shell-software/fab) - Floating Action Button library for Android。
-
+* [labelview](https://github.com/linger1216/labelview) - 贴纸效果，如：淘宝商品侧贴折扣。
 
 ##### 下拉刷新
 
