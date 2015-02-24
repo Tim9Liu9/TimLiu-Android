@@ -82,7 +82,7 @@ TimLiu-Android
 * [GreenDAO](http://greendao-orm.com/) - GreenDAO要先建立一个java项目来生成对应的表，一变动又要生成，很不方便。
 * [ActiveDriod](https://github.com/pardom/ActiveAndroid) - ActiveDriod也不错 [官网](http://www.activeandroid.com/)。
 * [ORMDroid](https://github.com/roscopeco/ormdroid) - ormdroid 。
-
+* [sqlbrite](https://github.com/square/sqlbrite) - 良心企业Square的又一开源项目，当你不想给用ContentProvider，只想简单监听SQLite表增删改的数据变更时可以试试它。
 
 ========
 #### 图像浏览及处理
