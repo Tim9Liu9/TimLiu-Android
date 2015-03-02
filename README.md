@@ -113,6 +113,7 @@ TimLiu-Android
 * [AssistiveTouch](https://github.com/luozi/AssistiveTouch) - 配合Android手机沉浸式隐藏虚拟按键后快捷操作 (Nexus5屏幕变大了)。
 * [S-Tools](https://github.com/naman14/S-Tools) - S-Tools一个可以实时查看的CPU状态和手机各类传感器数据，还有一些例如颜色选择、指南针和设备信息等功能。
 * [JsBridge](https://github.com/lzyzsd/JsBridge) - 模仿微信webview的JsBridge，安全方便的实现js和Java的互相调用，主要通过loadUrl和shouldOverrideUrl实现。
+* [android-best-practices](https://github.com/futurice/android-best-practices) - android最佳实践。
 
 
 ========
