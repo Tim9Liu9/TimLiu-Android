@@ -39,6 +39,8 @@ TimLiu-Android
 * [fab](https://github.com/shell-software/fab) - Floating Action Button library for Android。
 * [labelview](https://github.com/linger1216/labelview) - 贴纸效果，如：淘宝商品侧贴折扣。
 * [SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) - 一个很棒的带动画的搜索框。
+* [快速支持emoji表情显示](http://www.eoeandroid.com/thread-567299-1-1.html) - 让项目快速支持emojicon表情的显示，并可判断用户输入的内容中是否含有emojicon表情以及过滤掉emojicon。
+
 ##### 下拉刷新
 
 ##### 模糊效果
