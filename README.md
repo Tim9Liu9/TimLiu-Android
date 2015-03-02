@@ -112,6 +112,8 @@ TimLiu-Android
 ========
 ### UI资源
 * [fontawesome](http://fontawesome.io/icons/) - Font-Awesome图标。
+* [material-design-responsive-design](http://www.uisdc.com/material-design-responsive-design) - 深聊Material Design复杂响应式设计。
+
 
 ========
 #### 开发资源
