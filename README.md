@@ -166,7 +166,8 @@ TimLiu-Android
 
 ##### 中文开发博客列表
 * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
+* [Longdw ](http://www.longdw.com/listview-category-getitemviewtype-getviewtypecount/) - ListView中的分类getItemViewType和getViewTypeCount的使用详解。 
 * [脉脉不得语](http://www.inferjay.com/) - Android开发周报。
-* [脉脉不得语](http://blog.csdn.net/cym492224103) - Chad.cym的专栏。
+* [Chad.cym的专栏](http://blog.csdn.net/cym492224103) - Chad.cym的专栏:android5.0新特性分析。
 
  
