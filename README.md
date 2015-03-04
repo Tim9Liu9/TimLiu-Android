@@ -53,6 +53,7 @@ TimLiu-Android
 * [android-typeface-helper](https://github.com/norbsoft/android-typeface-helper) - Android Typeface Helper 可以帮你轻松实现自定义字体的库。
 * [GuideBackgroundColorAnimation](https://github.com/TaurusXi/GuideBackgroundColorAnimation) - 实现滑动ViewPager渐变背景色。
 * [Toolbar](https://github.com/xamarin/monodroid-samples/tree/master/android_l/Toolbar) - Toolbar替换Android Toolbar，[说明](http://blog.xamarin.com/android-tips-hello-toolbar-goodbye-action-bar/)。
+* [PinnedListView](http://www.eoeandroid.com/thread-567853-1-1.html) - PinnedListView悬浮Head效果修改，[github pinned-section-listview](https://github.com/beworker/pinned-section-listview)。
 
 ##### 下拉刷新
 
