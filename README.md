@@ -42,6 +42,17 @@ TimLiu-Android
 * [labelview](https://github.com/linger1216/labelview) - 贴纸效果，如：淘宝商品侧贴折扣。
 * [SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) - 一个很棒的带动画的搜索框。
 * [快速支持emoji表情显示](http://www.eoeandroid.com/thread-567299-1-1.html) - 让项目快速支持emojicon表情的显示，并可判断用户输入的内容中是否含有emojicon表情以及过滤掉emojicon。
+* [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) - 分类侧滑菜单。
+* [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) - 可以方便快速集成漂亮带有动画效果的上下文菜单。
+* [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) - 提供一个简单可以自定义的下拉刷新实现。
+* [Titanic](https://github.com/RomainPiel/Titanic) - 可以显示水位上升下降的TextView。
+* [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - 滑动Layout，支持单个View，ListView，GridView，[demo-apk](https://github.com/daimajia/AndroidSwipeLayout/releases/download/v1.0.0/AndroidSwipeLayout-Demo-1.0.1-snapshot.apk)。
+* [android-typeface-helper](https://github.com/norbsoft/android-typeface-helper) - Android Typeface Helper 可以帮你轻松实现自定义字体的库。
+* [android-lockpattern](https://code.google.com/p/android-lockpattern/) - Android的图案密码解锁, [文档介绍](https://code.google.com/p/android-lockpattern/wiki/QuickUse)。
+* [ToggleButton](https://github.com/zcweng/ToggleButton) - 状态切换的 Button，类似 iOS，用 View 实现。
+* [android-typeface-helper](https://github.com/norbsoft/android-typeface-helper) - Android Typeface Helper 可以帮你轻松实现自定义字体的库。
+
+
 
 ##### 下拉刷新
 
@@ -75,6 +86,8 @@ TimLiu-Android
 
 ##### 响应式编程
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 。
+* 
+
 
 ========
 ##### 网络测试
@@ -94,6 +107,8 @@ TimLiu-Android
 * [MPAndroidChart](https://github.com/ggchxx/MPAndroidChart) - MPAndroidChart是一个功能强大的图表开源类库：曲线图、柱形图、环形图。
 * [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) - (国人开发)基于Android Canvas来绘制各种图表,使用简便,定制灵活。
 * [CropImageView](https://github.com/cesards/CropImageView) - 原生ImageView只支持centerCrop，这里有支持9个方向裁剪的ImageView。
+* [DrawableView](https://github.com/PaNaVTEC/DrawableView) - DrawableView实现画板功能，可以改变画笔粗细，颜色，支持撤销功能。 
+
 
 ========
 #### 测试及调试
