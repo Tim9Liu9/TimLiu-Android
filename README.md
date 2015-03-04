@@ -165,6 +165,8 @@ TimLiu-Android
 
 
 ##### 中文开发博客列表
-* [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/). 
-* [脉脉不得语](http://www.inferjay.com/) - Android开发周报
+* [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
+* [脉脉不得语](http://www.inferjay.com/) - Android开发周报。
+* [脉脉不得语](http://blog.csdn.net/cym492224103) - Chad.cym的专栏。
+
  
