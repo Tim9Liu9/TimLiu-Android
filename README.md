@@ -51,7 +51,7 @@ TimLiu-Android
 * [android-lockpattern](https://code.google.com/p/android-lockpattern/) - Android的图案密码解锁, [文档介绍](https://code.google.com/p/android-lockpattern/wiki/QuickUse)。
 * [ToggleButton](https://github.com/zcweng/ToggleButton) - 状态切换的 Button，类似 iOS，用 View 实现。
 * [android-typeface-helper](https://github.com/norbsoft/android-typeface-helper) - Android Typeface Helper 可以帮你轻松实现自定义字体的库。
-
+* [GuideBackgroundColorAnimation](https://github.com/TaurusXi/GuideBackgroundColorAnimation) - 实现滑动ViewPager渐变背景色。
 
 
 ##### 下拉刷新
@@ -106,6 +106,7 @@ TimLiu-Android
 #### 图像浏览及处理
 * [MPAndroidChart](https://github.com/ggchxx/MPAndroidChart) - MPAndroidChart是一个功能强大的图表开源类库：曲线图、柱形图、环形图。
 * [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) - (国人开发)基于Android Canvas来绘制各种图表,使用简便,定制灵活。
+* [WilliamChart](https://github.com/diogobernardino/WilliamChart) - 绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。
 * [CropImageView](https://github.com/cesards/CropImageView) - 原生ImageView只支持centerCrop，这里有支持9个方向裁剪的ImageView。
 * [DrawableView](https://github.com/PaNaVTEC/DrawableView) - DrawableView实现画板功能，可以改变画笔粗细，颜色，支持撤销功能。 
 
