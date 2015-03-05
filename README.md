@@ -71,6 +71,7 @@ TimLiu-Android
 * [SwitchLayout](http://blog.csdn.net/jay100500/article/details/42227365) - 国内开发者， Android的Activity切换动画特效库SwitchLayout，视图切换动画库，媲美IOS。 
 * [ActivityOptionsICS](https://github.com/tianzhijiexian/ActivityOptionsICS) - 一个低版本activity动画兼容库——ActivityOptionsICS，可以很好的实现MD的动画效果。
 * [SwipeBack](https://github.com/liuguangqiang/SwipeBack) - 一个可以通过手势返回到上一个Activity的开源库，支持上下左右四个方向返回，支持多个View为Child。
+* [SpringIndicator](https://github.com/chenupt/SpringIndicator) - 模仿Morning Routine的引导页效果SpringIndicator；基于模仿红点拖拽的Demo实现：[BezierDemo](https://github.com/chenupt/BezierDemo)；sample中使用到 快速创建ViewPager和ListView等的第三方库：[MultipleModel](https://github.com/chenupt/MultipleModel)。
 
 ========
 #### 网络相关
