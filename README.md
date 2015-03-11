@@ -160,6 +160,8 @@ TimLiu-Android
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
 * [酷炫的交互动画和视觉效果](https://github.com/Rano1/Interactive-animation/blob/master/README.md) - 描述：收集android上开源的酷炫的交互动画和视觉效果。1.交互篇，2.视觉篇。
+交互篇
+------
 1.SlidingUpPanelLayout
 项目介绍：他的库提供了一种简单的方式来添加一个可拖动滑动面板(由谷歌音乐推广,谷歌地图和Rdio)你的Android应用程序。
 项目地址：https://github.com/umano/AndroidSlidingUpPanel  
