@@ -136,6 +136,8 @@ TimLiu-Android
 * [JsBridge](https://github.com/lzyzsd/JsBridge) - 模仿微信webview的JsBridge，安全方便的实现js和Java的互相调用，主要通过loadUrl和shouldOverrideUrl实现。
 * [android-best-practices](https://github.com/futurice/android-best-practices) - android最佳实践。
 * [Sample Of All Samples](https://github.com/MostafaGazar/soas) - 提供大部分Android5.0组件的示例应用。
+* [Android-Package-Channel](https://github.com/s1rius/Android-Package-Channel) - 美团网做的把Android多渠道打包工具，打包时间缩短到一分钟。
+
 
 
 ========
