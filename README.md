@@ -8,10 +8,14 @@ TimLiu-Android
     
 - [动画](#动画)
 
-- [响应式编程](#响应式编程)
+
 
 - [网络相关](#网络相关)
-    
+
+- [响应式编程](#响应式编程)
+
+- [地图](#地图)
+
 - [数据库](#数据库)
 - [图像浏览及处理](#图像浏览及处理)
 - [测试及调试](#测试及调试)
@@ -82,6 +86,10 @@ TimLiu-Android
 ##### 网络连接
 
 
+========
+##### 网络测试
+
+========
 ##### 图像获取
 * [glide](https://github.com/bumptech/glide) - glide 。
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Universal Image Loader 是一个强大的、可高度定制的图片缓存，简称：UIL，可以高度配置的网络图片缓存库，非常灵活，用户量最多 。
@@ -91,13 +99,14 @@ TimLiu-Android
 * [enif](code.google.com/p/enif/) - enif 。
 
 
-##### 响应式编程
+#### 响应式编程
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 。
-* 
+
 
 
 ========
-##### 网络测试
+#### 地图
+* [百度地图](http://www.eoeandroid.com/thread-568507-1-1.html) - Android百度地图 线路规划，模拟运动轨迹，及全景效果。
 
 
 ========
