@@ -63,6 +63,8 @@ TimLiu-Android
 * [AwesomeText](https://github.com/JMPergar/AwesomeText) - 简化TextViews中Spans使用的库。 
 * [dialogplus](https://github.com/orhanobut/dialogplus) - 一个简单容易使用的对话框——DialogPlus。 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) - Material Design风格Dialogs。 
+* [CardView](https://github.com/chiemy/CardView) - 3d卡片效果-国人。
+
 
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
@@ -152,6 +154,8 @@ TimLiu-Android
 * [Android-Package-Channel](https://github.com/s1rius/Android-Package-Channel) - 美团网做的把Android多渠道打包工具，打包时间缩短到一分钟。
 * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 一个常见设计模式的java实现。
+* [PreferenceInjector](https://github.com/denley/PreferenceInjector) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
+
 
 ========
 ### UI资源
