@@ -59,6 +59,8 @@ TimLiu-Android
 * [AwesomeText](https://github.com/JMPergar/AwesomeText) - 简化TextViews中Spans使用的库。 
 
 ##### 下拉刷新
+* [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
+* [DragTopLayout](https://github.com/chenupt/DragTopLayout) - 实现整个layout下拉刷新。
 
 ##### 模糊效果
 
