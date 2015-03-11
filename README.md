@@ -21,6 +21,7 @@ TimLiu-Android
 - [测试及调试](#测试及调试)
 - [消息推送](#消息推送)
 - [其他](#其他)
+- [收集android上开源的酷炫的交互动画和视觉效果](#收集android上开源的酷炫的交互动画和视觉效果)
 - [UI资源](#UI资源)
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
@@ -155,6 +156,10 @@ TimLiu-Android
 * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 一个常见设计模式的java实现。
 * [PreferenceInjector](https://github.com/denley/PreferenceInjector) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
+
+========
+### 收集android上开源的酷炫的交互动画和视觉效果
+* [酷炫的交互动画和视觉效果](https://github.com/Rano1/Interactive-animation/blob/master/README.md) - 描述：收集android上开源的酷炫的交互动画和视觉效果。1.交互篇，2.视觉篇。
 
 
 ========
