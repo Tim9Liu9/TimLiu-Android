@@ -136,6 +136,7 @@ TimLiu-Android
 
 ========
 #### 测试及调试
+* [DevelopQuickSetting](https://github.com/kyze8439690/DevelopQuickSetting) - 快速开启关闭开发者设置的工具，提供了app界面和桌面widget，能快速打开关闭overdraw，layout border，gpu rendering，adb wifi，不保存activity实例等功能。
 
 
 
