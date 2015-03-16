@@ -133,6 +133,7 @@ TimLiu-Android
 * [CropImageView](https://github.com/cesards/CropImageView) - 原生ImageView只支持centerCrop，这里有支持9个方向裁剪的ImageView。
 * [DrawableView](https://github.com/PaNaVTEC/DrawableView) - DrawableView实现画板功能，可以改变画笔粗细，颜色，支持撤销功能。
 * [ImageCoverFlow](https://github.com/dolphinwang/ImageCoverFlow) - ImageCoverFlow效果不错的画廊控件 可以设置画廊一次可见图片的张数，和其他第三方Gallery控件不同的是，该控件直接继承自View，而不是sdk中的Gallery控件。
+* [FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow) - 支持Item切换动画效果的类似Gallery View。[改进版本](https://github.com/LittleLiByte/GlFancyCoverFlow)可以无限轮播，可以选择自动轮播或者 手动滑动。
 
 
 ========
