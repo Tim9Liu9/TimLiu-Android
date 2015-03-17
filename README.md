@@ -167,6 +167,8 @@ TimLiu-Android
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 一个常见设计模式的java实现。
 * [PreferenceInjector](https://github.com/denley/PreferenceInjector) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
 * [prettytime](http://www.ocpsoft.org/prettytime/) - 一个实用的人性化的时间显示，比如：几分钟前，几天前。
+* [Material-Movies](https://github.com/saulmm/Material-Movies) - Material Design 下的Movie App（电影展示），可供学习，或者直接二次开发。
+* [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts) - 充满技术含量的一个 Contact App（联系人）。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
