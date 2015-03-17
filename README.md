@@ -66,7 +66,8 @@ TimLiu-Android
 * [dialogplus](https://github.com/orhanobut/dialogplus) - 一个简单容易使用的对话框——DialogPlus。 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) - Material Design风格Dialogs。 
 * [CardView](https://github.com/chiemy/CardView) - 3d卡片效果-国人。
-* [FilterMenu](https://github.com/linroid/FilterMenu) - 这是一个自定义的圆形菜单，效果非常酷。。
+* [FilterMenu](https://github.com/linroid/FilterMenu) - 这是一个自定义的圆形菜单，效果非常酷。
+* [GridPasswordView](https://github.com/Jungerr/GridPasswordView) - 类似微信，支付宝支付时候的输入密码页面效果，带格子的密码输入框。
 
 
 ##### 下拉刷新
@@ -164,6 +165,7 @@ TimLiu-Android
 * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 一个常见设计模式的java实现。
 * [PreferenceInjector](https://github.com/denley/PreferenceInjector) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
+* [prettytime](http://www.ocpsoft.org/prettytime/) - 一个实用的人性化的时间显示，比如：几分钟前，几天前。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
