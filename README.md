@@ -68,6 +68,7 @@ TimLiu-Android
 * [CardView](https://github.com/chiemy/CardView) - 3d卡片效果-国人。
 * [FilterMenu](https://github.com/linroid/FilterMenu) - 这是一个自定义的圆形菜单，效果非常酷。
 * [GridPasswordView](https://github.com/Jungerr/GridPasswordView) - 类似微信，支付宝支付时候的输入密码页面效果，带格子的密码输入框。
+* [PersistentSearch](https://github.com/Quinny898/PersistentSearch) - 模仿Google Now, Google Maps Google Play的SearchBar，下拉列表匹配、录音。
 
 
 ##### 下拉刷新
