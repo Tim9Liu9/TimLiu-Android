@@ -70,6 +70,7 @@ TimLiu-Android
 * [GridPasswordView](https://github.com/Jungerr/GridPasswordView) - 类似微信，支付宝支付时候的输入密码页面效果，带格子的密码输入框。
 * [PersistentSearch](https://github.com/Quinny898/PersistentSearch) - 模仿Google Now, Google Maps Google Play的SearchBar，下拉列表匹配、录音。
 * [Droppy](https://github.com/shehabic/Droppy) - Android 下简洁好看的 Dropdown 菜单。
+* [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - 这是一个终极的 RecyclerView，有下拉刷新、滑动删除、拖拽、加载更多、丰富动画等功能。
 
 
 ##### 下拉刷新
@@ -96,7 +97,7 @@ TimLiu-Android
 ========
 #### 网络相关
 ##### 网络连接
-
+* [ion](https://github.com/koush/ion) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
 
 ========
 ##### 网络测试
@@ -171,6 +172,8 @@ TimLiu-Android
 * [Material-Movies](https://github.com/saulmm/Material-Movies) - Material Design 下的Movie App（电影展示），可供学习，或者直接二次开发。
 * [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts) - 充满技术含量的一个 Contact App（联系人）。
 * [RedEnvelopeAssistant](https://github.com/waylife/RedEnvelopeAssistant) - 完全免费开源的抢红包软件、做这个软件纯粹是发现Android的模拟点击十分好玩，然后顺道写了一个，有此基础，可以再扩展其他的很多模拟点击程序 。
+* [superCleanMaster](https://github.com/joyoyao/superCleanMaster) -  一键清理开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
@@ -325,6 +328,7 @@ DEMO演示：
 ### UI资源
 * [fontawesome](http://fontawesome.io/icons/) - Font-Awesome图标。
 * [material-design-responsive-design](http://www.uisdc.com/material-design-responsive-design) - 深聊Material Design复杂响应式设计，[comprehensive-material-design-note](http://www.uisdc.com/comprehensive-material-design-note) - 帮你全面彻底搞定Material design的学习笔记。
+* [Iconics](https://github.com/mikepenz/Android-Iconics) - 这是一个可以让你在你的项目中使用几乎任何字体图标的库。默认包含 FontAwesome 和 Material Design Icons 还包含 Meteocons 插件。你甚至可以添加任何你自定义的字体图标（typeface）。 
 
 
 ========
