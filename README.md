@@ -165,6 +165,7 @@ TimLiu-Android
 * [android-best-practices](https://github.com/futurice/android-best-practices) - android最佳实践。
 * [Sample Of All Samples](https://github.com/MostafaGazar/soas) - 提供大部分Android5.0组件的示例应用。
 * [Android-Package-Channel](https://github.com/s1rius/Android-Package-Channel) - 美团网做的把Android多渠道打包工具，打包时间缩短到一分钟。
+* [Android-package_tool](https://github.com/ahui2823/package_tool) - 该工程用于编译多渠道Android应用，替换相应的标签，然后重新打包，用perl脚本实现。 
 * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 一个常见设计模式的java实现。
 * [PreferenceInjector](https://github.com/denley/PreferenceInjector) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
