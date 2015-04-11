@@ -76,6 +76,7 @@ TimLiu-Android
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
 * [DragTopLayout](https://github.com/chenupt/DragTopLayout) - 实现整个layout下拉刷新。
+* [ZrcListView](https://github.com/zarics/ZrcListView) - 一个顺滑又漂亮的Android下拉刷新与加载更多列表组件，增加下拉刷新及滚动到底部自动加载的功能；增加越界回弹效果；增加自定义列表项动画的功能。
 
 ##### 模糊效果
 
@@ -175,6 +176,7 @@ TimLiu-Android
 * [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts) - 充满技术含量的一个 Contact App（联系人）。
 * [RedEnvelopeAssistant](https://github.com/waylife/RedEnvelopeAssistant) - 完全免费开源的抢红包软件、做这个软件纯粹是发现Android的模拟点击十分好玩，然后顺道写了一个，有此基础，可以再扩展其他的很多模拟点击程序 。
 * [superCleanMaster](https://github.com/joyoyao/superCleanMaster) -  一键清理开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+* [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper) - 切换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
 
 
 ========
