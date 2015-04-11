@@ -115,7 +115,7 @@ TimLiu-Android
 * [ImageLoader](https://github.com/novoda/ImageLoader) - ImageLoader 。
 * [Volley](https://github.com/mcxiaoke/android-volley) - Volley 综合框架,包含图片部分。
 * [enif](code.google.com/p/enif/) - enif 。
-
+* [wqgallery](https://github.com/wqandroid/wqgallery) - wqgallery实现类似微信选择照片功能，可以通过相机或相册选择，支持单张裁剪，支持单选模式、支持多选模式。
 
 #### 响应式编程
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 。
