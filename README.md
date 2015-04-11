@@ -71,6 +71,7 @@ TimLiu-Android
 * [PersistentSearch](https://github.com/Quinny898/PersistentSearch) - 模仿Google Now, Google Maps Google Play的SearchBar，下拉列表匹配、录音。
 * [Droppy](https://github.com/shehabic/Droppy) - Android 下简洁好看的 Dropdown 菜单。
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - 这是一个终极的 RecyclerView，有下拉刷新、滑动删除、拖拽、加载更多、丰富动画等功能。
+ * [android-satellite-menu](http://www.akaifa.com/code/47) - 类似与path按钮的library ，点击主按钮，弹出子按钮，弹出和消失都有不错的动画。使用的时候在xml中引用自定义组件，代码中可以自己添加按钮。 
 
 
 ##### 下拉刷新
@@ -94,6 +95,9 @@ TimLiu-Android
 * [SpringIndicator](https://github.com/chenupt/SpringIndicator) - 模仿Morning Routine的引导页效果SpringIndicator；基于模仿红点拖拽的Demo实现：[BezierDemo](https://github.com/chenupt/BezierDemo)；sample中使用到 快速创建ViewPager和ListView等的第三方库：[MultipleModel](https://github.com/chenupt/MultipleModel)。
 * [XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim) - 国内开发者， 华丽酷炫欢迎引导界面 动画没有之一。 
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) - Material风格动画，可以定义两个Activity之间的动画。
+* [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) -  android-shapeLoadingView实现高仿新版58 加载动画，loading。
+* [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) -  android-shapeLoadingView实现高仿新版58 加载动画，loading。
+
 
 ========
 #### 网络相关
