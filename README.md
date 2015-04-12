@@ -79,6 +79,7 @@ TimLiu-Android
 * [StatedFragment](https://github.com/nuuneoi/StatedFragment) - 保存Fragment的状态。
 * [PopoverView](https://github.com/lupidan/PopoverView) - 一个模仿iOS UIPopoverController效果的控件。
 * [CreditsRoll](https://github.com/frakbot/CreditsRoll) - 实现星球大战字幕效果。
+* [MatchView](https://github.com/Rogero0o/MatchView) - 电影级TextView动画效果，绝对惊艳你的双眼！。
 
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
