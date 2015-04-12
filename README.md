@@ -116,6 +116,7 @@ TimLiu-Android
 * [ion](https://github.com/koush/ion) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
 * [多线程下载](http://www.eoeandroid.com/thread-564501-1-1.html) - Android 实现多线程下载 完美代码。
 * [opandroid](https://github.com/openpeer/opandroid) - android p2p的开源实现。
+* [okio](https://github.com/square/okio) - square出的Okio这个库，尤其擅长处理二进制数据。如果觉得Java的输入输出流实在太复杂啰嗦，不妨试试Okio。
 
 ========
 ##### 网络测试
