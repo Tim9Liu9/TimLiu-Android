@@ -72,7 +72,9 @@ TimLiu-Android
 * [Droppy](https://github.com/shehabic/Droppy) - Android 下简洁好看的 Dropdown 菜单。
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - 这是一个终极的 RecyclerView，有下拉刷新、滑动删除、拖拽、加载更多、丰富动画等功能。
 * [android-satellite-menu](http://www.akaifa.com/code/47) - 类似与path按钮的library ，点击主按钮，弹出子按钮，弹出和消失都有不错的动画。使用的时候在xml中引用自定义组件，代码中可以自己添加按钮。 
-* [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - SmartTabLayout实现viewpgaer页面导航效果。
+* [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - SmartTabLayout实现viewpgaer页面导航效果，简化并实现android的TabHost效果，顶部滑动tab，引导页，可以自定义tab样式，过渡效果 实现网易tab，微博tab，微信tab等so easy。 集成了SpringIndicator拖拽效果 。
+* [richeditor](https://github.com/wasabeef/richeditor-android) - RichEditor for Android 是 Android 平台下一个所见即所得的文本编辑器控件。
+
 
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
@@ -135,6 +137,7 @@ TimLiu-Android
 * [ActiveDriod](https://github.com/pardom/ActiveAndroid) - ActiveDriod也不错 [官网](http://www.activeandroid.com/)。
 * [ORMDroid](https://github.com/roscopeco/ormdroid) - ormdroid 。
 * [sqlbrite](https://github.com/square/sqlbrite) - 良心企业Square的又一开源项目，当你不想给用ContentProvider，只想简单监听SQLite表增删改的数据变更时可以试试它。
+* [sqlbrite](https://github.com/LuckyJayce/DBExecutor) - DBExecutor android ORM数据库 1.使用了读写锁，支持多线程操作数据。 2.支持操作多个数据库 3.支持事务 4.缓存Sql，缓存表结构。
 
 ========
 #### 图像浏览及处理
