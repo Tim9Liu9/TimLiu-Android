@@ -99,14 +99,14 @@ TimLiu-Android
 * [XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim) - 国内开发者， 华丽酷炫欢迎引导界面 动画没有之一。 
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) - Material风格动画，可以定义两个Activity之间的动画。
 * [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) - android-shapeLoadingView实现高仿新版58 加载动画，loading。
-* [多线程下载](https://github.com/zzz40500/android-shapeLoadingView) - Android 实现多线程下载 完美代码。
+* [动画特效大全](http://www.eoeandroid.com/thread-562739-1-1.html) - Android 动画特效大全。
 
 
 ========
 #### 网络相关
 ##### 网络连接
 * [ion](https://github.com/koush/ion) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
-* [ion](http://www.eoeandroid.com/thread-564501-1-1.html) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
+* [多线程下载](http://www.eoeandroid.com/thread-564501-1-1.html) - Android 实现多线程下载 完美代码。
 
 ========
 ##### 网络测试
