@@ -20,6 +20,7 @@ TimLiu-Android
 - [图像浏览及处理](#图像浏览及处理)
 - [测试及调试](#测试及调试)
 - [消息推送](#消息推送)
+- [完整项目](#完整项目) 
 - [其他](#其他)
 - [收集android上开源的酷炫的交互动画和视觉效果](#收集android上开源的酷炫的交互动画和视觉效果)
 - [UI资源](#UI资源)
@@ -97,14 +98,15 @@ TimLiu-Android
 * [SpringIndicator](https://github.com/chenupt/SpringIndicator) - 模仿Morning Routine的引导页效果SpringIndicator；基于模仿红点拖拽的Demo实现：[BezierDemo](https://github.com/chenupt/BezierDemo)；sample中使用到 快速创建ViewPager和ListView等的第三方库：[MultipleModel](https://github.com/chenupt/MultipleModel)。
 * [XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim) - 国内开发者， 华丽酷炫欢迎引导界面 动画没有之一。 
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) - Material风格动画，可以定义两个Activity之间的动画。
-* [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) -  android-shapeLoadingView实现高仿新版58 加载动画，loading。
-* [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) -  android-shapeLoadingView实现高仿新版58 加载动画，loading。
+* [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) - android-shapeLoadingView实现高仿新版58 加载动画，loading。
+* [多线程下载](https://github.com/zzz40500/android-shapeLoadingView) - Android 实现多线程下载 完美代码。
 
 
 ========
 #### 网络相关
 ##### 网络连接
 * [ion](https://github.com/koush/ion) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
+* [ion](http://www.eoeandroid.com/thread-564501-1-1.html) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
 
 ========
 ##### 网络测试
@@ -163,6 +165,11 @@ TimLiu-Android
 ##### 客户端
 
 ##### 服务器端
+
+========
+#### 完整项目
+* [新闻客户端](http://www.eoeandroid.com/thread-569074-1-1.html) - 一个符合最新MaterialDesign标准的开源新闻客户端。
+
 
 #### 其他
 * [java-zhconverter](http://code.google.com/p/java-zhconverter/) - java-zhconverter是一个简繁体中文互换的Java开源类库。
