@@ -192,7 +192,7 @@ TimLiu-Android
 * [RedEnvelopeAssistant](https://github.com/waylife/RedEnvelopeAssistant) - 完全免费开源的抢红包软件、做这个软件纯粹是发现Android的模拟点击十分好玩，然后顺道写了一个，有此基础，可以再扩展其他的很多模拟点击程序 。
 * [superCleanMaster](https://github.com/joyoyao/superCleanMaster) -  一键清理开源版，包括内存加速，缓存清理，自启管理，软件管理等。
 * [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper) - 切换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
-
+* [Android最佳实践](http://android.jobbole.com/80684/) - 安卓最佳实践（1）：安卓开发。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
