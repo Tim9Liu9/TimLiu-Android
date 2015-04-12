@@ -75,7 +75,7 @@ TimLiu-Android
 * [android-satellite-menu](http://www.akaifa.com/code/47) - 类似与path按钮的library ，点击主按钮，弹出子按钮，弹出和消失都有不错的动画。使用的时候在xml中引用自定义组件，代码中可以自己添加按钮。 
 * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - SmartTabLayout实现viewpgaer页面导航效果，简化并实现android的TabHost效果，顶部滑动tab，引导页，可以自定义tab样式，过渡效果 实现网易tab，微博tab，微信tab等so easy。 集成了SpringIndicator拖拽效果 。
 * [richeditor](https://github.com/wasabeef/richeditor-android) - RichEditor for Android 是 Android 平台下一个所见即所得的文本编辑器控件。
-
+* [easyloadingbtn](https://github.com/DevinShine/easyloadingbtn) - 模仿了一个Dribbble上的Material Design效果，环形loading， 进度条、进度圈。
 
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
@@ -107,6 +107,7 @@ TimLiu-Android
 ##### 网络连接
 * [ion](https://github.com/koush/ion) - 一个异步网络请求和图片加载的库，一个库能搞定几乎所有的网络请求。
 * [多线程下载](http://www.eoeandroid.com/thread-564501-1-1.html) - Android 实现多线程下载 完美代码。
+* [opandroid](https://github.com/openpeer/opandroid) - android p2p的开源实现。
 
 ========
 ##### 网络测试
