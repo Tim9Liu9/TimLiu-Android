@@ -76,13 +76,19 @@ TimLiu-Android
 * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - SmartTabLayout实现viewpgaer页面导航效果，简化并实现android的TabHost效果，顶部滑动tab，引导页，可以自定义tab样式，过渡效果 实现网易tab，微博tab，微信tab等so easy。 集成了SpringIndicator拖拽效果 。
 * [richeditor](https://github.com/wasabeef/richeditor-android) - RichEditor for Android 是 Android 平台下一个所见即所得的文本编辑器控件。
 * [easyloadingbtn](https://github.com/DevinShine/easyloadingbtn) - 模仿了一个Dribbble上的Material Design效果，环形loading， 进度条、进度圈。
+* [StatedFragment](https://github.com/nuuneoi/StatedFragment) - 保存Fragment的状态。
+* [PopoverView](https://github.com/lupidan/PopoverView) - 一个模仿iOS UIPopoverController效果的控件。
+* [CreditsRoll](https://github.com/frakbot/CreditsRoll) - 实现星球大战字幕效果。
 
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
 * [DragTopLayout](https://github.com/chenupt/DragTopLayout) - 实现整个layout下拉刷新。
 * [ZrcListView](https://github.com/zarics/ZrcListView) - 一个顺滑又漂亮的Android下拉刷新与加载更多列表组件，增加下拉刷新及滚动到底部自动加载的功能；增加越界回弹效果；增加自定义列表项动画的功能。
 
+
 ##### 模糊效果
+* [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
+
 
 * [Android Wheel](https://code.google.com/p/android-wheel/) - 带有刻度的旋转器：日历、三级联动
 
@@ -158,7 +164,7 @@ TimLiu-Android
 * [DevelopQuickSetting](https://github.com/kyze8439690/DevelopQuickSetting) - 快速开启关闭开发者设置的工具，提供了app界面和桌面widget，能快速打开关闭overdraw，layout border，gpu rendering，adb wifi，不保存activity实例等功能。
 * [decompileandroid](http://www.decompileandroid.com/) - 在线反编译apk文件。
 * [Androguard](https://github.com/androguard/androguard) - Androguard使用Python写的一系列逆向工具集，功能很强大哦，对逆向工程感兴趣的小伙伴可以这个系列，[教程](http://www.technotalkative.com/part-1-reverse-engineering-using-androguard/)。
-
+* [logger](https://github.com/orhanobut/logger) - 一个简单、漂亮、功能强大的Android日志程序。
 
 
 ========
@@ -170,6 +176,7 @@ TimLiu-Android
 ========
 #### 完整项目
 * [新闻客户端](http://www.eoeandroid.com/thread-569074-1-1.html) - 一个符合最新MaterialDesign标准的开源新闻客户端。
+* [materialistic](https://github.com/hidroh/materialistic) - Material Desgin风格的Hacker News客户端。。
 
 
 #### 其他
@@ -193,8 +200,8 @@ TimLiu-Android
 * [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper) - 切换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
 * [android-best-practices](https://github.com/futurice/android-best-practices) - android最佳实践
 * [Android最佳实践](http://android.jobbole.com/80684/) - 安卓最佳实践（1）：安卓开发--中文。
-* [如何安装ACRA](http://blog.csdn.net/chen52671/article/details/44751347) - 如何安装ACRA-一个Android应用Crash跟踪系统
-—在自己的服务器上。 
+* [如何安装ACRA](http://blog.csdn.net/chen52671/article/details/44751347) - 如何安装ACRA-一个Android应用Crash跟踪系统—在自己的服务器上。 
+* [Android ocr识别文字介绍 ](http://blog.csdn.net/love_xsq/article/details/44616925) - Android ocr识别文字介绍 。 
 
 
 ========
