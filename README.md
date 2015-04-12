@@ -106,7 +106,7 @@ TimLiu-Android
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) - Material风格动画，可以定义两个Activity之间的动画。
 * [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) - android-shapeLoadingView实现高仿新版58 加载动画，loading。
 * [动画特效大全](http://www.eoeandroid.com/thread-562739-1-1.html) - Android 动画特效大全。
-
+* [一个绚丽的loading](http://blog.csdn.net/tianjian4592/article/details/44538605) - 一个绚丽的loading动效分析与实现。
 
 ========
 #### 网络相关
@@ -117,12 +117,14 @@ TimLiu-Android
 
 ========
 ##### 网络测试
+* [augmented-traffic-control](https://github.com/facebook/augmented-traffic-control) - Facebook宣布开源移动网络测试工具ATC，该工具支持利用Wi-Fi网络模拟2G、2.5G、3G以及LTE 4G移动网络环境，让测试工程师们能够快速对智能手机和App在不同国家地区和应用环境下的性能表现进行测试。
 
 ========
 ##### 图像获取
 * [glide](https://github.com/bumptech/glide) - glide 。
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Universal Image Loader 是一个强大的、可高度定制的图片缓存，简称：UIL，可以高度配置的网络图片缓存库，非常灵活，用户量最多 。
 * [picasso](https://github.com/square/picasso) - picasso 功能单一，没有缓存过期，同androidQuery一样链式调用，载入本地文件速度慢（没有生成thumbnails） ,[Picasso and Android-Universal-Image-Loader](http://donal-tong.github.io/blog/2014/05/21/picasso-and-auil/),另外的一些诸如裁剪图片：Picasso.with(context)  .load(url)  .resize(50, 50)  .centerCrop()  .into(imageView)。
+* [fresco](https://github.com/facebook/fresco) - Facebook 又放出的一个新项目，一个类似 Picasso, Glide 的库，不过比他们做的更好。 强烈推荐！
 * [ImageLoader](https://github.com/novoda/ImageLoader) - ImageLoader 。
 * [Volley](https://github.com/mcxiaoke/android-volley) - Volley 综合框架,包含图片部分。
 * [enif](code.google.com/p/enif/) - enif 。
@@ -136,7 +138,7 @@ TimLiu-Android
 ========
 #### 地图
 * [百度地图](http://www.eoeandroid.com/thread-568507-1-1.html) - Android百度地图 线路规划，模拟运动轨迹，及全景效果。
-
+* [AirMapView](https://github.com/airbnb/AirMapView) - 支持多个本地地图提供者包括谷歌地图V2和亚马逊地图V2。如果设备没有任何受支持的本地地图提供者,AirMapView会回退到基于web的地图提供者(目前谷歌地图)。
 
 ========
 #### 数据库
@@ -201,8 +203,8 @@ TimLiu-Android
 * [android-best-practices](https://github.com/futurice/android-best-practices) - android最佳实践
 * [Android最佳实践](http://android.jobbole.com/80684/) - 安卓最佳实践（1）：安卓开发--中文。
 * [如何安装ACRA](http://blog.csdn.net/chen52671/article/details/44751347) - 如何安装ACRA-一个Android应用Crash跟踪系统—在自己的服务器上。 
-* [Android ocr识别文字介绍 ](http://blog.csdn.net/love_xsq/article/details/44616925) - Android ocr识别文字介绍 。 
-
+* [Android ocr识别文字介绍](http://blog.csdn.net/love_xsq/article/details/44616925) - Android ocr识别文字介绍 。 
+* [DaVinci](https://github.com/florent37/DaVinci) - DaVinci是一个适用于Android Wear平台的图片下载和缓存library。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
