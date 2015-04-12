@@ -71,8 +71,8 @@ TimLiu-Android
 * [PersistentSearch](https://github.com/Quinny898/PersistentSearch) - 模仿Google Now, Google Maps Google Play的SearchBar，下拉列表匹配、录音。
 * [Droppy](https://github.com/shehabic/Droppy) - Android 下简洁好看的 Dropdown 菜单。
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - 这是一个终极的 RecyclerView，有下拉刷新、滑动删除、拖拽、加载更多、丰富动画等功能。
- * [android-satellite-menu](http://www.akaifa.com/code/47) - 类似与path按钮的library ，点击主按钮，弹出子按钮，弹出和消失都有不错的动画。使用的时候在xml中引用自定义组件，代码中可以自己添加按钮。 
-
+* [android-satellite-menu](http://www.akaifa.com/code/47) - 类似与path按钮的library ，点击主按钮，弹出子按钮，弹出和消失都有不错的动画。使用的时候在xml中引用自定义组件，代码中可以自己添加按钮。 
+* [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - SmartTabLayout实现viewpgaer页面导航效果。
 
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
