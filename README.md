@@ -392,6 +392,8 @@ DEMO演示：
 * [Java资源大全](http://www.importnew.com/14429.html) - 国外程序员整理的Java资源大全。
 
 * [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) - Android开发技术前线 ( android-tech-frontier )，一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目,让我们的技术跟上国际步伐。。
+* [10个常用工具类](http://android.jobbole.com/80826/) - Android快速开发系列 10个常用工具类：1、日志工具类L.java；2、Toast统一管理类；3、SharedPreferences封装类SPUtils；4、单位转换类 DensityUtils；5、SD卡相关辅助类 SDCardUtils；6、屏幕相关辅助类 ScreenUtils；7、App相关辅助类；8、软键盘相关辅助类KeyBoardUtils；9、网络相关辅助类 NetUtils；10、Http相关辅助类 HttpUtils。
+* [19个Android开发工具](http://blog.jobbole.com/67169/) - 19个Android 开发工具：1、XAppDbg；2、ChkBugReport；3、APKAnalyser；4、AppXplore；5、Memory Analyzer（MAT）；6、Eclipse插件SQLiteManger；7、Robotium；8、ACRA；9、Android Layout Binder；10、Spoon；11、Android Content Provider代码生成器；12、AndroidKickStartR；13、Android Holo颜色生成器；14、ActionBar风格生成器；15、Asset Studio；16、little eye labs；17、Droid Inspector；18、Android Button Maker；19、jsonschema2pojo。
 
 
 
