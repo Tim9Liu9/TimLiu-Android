@@ -6,6 +6,7 @@ TimLiu-Android
 ###  目录
 - [UI](#UI)
   
+    - [卫星菜单](#卫星菜单)
     - [节选器](#节选器)
     - [下拉刷新](#下拉刷新)
     - [模糊效果](#模糊效果)
@@ -77,7 +78,6 @@ TimLiu-Android
 * [PersistentSearch](https://github.com/Quinny898/PersistentSearch) - 模仿Google Now, Google Maps Google Play的SearchBar，下拉列表匹配、录音。
 * [Droppy](https://github.com/shehabic/Droppy) - Android 下简洁好看的 Dropdown 菜单。
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - 这是一个终极的 RecyclerView，有下拉刷新、滑动删除、拖拽、加载更多、丰富动画等功能。
-* [android-satellite-menu](http://www.akaifa.com/code/47) - 类似与path按钮的library ，点击主按钮，弹出子按钮，弹出和消失都有不错的动画。使用的时候在xml中引用自定义组件，代码中可以自己添加按钮。 
 * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - SmartTabLayout实现viewpgaer页面导航效果，简化并实现android的TabHost效果，顶部滑动tab，引导页，可以自定义tab样式，过渡效果 实现网易tab，微博tab，微信tab等so easy。 集成了SpringIndicator拖拽效果 。
 * [richeditor](https://github.com/wasabeef/richeditor-android) - RichEditor for Android 是 Android 平台下一个所见即所得的文本编辑器控件。
 * [easyloadingbtn](https://github.com/DevinShine/easyloadingbtn) - 模仿了一个Dribbble上的Material Design效果，环形loading， 进度条、进度圈。
@@ -86,6 +86,11 @@ TimLiu-Android
 * [CreditsRoll](https://github.com/frakbot/CreditsRoll) - 实现星球大战字幕效果。
 * [MatchView](https://github.com/Rogero0o/MatchView) - 电影级TextView动画效果，绝对惊艳你的双眼！。
 * [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) - listView侧滑删除效果：SwipeMenuListView。
+
+###### 卫星菜单
+* [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
+* [ArcMenu](https://github.com/daCapricorn/ArcMenu) - 实现弹出式按钮群（菜单）。点击主按钮，会在住按钮旁边弹出多个按钮（菜单）。弹出的按钮有两种排列形式，一种是围绕着主按钮成圆弧形排列，一种是和主按钮并排成一字型排列， 仿Path 2.0 (for iOS)。
+* [Radial Menu Widget](http://d.apkbus.com/android/Radial-Menu-Widget/52405aca6803fa2822000002) - 实现各种圆形或者半圆形菜单，以及圆形进度条。
 
 ###### 节选器
 * [SegmentView](https://github.com/bboyfeiyu/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
@@ -407,7 +412,7 @@ DEMO演示：
 * [10个常用工具类](http://android.jobbole.com/80826/) - Android快速开发系列 10个常用工具类：1、日志工具类L.java；2、Toast统一管理类；3、SharedPreferences封装类SPUtils；4、单位转换类 DensityUtils；5、SD卡相关辅助类 SDCardUtils；6、屏幕相关辅助类 ScreenUtils；7、App相关辅助类；8、软键盘相关辅助类KeyBoardUtils；9、网络相关辅助类 NetUtils；10、Http相关辅助类 HttpUtils。
 * [19个Android开发工具](http://blog.jobbole.com/67169/) - 19个Android 开发工具：1、XAppDbg；2、ChkBugReport；3、APKAnalyser；4、AppXplore；5、Memory Analyzer（MAT）；6、Eclipse插件SQLiteManger；7、Robotium；8、ACRA；9、Android Layout Binder；10、Spoon；11、Android Content Provider代码生成器；12、AndroidKickStartR；13、Android Holo颜色生成器；14、ActionBar风格生成器；15、Asset Studio；16、little eye labs；17、Droid Inspector；18、Android Button Maker；19、jsonschema2pojo。
 
-
+* [apkbus](http://d.apkbus.com/) - code4app 与 apkbus整理的Android开源资源分类。
 
 ##### 中文开发博客列表
 * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
