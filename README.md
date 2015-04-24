@@ -87,12 +87,12 @@ TimLiu-Android
 * [MatchView](https://github.com/Rogero0o/MatchView) - 电影级TextView动画效果，绝对惊艳你的双眼！。
 * [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) - listView侧滑删除效果：SwipeMenuListView。
 
-###### 卫星菜单
+##### 卫星菜单
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
 * [ArcMenu](https://github.com/daCapricorn/ArcMenu) - 实现弹出式按钮群（菜单）。点击主按钮，会在住按钮旁边弹出多个按钮（菜单）。弹出的按钮有两种排列形式，一种是围绕着主按钮成圆弧形排列，一种是和主按钮并排成一字型排列， 仿Path 2.0 (for iOS)。
 * [Radial Menu Widget](http://d.apkbus.com/android/Radial-Menu-Widget/52405aca6803fa2822000002) - 实现各种圆形或者半圆形菜单，以及圆形进度条。
 
-###### 节选器
+##### 节选器
 * [SegmentView](https://github.com/bboyfeiyu/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
 * [SHSegmentControl](https://github.com/7heaven/SHSegmentControl) - 类似iOS的Segment Control控件，此种方式的可定制化更好。
 * [android-segmentedradiobutton](https://github.com/vinc3m1/android-segmentedradiobutton) - 在Android中实现类似iOS的分段单选按钮（segmented control），本人以前项目一直使用，值得拥有。
