@@ -5,6 +5,8 @@ TimLiu-Android
 
 ###  目录
 - [UI](#UI)
+
+    - [节选器](#节选器)
     
 - [动画](#动画)
 
@@ -31,7 +33,7 @@ TimLiu-Android
 ========
 ### 具体内容 =============================
 ========
-#### UI
+##### UI
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - ui库，非常多的ui及特效。
 * [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) - 一个支持Material Design的PagerSlidingTabStrip。
 * [ChipsLibrary](https://github.com/AndroidDeveloperLB/ChipsLibrary) - 在Android EditText中实现打Tag功能。
@@ -81,6 +83,13 @@ TimLiu-Android
 * [CreditsRoll](https://github.com/frakbot/CreditsRoll) - 实现星球大战字幕效果。
 * [MatchView](https://github.com/Rogero0o/MatchView) - 电影级TextView动画效果，绝对惊艳你的双眼！。
 * [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) - listView侧滑删除效果：SwipeMenuListView。
+
+###### 节选器
+* [SegmentView](https://github.com/bboyfeiyu/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
+* [SHSegmentControl](https://github.com/7heaven/SHSegmentControl) - 类似iOS的Segment Control控件，此种方式的可定制化更好。
+* [android-segmentedradiobutton](https://github.com/vinc3m1/android-segmentedradiobutton) - 在Android中实现类似iOS的分段单选按钮（segmented control），本人以前项目一直使用，值得拥有。
+* [android-segmented-control](https://github.com/hoang8f/android-segmented-control) - RadioGroup实现类似ios的分段选择(UISegmentedControl)控件。
+
 
 ##### 下拉刷新
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
