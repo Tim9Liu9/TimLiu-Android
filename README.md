@@ -86,6 +86,8 @@ TimLiu-Android
 * [CreditsRoll](https://github.com/frakbot/CreditsRoll) - 实现星球大战字幕效果。
 * [MatchView](https://github.com/Rogero0o/MatchView) - 电影级TextView动画效果，绝对惊艳你的双眼！。
 * [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) - listView侧滑删除效果：SwipeMenuListView。
+* [AndroidFlowLayout](https://github.com/LyndonChin/AndroidFlowLayout) - A flow layout for Android。
+* [Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager) - Full screen slide pager to display images fetched from Internet by Picasso。
 
 ##### 卫星菜单
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
@@ -227,6 +229,8 @@ TimLiu-Android
 * [如何安装ACRA](http://blog.csdn.net/chen52671/article/details/44751347) - 如何安装ACRA-一个Android应用Crash跟踪系统—在自己的服务器上。 
 * [Android ocr识别文字介绍](http://blog.csdn.net/love_xsq/article/details/44616925) - Android ocr识别文字介绍 。 
 * [DaVinci](https://github.com/florent37/DaVinci) - DaVinci是一个适用于Android Wear平台的图片下载和缓存library。
+* [Point-of-Android](https://github.com/FX-Max/Point-of-Android) - Android 一些重要知识点解析整理 。
+
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
@@ -413,6 +417,7 @@ DEMO演示：
 * [19个Android开发工具](http://blog.jobbole.com/67169/) - 19个Android 开发工具：1、XAppDbg；2、ChkBugReport；3、APKAnalyser；4、AppXplore；5、Memory Analyzer（MAT）；6、Eclipse插件SQLiteManger；7、Robotium；8、ACRA；9、Android Layout Binder；10、Spoon；11、Android Content Provider代码生成器；12、AndroidKickStartR；13、Android Holo颜色生成器；14、ActionBar风格生成器；15、Asset Studio；16、little eye labs；17、Droid Inspector；18、Android Button Maker；19、jsonschema2pojo。
 
 * [apkbus](http://d.apkbus.com/) - code4app 与 apkbus整理的Android开源资源分类。
+* [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码。
 
 ##### 中文开发博客列表
 * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
