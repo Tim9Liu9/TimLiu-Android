@@ -25,6 +25,7 @@ TimLiu-Android
 
 - [数据库](#数据库)
 - [图像浏览及处理](#图像浏览及处理)
+- [视频音频处理](#视频音频处理)
 - [测试及调试](#测试及调试)
 - [消息推送](#消息推送)
 - [完整项目](#完整项目) 
@@ -96,6 +97,7 @@ TimLiu-Android
 * [ArcMenu](https://github.com/daCapricorn/ArcMenu) - 实现弹出式按钮群（菜单）。点击主按钮，会在住按钮旁边弹出多个按钮（菜单）。弹出的按钮有两种排列形式，一种是围绕着主按钮成圆弧形排列，一种是和主按钮并排成一字型排列， 仿Path 2.0 (for iOS)。
 * [Radial Menu Widget](http://d.apkbus.com/android/Radial-Menu-Widget/52405aca6803fa2822000002) - 实现各种圆形或者半圆形菜单，以及圆形进度条。
 * [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) - 卫星菜单。
+* [ElasticDownload](https://github.com/Tibolte/ElasticDownload) -  挺酷的下载进度条。
 
 ##### 节选器
 * [SegmentView](https://github.com/bboyfeiyu/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
@@ -187,6 +189,10 @@ TimLiu-Android
 * [ImageCoverFlow](https://github.com/dolphinwang/ImageCoverFlow) - ImageCoverFlow效果不错的画廊控件 可以设置画廊一次可见图片的张数，和其他第三方Gallery控件不同的是，该控件直接继承自View，而不是sdk中的Gallery控件。
 * [FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow) - 支持Item切换动画效果的类似Gallery View。[改进版本](https://github.com/LittleLiByte/GlFancyCoverFlow)可以无限轮播，可以选择自动轮播或者 手动滑动。
 
+========
+#### 视频音频处理
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。
+* [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) - 这里是Android上最好的开源弹幕引擎·烈焰弹幕使。
 
 ========
 #### 测试及调试
