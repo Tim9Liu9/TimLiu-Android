@@ -237,7 +237,7 @@ TimLiu-Android
 * [DaVinci](https://github.com/florent37/DaVinci) - DaVinci是一个适用于Android Wear平台的图片下载和缓存library。
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) - Android 一些重要知识点解析整理 。
 * [AppStoreLibrary](https://github.com/mcsong/AppStoreLibrary) - 检测是否在appstore安装了应用，搜索应用。
-
+* [LeakCanary](https://github.com/liaohuqiu/leakcanary-demo) - 利用此类库，排查内存泄露变得非常简单，[LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)，[LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/) 。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
