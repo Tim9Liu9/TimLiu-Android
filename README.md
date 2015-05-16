@@ -247,6 +247,8 @@ TimLiu-Android
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
 * [酷炫的交互动画和视觉效果](https://github.com/Rano1/Interactive-animation/blob/master/README.md) - 描述：收集android上开源的酷炫的交互动画和视觉效果。1.交互篇，2.视觉篇。
+* [Android酷炫实用的开源框架（UI框架）](http://www.androidchina.net/1992.html) - Android酷炫实用的开源框架（UI框架）25个。 
+
 
 交互篇
 ------
