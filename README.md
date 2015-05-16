@@ -88,6 +88,9 @@ TimLiu-Android
 * [SlidingMenu](https://github.com/xudafeng/SlidingMenu) - 炫酷侧滑菜单布局框架，iOS版本的实现：[SlideMenuView](https://github.com/xudafeng/SlideMenuView)。
 * [AndroidFlowLayout](https://github.com/LyndonChin/AndroidFlowLayout) - A flow layout for Android。
 * [Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager) - Full screen slide pager to display images fetched from Internet by Picasso。
+* [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - MaterialViewPager。
+* [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - FlipViewPager.Draco。
+
 
 ##### 卫星菜单
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
