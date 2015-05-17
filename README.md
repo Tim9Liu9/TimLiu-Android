@@ -213,7 +213,7 @@ TimLiu-Android
 * [新闻客户端](http://www.eoeandroid.com/thread-569074-1-1.html) - 一个符合最新MaterialDesign标准的开源新闻客户端。
 * [materialistic](https://github.com/hidroh/materialistic) - Material Desgin风格的Hacker News客户端。
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram 是一款专注于速度、安全的短信息应用，快速、简单、免费。Telegram 支持群组聊天，最高200人，最高支持分享1GB的视频，其它图片等等更是不在话下。而且所有信息全部支持同步。由于频发的隐私问题，所以 Telegram 也很注重通信安全。
-
+* [SuZhouTong-client-for-android](https://github.com/liuch930/SuZhouTong-client-for-android) - 苏州通android客户端，非常多的UI效果。
 
 #### 其他
 * [java-zhconverter](http://code.google.com/p/java-zhconverter/) - java-zhconverter是一个简繁体中文互换的Java开源类库。
