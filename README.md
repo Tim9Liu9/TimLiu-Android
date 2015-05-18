@@ -36,6 +36,7 @@ TimLiu-Android
 ### 具体内容 =============================
 ========
 ##### UI
+* [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - MaterialDesignCenter改名为Awesome-MaterialDesign，优化了布局，新增了不少库。
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - ui库，非常多的ui及特效。
 * [ChipsLibrary](https://github.com/AndroidDeveloperLB/ChipsLibrary) - 在Android EditText中实现打Tag功能。
 * [bitmapMesh](https://github.com/7heaven/bitmapMesh) - 拉窗帘效果。
@@ -224,6 +225,8 @@ TimLiu-Android
 * [JsBridge](https://github.com/lzyzsd/JsBridge) - 模仿微信webview的JsBridge，安全方便的实现js和Java的互相调用，主要通过loadUrl和shouldOverrideUrl实现。
 * [Sample Of All Samples](https://github.com/MostafaGazar/soas) - 提供大部分Android5.0组件的示例应用。
 * [Android-Package-Channel](https://github.com/s1rius/Android-Package-Channel) - 美团网做的把Android多渠道打包工具，打包时间缩短到一分钟，python脚本。
+* [fast-apk-packaging](http://www.race604.com/fast-apk-packaging/) - Android不需要重新编译打渠道包。
+* [android_gradle_script](https://github.com/lihei12345/android_gradle_script) - gradle批量打包脚本，用txt配置一下，就可以支持多个渠道打包，适合国内这种动不动上百个渠道包的环境。目前有个问题，一次打包脚本超过80个就会GC问题。
 * [Android-package_tool](https://github.com/ahui2823/package_tool) - 该工程用于编译多渠道Android应用，替换相应的标签，然后重新打包，用perl脚本实现。
 * [兰贝壳儿](http://www.orchidshell.com/) - Android多渠道打包解决方案(兰贝壳儿)，eclipse插件。 
 * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
@@ -244,6 +247,8 @@ TimLiu-Android
 * [AppStoreLibrary](https://github.com/mcsong/AppStoreLibrary) - 检测是否在appstore安装了应用，搜索应用。
 * [LeakCanary](https://github.com/liaohuqiu/leakcanary-demo) - 利用此类库，排查内存泄露变得非常简单，[LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)，[LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/) 。
 * [anko](https://github.com/JetBrains/anko) - 快速开发框架。
+* [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) - 通过对于原生Adapter的封装，产生了支持ListView，GridView，RecyclerView的简单通用的Adapter。这种方式将item变成独立的“视图”对象，方便操作，又增加了可扩展性。
+* [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap) - 一个Android MVP 模式实例项目。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
