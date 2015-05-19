@@ -91,6 +91,7 @@ TimLiu-Android
 * [Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager) - Full screen slide pager to display images fetched from Internet by Picasso。
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - MaterialViewPager。
 * [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - FlipViewPager.Draco。
+* [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) - 图片圆角、三角、五角、圆形、多角。
 
 
 ##### 卫星菜单
