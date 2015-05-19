@@ -88,6 +88,7 @@ TimLiu-Android
 * [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) - 分类侧滑菜单。
 * [SlidingMenu](https://github.com/xudafeng/SlidingMenu) - 炫酷侧滑菜单布局框架，iOS版本的实现：[SlideMenuView](https://github.com/xudafeng/SlideMenuView)。
 * [AndroidFlowLayout](https://github.com/LyndonChin/AndroidFlowLayout) - A flow layout for Android。
+* [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) - 取代TabHost，实现滑动tab，引导页等效果。
 * [Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager) - Full screen slide pager to display images fetched from Internet by Picasso。
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - MaterialViewPager。
 * [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - FlipViewPager.Draco。
