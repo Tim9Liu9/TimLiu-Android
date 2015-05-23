@@ -113,6 +113,7 @@ TimLiu-Android
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 一个下拉刷新的控件，实现了仿微信下拉中眼睛动画的效果。
 * [DragTopLayout](https://github.com/chenupt/DragTopLayout) - 实现整个layout下拉刷新。
 * [ZrcListView](https://github.com/zarics/ZrcListView) - 一个顺滑又漂亮的Android下拉刷新与加载更多列表组件，增加下拉刷新及滚动到底部自动加载的功能；增加越界回弹效果；增加自定义列表项动画的功能。
+* [TwitterCover-Android](https://github.com/cyndibaby905/TwitterCover-Android) - Twitter Android客户端的下拉封面模糊效果。
 
 
 ##### 模糊效果
