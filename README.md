@@ -202,6 +202,7 @@ TimLiu-Android
 #### 测试及调试
 * [DevelopQuickSetting](https://github.com/kyze8439690/DevelopQuickSetting) - 快速开启关闭开发者设置的工具，提供了app界面和桌面widget，能快速打开关闭overdraw，layout border，gpu rendering，adb wifi，不保存activity实例等功能。
 * [decompileandroid](http://www.decompileandroid.com/) - 在线反编译apk文件。
+* [jadx](https://github.com/skylot/jadx) - 一个Android反编译神器，不同于常见的dex2jar，这个反编译器生成代码的try/catch次数更少，View也不再是数字id了，可读性更高。
 * [Androguard](https://github.com/androguard/androguard) - Androguard使用Python写的一系列逆向工具集，功能很强大哦，对逆向工程感兴趣的小伙伴可以这个系列，[教程](http://www.technotalkative.com/part-1-reverse-engineering-using-androguard/)。
 * [logger](https://github.com/orhanobut/logger) - 一个简单、漂亮、功能强大的Android日志程序。
 
