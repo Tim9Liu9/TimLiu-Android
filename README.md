@@ -449,4 +449,5 @@ DEMO演示：
 * [脉脉不得语](http://www.inferjay.com/) - Android开发周报。
 * [Chad.cym的专栏](http://blog.csdn.net/cym492224103) - Chad.cym的专栏:android5.0新特性分析。
 
+* [搜索最好的 Android 代码——Codota](http://www.imooc.com/article/1086) -  从这里搜索超过七百万精品代码实例——Codota,，不仅只有Github，而且还有知名博客和开发者网站，让你搜索一个东西，不用在找上半天.
  
