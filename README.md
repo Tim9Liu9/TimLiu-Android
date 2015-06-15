@@ -93,7 +93,7 @@ TimLiu-Android
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - MaterialViewPager。
 * [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - FlipViewPager.Draco。
 * [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) - 图片圆角、三角、五角、圆形、多角。
-
+* [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) - 隐藏图片的导航栏。
 
 ##### 卫星菜单
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
