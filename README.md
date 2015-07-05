@@ -257,6 +257,7 @@ TimLiu-Android
 * [anko](https://github.com/JetBrains/anko) - 快速开发框架。
 * [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) - 通过对于原生Adapter的封装，产生了支持ListView，GridView，RecyclerView的简单通用的Adapter。这种方式将item变成独立的“视图”对象，方便操作，又增加了可扩展性。
 * [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap) - 一个Android MVP 模式实例项目。
+* [dexposed](https://github.com/alibaba/dexposed) - 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
