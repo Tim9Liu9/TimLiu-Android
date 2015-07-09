@@ -254,6 +254,7 @@ TimLiu-Android
 * [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper) - 切换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
 * [android-best-practices](https://github.com/futurice/android-best-practices) - android最佳实践
 * [Android最佳实践](http://android.jobbole.com/80684/) - 安卓最佳实践（1）：安卓开发--中文。
+* [Android最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md) - 从Futurice公司Android开发者中学到的经验。 遵循以下准则，避免重复发明轮子。若您对开发iOS或Windows Phone 有兴趣， 请看iOS Good Practices 和 Windows client Good Practices 这两篇文章。 
 * [如何安装ACRA](http://blog.csdn.net/chen52671/article/details/44751347) - 如何安装ACRA-一个Android应用Crash跟踪系统—在自己的服务器上。 
 * [Android ocr识别文字介绍](http://blog.csdn.net/love_xsq/article/details/44616925) - Android ocr识别文字介绍 。 
 * [DaVinci](https://github.com/florent37/DaVinci) - DaVinci是一个适用于Android Wear平台的图片下载和缓存library。
@@ -453,6 +454,7 @@ DEMO演示：
 
 * [apkbus](http://d.apkbus.com/) - code4app 与 apkbus整理的Android开源资源分类。
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码：Android Wear、Communication 、Education、Finance、Game、Multi-Media、News & Magazines、Personalization、Productivity、Social Network、Tools、Travel & Local。
+* [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - android-developer-tools-list。
 
 ##### 中文开发博客列表
 * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
@@ -462,3 +464,4 @@ DEMO演示：
 
 * [搜索最好的 Android 代码——Codota](http://www.imooc.com/article/1086) -  从这里搜索超过七百万精品代码实例——Codota,，不仅只有Github，而且还有知名博客和开发者网站，让你搜索一个东西，不用在找上半天.
  
+
