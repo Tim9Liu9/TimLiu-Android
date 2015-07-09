@@ -454,7 +454,7 @@ DEMO演示：
 
 * [apkbus](http://d.apkbus.com/) - code4app 与 apkbus整理的Android开源资源分类。
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码：Android Wear、Communication 、Education、Finance、Game、Multi-Media、News & Magazines、Personalization、Productivity、Social Network、Tools、Travel & Local。
-* [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - android-developer-tools-list。
+* [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - Android 常用开发工具 （Android Studio 插件、Android 网站、Android 系统性能调优工具、Android测试工具）。
 
 ##### 中文开发博客列表
 * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
