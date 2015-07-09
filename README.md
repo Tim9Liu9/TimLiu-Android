@@ -226,6 +226,8 @@ TimLiu-Android
 * [SuZhouTong-client-for-android](https://github.com/liuch930/SuZhouTong-client-for-android) - 苏州通android客户端，非常多的UI效果。
 * [ele_demo](https://github.com/guxun12/ele_demo) - 仿【饿了么】订餐软件的一个demo。
 * [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) - Material Design 版 BiliBili Android 客户端。
+* [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - Aisen微博是新浪微博的第三方客户端，UI遵循Material Design：遵循Material Design、发布多图、离线下载、私信（触屏版、颜色主题切换、手势返回，4.4、5.0状态栏变色、离线编辑，定时发布
+多图、gif、长微博预览。[FrescoDemo](https://github.com/06peng/FrescoDemo)
 
 #### 其他
 * [java-zhconverter](http://code.google.com/p/java-zhconverter/) - java-zhconverter是一个简繁体中文互换的Java开源类库。
@@ -260,8 +262,6 @@ TimLiu-Android
 * [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) - 通过对于原生Adapter的封装，产生了支持ListView，GridView，RecyclerView的简单通用的Adapter。这种方式将item变成独立的“视图”对象，方便操作，又增加了可扩展性。
 * [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap) - 一个Android MVP 模式实例项目。
 * [dexposed](https://github.com/alibaba/dexposed) - 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本。
-* [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - Aisen微博是新浪微博的第三方客户端，UI遵循Material Design：遵循Material Design、发布多图、离线下载、私信（触屏版、颜色主题切换、手势返回，4.4、5.0状态栏变色、离线编辑，定时发布
-多图、gif、长微博预览。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
