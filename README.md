@@ -443,8 +443,9 @@ DEMO演示：
 * [Android开发工具及文档](http://www.androiddevtools.cn/) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 
 * [material_design](https://github.com/1sters/material_design_zh) - eoeAndroid Material Design 中文协同翻译。
+* [Android Design Support Library](http://www.jianshu.com/p/1078568e859f) - Android Design Support Library 的 代码实验——几行代码，让你的 APP 变得花俏。
 * [Android-Open-Sourse-Library](https://github.com/1sters/Android-Open-Sourse-Library/) - eoeAndroid 开源组件深度剖析: 1.Http请求组件:Volley\android-async-http\okhttp 2.json数据解析组件:Gson\fast-json\json-smart\Jackson。
-* [wiki-eoeandroid](http://wiki.eoeandroid.com/) - wiki-eoeandroid : Android Develop - 开发技术、Android Design - 设计规范、Android Distribute - 软件发布 。
+* [wiki-eoeandroid](http://wiki.eoeandroid.com/) - wiki-eoeandroid : Android Develop - 开发技术、Android Design - 设计规范、Android Distribute - 软件发布。
 
 * [Java资源大全](http://www.importnew.com/14429.html) - 国外程序员整理的Java资源大全。
 
