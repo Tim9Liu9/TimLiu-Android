@@ -234,7 +234,7 @@ TimLiu-Android
 * [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) - Material Design 版 BiliBili Android 客户端。
 * [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - Aisen微博是新浪微博的第三方客户端，UI遵循Material Design：遵循Material Design、发布多图、离线下载、私信（触屏版、颜色主题切换、手势返回，4.4、5.0状态栏变色、离线编辑，定时发布
 多图、gif、长微博预览。[FrescoDemo](https://github.com/06peng/FrescoDemo) 。
-* [快递查询](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12274) -  使用了爱查快递http://www.ickd.cn/的api接口，可以查询申通、EMS、顺风、圆通、中通、韵达、天天、汇通、全锋、德邦、宅急送等11种快递的单号信息，支持手动输入单号和扫描单号(红米测试的时候扫描单号有点问题)，可以保存单号查询记录方便下次查询，，另外还包括了网络状态判断、快递自动更新、软件更新等功能，项目完美运行，有很详细的中文注释和逻辑分层。
+* [快递查询](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12274) -  使用了爱查快递[www.ickd.cn](http://www.ickd.cn/)的api接口，可以查询申通、EMS、顺风、圆通、中通、韵达、天天、汇通、全锋、德邦、宅急送等11种快递的单号信息，支持手动输入单号和扫描单号(红米测试的时候扫描单号有点问题)，可以保存单号查询记录方便下次查询，，另外还包括了网络状态判断、快递自动更新、软件更新等功能，项目完美运行，有很详细的中文注释和逻辑分层。
 
 
 ========
