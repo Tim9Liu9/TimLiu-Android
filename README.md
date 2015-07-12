@@ -99,6 +99,8 @@ TimLiu-Android
 * [MultiCardMenu](https://github.com/wujingchao/MultiCardMenu) - 仿QQ手机管家首页菜单写的一个开源组件MultiCardMenu。
 * [fit-chart](https://github.com/txusballesteros/fit-chart) - fit-chart 一个类似于谷歌健康应用的轮子（wheel view）视图，效果很不错。
 * [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) - Badge控件分享，各式各样的徽章控件。
+* [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo) - 可拖拽 RecyclerView, [讲解](http://www.devtf.cn/?p=795)。
+
 
 ##### 卫星菜单
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
