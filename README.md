@@ -101,6 +101,7 @@ TimLiu-Android
 * [fit-chart](https://github.com/txusballesteros/fit-chart) - fit-chart 一个类似于谷歌健康应用的轮子（wheel view）视图，效果很不错。
 * [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) - Badge控件分享，各式各样的徽章控件。
 * [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo) - 可拖拽 RecyclerView, [讲解](http://www.devtf.cn/?p=795)。
+* [浮动操作按钮详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0718/3197.html) - 讲解浮动操作按钮，从官方的和第三方库[makovkastar/FloatingActionButton](https://github.com/futuresimple/android-floating-action-button) 和 [futuresimple/android-floating-action-button](https://github.com/makovkastar/FloatingActionButton) 这样的第三方库。的两方面讲解，同时还讲到了如何自定义CoordinatorLayout Behavior。
 
 
 ##### 卫星菜单
