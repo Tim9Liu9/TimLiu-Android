@@ -140,6 +140,7 @@ TimLiu-Android
 * [Radial Menu Widget](http://d.apkbus.com/android/Radial-Menu-Widget/52405aca6803fa2822000002) - 实现各种圆形或者半圆形菜单，以及圆形进度条。
 * [AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView) - 一个有限／无限加载动画效果。基于Nils Banner的android-watch-loading-animation设计图。该设计本来是针对智能手表的。
 * [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) - 带动态效果的Button(按钮)可要比静态的按钮炫酷的多了，大家看到效果图就知道了。
+* [CircularBarPager](https://github.com/OrangeGangsters/CircularBarPager) - Android实现的动态效果，一个数字圆圈进度效果，源码CircularBarPager，material 风格的数字圆圈进度显示库（api10 +）。
 
 ========
 #### 动画
