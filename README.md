@@ -136,6 +136,7 @@ TimLiu-Android
 * [easyloadingbtn](https://github.com/DevinShine/easyloadingbtn) - 模仿了一个Dribbble上的Material Design效果，环形loading， 进度条、进度圈。
 * [android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar) - 一个不错的方形进度条。
 * [Radial Menu Widget](http://d.apkbus.com/android/Radial-Menu-Widget/52405aca6803fa2822000002) - 实现各种圆形或者半圆形菜单，以及圆形进度条。
+* [AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView) - 一个有限／无限加载动画效果。基于Nils Banner的android-watch-loading-animation设计图。该设计本来是针对智能手表的。
 
 ========
 #### 动画
