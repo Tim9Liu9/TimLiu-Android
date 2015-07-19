@@ -242,6 +242,7 @@ TimLiu-Android
 * [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - Aisen微博是新浪微博的第三方客户端，UI遵循Material Design：遵循Material Design、发布多图、离线下载、私信（触屏版、颜色主题切换、手势返回，4.4、5.0状态栏变色、离线编辑，定时发布
 多图、gif、长微博预览。[FrescoDemo](https://github.com/06peng/FrescoDemo) 。
 * [快递查询](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12274) -  使用了爱查快递[www.ickd.cn](http://www.ickd.cn/)的api接口，可以查询申通、EMS、顺风、圆通、中通、韵达、天天、汇通、全锋、德邦、宅急送等11种快递的单号信息，支持手动输入单号和扫描单号(红米测试的时候扫描单号有点问题)，可以保存单号查询记录方便下次查询，，另外还包括了网络状态判断、快递自动更新、软件更新等功能，项目完美运行，有很详细的中文注释和逻辑分层。
+* [SmartCall](http://git.oschina.net/yso/SmartCall) - SmartCall Android 企业通讯录。
 
 
 ========
@@ -479,7 +480,8 @@ DEMO演示：
 * [10个常用工具类](http://android.jobbole.com/80826/) - Android快速开发系列 10个常用工具类：1、日志工具类L.java；2、Toast统一管理类；3、SharedPreferences封装类SPUtils；4、单位转换类 DensityUtils；5、SD卡相关辅助类 SDCardUtils；6、屏幕相关辅助类 ScreenUtils；7、App相关辅助类；8、软键盘相关辅助类KeyBoardUtils；9、网络相关辅助类 NetUtils；10、Http相关辅助类 HttpUtils。
 * [19个Android开发工具](http://blog.jobbole.com/67169/) - 19个Android 开发工具：1、XAppDbg；2、ChkBugReport；3、APKAnalyser；4、AppXplore；5、Memory Analyzer（MAT）；6、Eclipse插件SQLiteManger；7、Robotium；8、ACRA；9、Android Layout Binder；10、Spoon；11、Android Content Provider代码生成器；12、AndroidKickStartR；13、Android Holo颜色生成器；14、ActionBar风格生成器；15、Asset Studio；16、little eye labs；17、Droid Inspector；18、Android Button Maker；19、jsonschema2pojo。
 
-* [apkbus](http://d.apkbus.com/) - code4app 与 apkbus整理的Android开源资源分类。
+* [apkbus](http://d.apkbus.com/) - code4app 与 apkbus整理的Android开源资源分类， [
+Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码：Android Wear、Communication 、Education、Finance、Game、Multi-Media、News & Magazines、Personalization、Productivity、Social Network、Tools、Travel & Local。
 * [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - Android 常用开发工具 （Android Studio 插件、Android 网站、Android 系统性能调优工具、Android测试工具）。
 
