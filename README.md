@@ -103,6 +103,7 @@ TimLiu-Android
 * [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) - Badge控件分享，各式各样的徽章控件。
 * [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo) - 可拖拽 RecyclerView, [讲解](http://www.devtf.cn/?p=795)。
 * [浮动操作按钮详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0718/3197.html) - 讲解浮动操作按钮，从官方的和第三方库[makovkastar/FloatingActionButton](https://github.com/futuresimple/android-floating-action-button) 和 [futuresimple/android-floating-action-button](https://github.com/makovkastar/FloatingActionButton) 这样的第三方库。的两方面讲解，同时还讲到了如何自定义CoordinatorLayout Behavior。
+* [advanced-textview](https://github.com/chiuki/advanced-textview) -  advanced-textview各种高级功能的textview，包括动画，阴影，各种字体，艺术字，HTML格式显示，表情等。
 
 
 ##### 卫星菜单
