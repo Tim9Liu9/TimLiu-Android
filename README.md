@@ -90,6 +90,7 @@ TimLiu-Android
 * [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) - listView侧滑删除效果：SwipeMenuListView。
 * [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) - 分类侧滑菜单。
 * [SlidingMenu](https://github.com/xudafeng/SlidingMenu) - 炫酷侧滑菜单布局框架，iOS版本的实现：[SlideMenuView](https://github.com/xudafeng/SlideMenuView)。
+* [ParallaxSwipeBack](https://github.com/bushijie/ParallaxSwipeBack) - 带视觉差的侧滑返回，类似于新版微信和lofter的侧滑返回效果。核心代码小于50行。
 * [AndroidFlowLayout](https://github.com/LyndonChin/AndroidFlowLayout) - A flow layout for Android。
 * [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) - 取代TabHost，实现滑动tab，引导页等效果。
 * [Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager) - Full screen slide pager to display images fetched from Internet by Picasso。
