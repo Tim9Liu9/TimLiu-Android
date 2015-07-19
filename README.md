@@ -301,6 +301,7 @@ TimLiu-Android
 #### 好的文章
 * [高效抽取loading](http://www.apkbus.com/android-244454-1-1.html) - 高效抽取loading，再多的加载页面也不怕。
 * [修复bug的12个关键步骤](http://www.imooc.com/wenda/detail/209282) - 修复bug的12个关键步骤。
+* [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) - 里面是安卓的一些外国前沿文章的翻译，想课余时间学习 Android 的看看，已经收录了。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
