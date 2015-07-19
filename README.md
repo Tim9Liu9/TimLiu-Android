@@ -28,6 +28,7 @@ TimLiu-Android
 - [插件](#插件)
 - [出名框架](#出名框架)
 - [其他](#其他)
+- [好的文章](#好的文章)
 - [收集android上开源的酷炫的交互动画和视觉效果](#收集android上开源的酷炫的交互动画和视觉效果)
 - [UI资源](#UI资源)
 - [开发资源](#开发资源)
@@ -294,6 +295,9 @@ TimLiu-Android
 * [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap) - 一个Android MVP 模式实例项目。
 * [json2notification](https://github.com/8tory/json2notification) - 一个多功能方便好用的notification通知栏通知开源库。
 
+========
+#### 好的文章
+* [高效抽取loading](http://www.apkbus.com/android-244454-1-1.html) - 高效抽取loading，再多的加载页面也不怕。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
@@ -486,6 +490,7 @@ DEMO演示：
 Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码：Android Wear、Communication 、Education、Finance、Game、Multi-Media、News & Magazines、Personalization、Productivity、Social Network、Tools、Travel & Local。
 * [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - Android 常用开发工具 （Android Studio 插件、Android 网站、Android 系统性能调优工具、Android测试工具）。
+
 
 ##### 中文开发博客列表
 * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
