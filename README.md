@@ -236,7 +236,8 @@ TimLiu-Android
 
 ========
 #### 完整项目
-* [新闻客户端](http://www.eoeandroid.com/thread-569074-1-1.html) - 一个符合最新MaterialDesign标准的开源新闻客户端。
+* [SuesNews新闻客户端](https://github.com/sues-lee/SuesNews) - 腾飞新闻，一个符合 Google Material Design 的 Android 校园新闻客户端 ，[新闻客户端说明](http://www.eoeandroid.com/thread-569074-1-1.html) 。
+* [新闻客户端](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12170) - Android应用源码比较不错的新闻客户端，本项目启动引导登录注册用户中心列表显示文章分页下拉刷新文章收藏更新反馈等新闻客户端常见的功能都有，项目分层合理，代码质量较高。  
 * [materialistic](https://github.com/hidroh/materialistic) - Material Desgin风格的Hacker News客户端。
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram 是一款专注于速度、安全的短信息应用，快速、简单、免费。Telegram 支持群组聊天，最高200人，最高支持分享1GB的视频，其它图片等等更是不在话下。而且所有信息全部支持同步。由于频发的隐私问题，所以 Telegram 也很注重通信安全。
 * [SuZhouTong-client-for-android](https://github.com/liuch930/SuZhouTong-client-for-android) - 苏州通android客户端，非常多的UI效果。
