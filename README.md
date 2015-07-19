@@ -300,6 +300,7 @@ TimLiu-Android
 ========
 #### 好的文章
 * [高效抽取loading](http://www.apkbus.com/android-244454-1-1.html) - 高效抽取loading，再多的加载页面也不怕。
+* [修复bug的12个关键步骤](http://www.imooc.com/wenda/detail/209282) - 修复bug的12个关键步骤。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
