@@ -272,6 +272,7 @@ TimLiu-Android
 * [Android-Package-Channel](https://github.com/s1rius/Android-Package-Channel) - 美团网做的把Android多渠道打包工具，打包时间缩短到一分钟，python脚本。
 * [fast-apk-packaging](http://www.race604.com/fast-apk-packaging/) - Android不需要重新编译打渠道包。
 * [android_gradle_script](https://github.com/lihei12345/android_gradle_script) - gradle批量打包脚本，用txt配置一下，就可以支持多个渠道打包，适合国内这种动不动上百个渠道包的环境。目前有个问题，一次打包脚本超过80个就会GC问题。
+* [Gradle-Plugin-User-Guide-Chinese-Verision](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/) - Gradle插件使用指南中文版。
 * [Android-package_tool](https://github.com/ahui2823/package_tool) - 该工程用于编译多渠道Android应用，替换相应的标签，然后重新打包，用perl脚本实现。
 * [兰贝壳儿](http://www.orchidshell.com/) - Android多渠道打包解决方案(兰贝壳儿)，eclipse插件。 
 * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
