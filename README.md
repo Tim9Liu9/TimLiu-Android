@@ -135,7 +135,7 @@ TimLiu-Android
 * [StikkyHeader](https://github.com/carlonzo/StikkyHeader) - 【Android控件源码：头部固定的控件列表效果】这是一个可以支持头部固定的控件列表功能，源码StikkyHeader，StikkyHeader是一个可以在滚动的时候将头部固定的控件，还可以将动画效果和StikkyHeader一起使用，api非常简单， 支持ListView,RecyclerView,ScrollView。[支持2.3一下设备使用的StikkyHeader](https://github.com/yangwuan55/StikkyHeader)
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 实现了模仿微信眼睛下拉效果，源码PullDownListView，下拉刷新，上拉加载，模仿微信眼睛。 
 * [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) - 又一个下拉刷新的实现，水滴效果。
-
+* [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) - 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位。
 
 ##### 模糊效果
 * [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
