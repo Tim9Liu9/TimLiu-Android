@@ -131,6 +131,8 @@ TimLiu-Android
 * [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - 实现整个layout下拉刷新，没有加载更过，[Demo](https://github.com/android-cn/android-open-project-demo/tree/master/android-ultra-pull-to-refresh-demo)， [源码分析](http://codekk.com/open-source-project-analysis/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)。
 * [StikkyHeader](https://github.com/carlonzo/StikkyHeader) - 【Android控件源码：头部固定的控件列表效果】这是一个可以支持头部固定的控件列表功能，源码StikkyHeader，StikkyHeader是一个可以在滚动的时候将头部固定的控件，还可以将动画效果和StikkyHeader一起使用，api非常简单， 支持ListView,RecyclerView,ScrollView。[支持2.3一下设备使用的StikkyHeader](https://github.com/yangwuan55/StikkyHeader)
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 实现了模仿微信眼睛下拉效果，源码PullDownListView，下拉刷新，上拉加载，模仿微信眼睛。 
+* [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) - 又一个下拉刷新的实现，水滴效果。
+
 
 ##### 模糊效果
 * [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
@@ -247,7 +249,7 @@ TimLiu-Android
 多图、gif、长微博预览。[FrescoDemo](https://github.com/06peng/FrescoDemo) 。
 * [快递查询](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12274) -  使用了爱查快递[www.ickd.cn](http://www.ickd.cn/)的api接口，可以查询申通、EMS、顺风、圆通、中通、韵达、天天、汇通、全锋、德邦、宅急送等11种快递的单号信息，支持手动输入单号和扫描单号(红米测试的时候扫描单号有点问题)，可以保存单号查询记录方便下次查询，，另外还包括了网络状态判断、快递自动更新、软件更新等功能，项目完美运行，有很详细的中文注释和逻辑分层。
 * [SmartCall](http://git.oschina.net/yso/SmartCall) - SmartCall Android 企业通讯录。
-
+* [Android-高仿大众点评客户端源码](http://download.jikexueyuan.com/detail/id/539.html#0-tsina-1-72241-397232819ff9a47a7b7e80a40613cfe1) - Android-高仿大众点评客户端源码。
 
 ========
 ### 插件
