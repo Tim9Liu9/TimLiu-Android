@@ -105,7 +105,10 @@ TimLiu-Android
 * [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo) - 可拖拽 RecyclerView, [讲解](http://www.devtf.cn/?p=795)。
 * [浮动操作按钮详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0718/3197.html) - 讲解浮动操作按钮，从官方的和第三方库[makovkastar/FloatingActionButton](https://github.com/futuresimple/android-floating-action-button) 和 [futuresimple/android-floating-action-button](https://github.com/makovkastar/FloatingActionButton) 这样的第三方库。的两方面讲解，同时还讲到了如何自定义CoordinatorLayout Behavior。
 * [advanced-textview](https://github.com/chiuki/advanced-textview) -  advanced-textview各种高级功能的textview，包括动画，阴影，各种字体，艺术字，HTML格式显示，表情等。
-
+* [QuickReturn](https://github.com/lawloretienne/QuickReturn) - 给几乎所有可以滑动的 View 加上快速返回的 Header 或者 Footer，使用非常方便。
+* [Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView) - 仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果。
+* [DraggedViewPager](https://github.com/yueban/DraggedViewPager) - 可以在多个 Page 之间可以拖放元素的控件。
+* [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) - 对 ViewPager 的一个扩展，Page 可宽可窄，表现很像 Gallelry。
 
 ##### 卫星菜单
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
@@ -167,6 +170,7 @@ TimLiu-Android
 * [多线程下载](http://www.eoeandroid.com/thread-564501-1-1.html) - Android 实现多线程下载 完美代码。
 * [opandroid](https://github.com/openpeer/opandroid) - android p2p的开源实现。
 * [okio](https://github.com/square/okio) - square出的Okio这个库，尤其擅长处理二进制数据。如果觉得Java的输入输出流实在太复杂啰嗦，不妨试试Okio。
+* [Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - 一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你。
 
 ========
 ##### 网络测试
@@ -214,7 +218,8 @@ TimLiu-Android
 * [ImageCoverFlow](https://github.com/dolphinwang/ImageCoverFlow) - ImageCoverFlow效果不错的画廊控件 可以设置画廊一次可见图片的张数，和其他第三方Gallery控件不同的是，该控件直接继承自View，而不是sdk中的Gallery控件。
 * [FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow) - 支持Item切换动画效果的类似Gallery View。[改进版本](https://github.com/LittleLiByte/GlFancyCoverFlow)可以无限轮播，可以选择自动轮播或者 手动滑动。
 * [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - demo中演示了引导页、以及通过fresco、android-async-http、gson实现广告条的自动轮播效果（splash 、 ViewPager切换动画） 。
-* [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) - 重写后的 RecyclerViewPager 完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持VerticalViewPager，支持Fragment。 。
+* [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) - 重写后的 RecyclerViewPager 完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持VerticalViewPager，支持Fragment。
+* [StickerCamera](https://github.com/Skykai521/StickerCamera) - 可以说是一个完整的相机、图片编辑的 APP，集成了大部分市面上有的同类 APP 的功能，裁剪、滤镜、贴纸应有尽有。
 
 ========
 #### 视频音频处理
@@ -352,7 +357,7 @@ TimLiu-Android
 项目地址：https://github.com/wrapp/floatlabelededittext
 
 10.QuickReturn
-项目介绍：Showcases QuickReturn view as a header, footer, and both header and footer.
+项目介绍：Showcases QuickReturn view as a header, footer, and both header and footer. 给几乎所有可以滑动的 View 加上快速返回的 Header 或者 Footer，使用非常方便。
 项目地址：https://github.com/lawloretienne/QuickReturn
 
 11.VNTNumberPickerPreference
