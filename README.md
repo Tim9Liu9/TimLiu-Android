@@ -226,7 +226,7 @@ TimLiu-Android
 * [jadx](https://github.com/skylot/jadx) - 一个Android反编译神器，不同于常见的dex2jar，这个反编译器生成代码的try/catch次数更少，View也不再是数字id了，可读性更高。
 * [Androguard](https://github.com/androguard/androguard) - Androguard使用Python写的一系列逆向工具集，功能很强大哦，对逆向工程感兴趣的小伙伴可以这个系列，[教程](http://www.technotalkative.com/part-1-reverse-engineering-using-androguard/)。
 * [logger](https://github.com/orhanobut/logger) - 一个简单、漂亮、功能强大的Android日志程序。
-
+* [stf](https://github.com/openstf/stf) - WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行，[使用说明](https://testerhome.com/topics/2988) 。
 
 ========
 #### 消息推送
