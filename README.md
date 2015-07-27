@@ -220,6 +220,7 @@ TimLiu-Android
 * [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - demo中演示了引导页、以及通过fresco、android-async-http、gson实现广告条的自动轮播效果（splash 、 ViewPager切换动画） 。
 * [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) - 重写后的 RecyclerViewPager 完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持VerticalViewPager，支持Fragment。
 * [StickerCamera](https://github.com/Skykai521/StickerCamera) - 可以说是一个完整的相机、图片编辑的 APP，集成了大部分市面上有的同类 APP 的功能，裁剪、滤镜、贴纸应有尽有。
+* [demo6_PhotoRiver](https://github.com/debolee/demo6_PhotoRiver) - 图片流动显示的demo，可以点击流动中的图片放大显示，双击空白处图片以九宫格排列。
 
 ========
 #### 视频音频处理
