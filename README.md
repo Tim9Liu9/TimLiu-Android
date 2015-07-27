@@ -109,6 +109,7 @@ TimLiu-Android
 * [Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView) - 仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果。
 * [DraggedViewPager](https://github.com/yueban/DraggedViewPager) - 可以在多个 Page 之间可以拖放元素的控件。
 * [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) - 对 ViewPager 的一个扩展，Page 可宽可窄，表现很像 Gallelry。
+* [Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View是一种用于应用程序中显示日历的安卓库。它支持自定义样式。。
 
 ##### 卫星菜单
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
