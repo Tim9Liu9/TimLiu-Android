@@ -48,7 +48,9 @@ TimLiu-Android
 * [iconify](https://github.com/JoanZapata/android-iconify) - iconify 图片与文字同一行显示。
 * [iosched](https://github.com/google/iosched) - The Google I/O 2014 Android App，Android 5.0 and Material Design。
 * [MaterialList](https://github.com/dexafree/MaterialList) - MaterialList 。
-* [material design card](https://dribbble.com/search?q=material+design+card) - material design card 。 
+* [material design card](https://dribbble.com/search?q=material+design+card) - material design card 。
+* [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) -  本APP用来演示Material Design控件的使用。
+http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明](http://www.aswifter.com/2015/08/01/android-material-design-animation/)。
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - InstalMaterial 项目(非常多的UI样式：ViewAnimator、RecyclerView、拍照)， [InstalMaterial学习笔记之Reveal效果](http://www.jianshu.com/p/35492fb2c269)。  
 * [NavigationDrawer-MaterialDesign](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) - 一个Material Design的抽屉模板库，分分钟搭起一个程序框架。
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 直接继承EditText，无需修改Java文件即能实现自定义控件颜色， [直接拿来用！十大Material Design开源项目](http://www.csdn.net/article/2014-11-21/2822753-material-design-libs)。
