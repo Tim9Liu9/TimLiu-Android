@@ -263,6 +263,7 @@ TimLiu-Android
 * [Android Studio 插件和工具](http://stormzhang.com/android/2015/05/26/android-tools/) -  5个  推荐几个有用的 Android Studio 插件和工具（ButterKnife、selectorChapek、GsonFormat、ParcelableGenerator、LeakCanary）。
 * [ 8 个最优秀的 Android Studio 插件](http://www.imooc.com/article/1148) -  8 个最优秀的 Android Studio 插件（H.A.X.M（硬件加速执行管理器）、Genymotion、Android Drawable Importer、Android ButterKnife Zelezny、Android Holo Colors Generator、Robotium Recorder、jimu Mirror、Strings-xml-tools）。
 * [smalidea](https://github.com/JesusFreke/smali/wiki/smalidea) - 一款 IntelliJ IDEA/Android Studio 的 smali 插件～ ，[Smalidea 无源码调试 Android 应用](http://drops.wooyun.org/tips/7181)。
+* [gradle-fir-plugin](https://github.com/sangmingming/gradle-fir-plugin) - 一个上传apk到fir的gradle插件，[使用说明](http://blog.isming.me/2015/08/01/gradle-fir-plugin/)。
 
 ========
 ### 出名框架
