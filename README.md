@@ -153,6 +153,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView) - 一个有限／无限加载动画效果。基于Nils Banner的android-watch-loading-animation设计图。该设计本来是针对智能手表的。
 * [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) - 带动态效果的Button(按钮)可要比静态的按钮炫酷的多了，大家看到效果图就知道了。
 * [CircularBarPager](https://github.com/OrangeGangsters/CircularBarPager) - Android实现的动态效果，一个数字圆圈进度效果，源码CircularBarPager，material 风格的数字圆圈进度显示库（api10 +）。
+* [dotted-progress-bar](https://github.com/igortrncic/dotted-progress-bar) - 一个小清新的进度条。
 
 ========
 #### 动画
@@ -310,6 +311,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) - 通过对于原生Adapter的封装，产生了支持ListView，GridView，RecyclerView的简单通用的Adapter。这种方式将item变成独立的“视图”对象，方便操作，又增加了可扩展性。
 * [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap) - 一个Android MVP 模式实例项目。
 * [json2notification](https://github.com/8tory/json2notification) - 一个多功能方便好用的notification通知栏通知开源库。
+* [barcodescanner](https://github.com/dm77/barcodescanner) - 一个封装好的基于zxing二维码扫描库。
 
 ========
 #### 好的文章
