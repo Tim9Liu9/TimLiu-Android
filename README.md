@@ -193,7 +193,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [wqgallery](https://github.com/wqandroid/wqgallery) - wqgallery实现类似微信选择照片功能，可以通过相机或相册选择，支持单张裁剪，支持单选模式、支持多选模式。
 
 #### 响应式编程
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 。
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 ，[RxJava](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目。
 
 
 
@@ -261,6 +261,9 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [SmartCall](http://git.oschina.net/yso/SmartCall) - SmartCall Android 企业通讯录。
 * [Android-高仿大众点评客户端源码](http://download.jikexueyuan.com/detail/id/539.html#0-tsina-1-72241-397232819ff9a47a7b7e80a40613cfe1) - Android-高仿大众点评客户端源码。
 * [八个Android项目源码](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12974) - 八个Android项目源码，大部分功能相信可以在实战项目中直接使用，供大家下载学习，大部分项目是基于Android Studio开发，IDE为Eclipse的童鞋可通过网上教程自行转换，这里就不多说了。大家可以下载下来学习看看！ [百度云盘下载地址](http://pan.baidu.com/s/1mgMlCBA)。
+* [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
+* [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
+
 
 ========
 ### 插件
@@ -273,7 +276,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 ### 出名框架
 * [xUtils](https://github.com/wyouflf/xUtils) - xUtils 包含了很多实用的android工具。支持大文件上传，更全面的http请求协议支持(10种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响。最低兼容android 2.2 (api level 8)。目前xUtils主要有四大模块：DbUtils模块、ViewUtils模块、HttpUtils模块、BitmapUtils模块。
 * [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。 
-* [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。
+* [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。
 * [dexposed](https://github.com/alibaba/dexposed) - 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51)。
 
 ========
@@ -287,6 +290,8 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [Android-Package-Channel](https://github.com/s1rius/Android-Package-Channel) - 美团网做的把Android多渠道打包工具，打包时间缩短到一分钟，python脚本。
 * [fast-apk-packaging](http://www.race604.com/fast-apk-packaging/) - Android不需要重新编译打渠道包。
 * [android_gradle_script](https://github.com/lihei12345/android_gradle_script) - gradle批量打包脚本，用txt配置一下，就可以支持多个渠道打包，适合国内这种动不动上百个渠道包的环境。目前有个问题，一次打包脚本超过80个就会GC问题。
+* [BatchPackApk](https://github.com/MasonLiuChn/BatchPackApk) - 免签名直接打包工具。 
+* [Android多渠道打包工具Gradle插件](https://github.com/mcxiaoke/gradle-packer-plugin/blob/master/readme.md) - Android多渠道打包工具Gradle插件。
 * [Gradle-Plugin-User-Guide-Chinese-Verision](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/) - Gradle插件使用指南中文版。
 * [Android-package_tool](https://github.com/ahui2823/package_tool) - 该工程用于编译多渠道Android应用，替换相应的标签，然后重新打包，用perl脚本实现。
 * [兰贝壳儿](http://www.orchidshell.com/) - Android多渠道打包解决方案(兰贝壳儿)，eclipse插件。 
@@ -313,6 +318,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap) - 一个Android MVP 模式实例项目。
 * [json2notification](https://github.com/8tory/json2notification) - 一个多功能方便好用的notification通知栏通知开源库。
 * [barcodescanner](https://github.com/dm77/barcodescanner) - 一个封装好的基于zxing二维码扫描库。
+* [mqtt](https://github.com/mcxiaoke/mqtt) - MQTT 协议 3.1.1 中文翻译版。
 
 ========
 #### 好的文章
