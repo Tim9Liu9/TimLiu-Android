@@ -293,7 +293,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [BatchPackApk](https://github.com/MasonLiuChn/BatchPackApk) - 免签名直接打包工具。 
 * [Android多渠道打包工具Gradle插件](https://github.com/mcxiaoke/gradle-packer-plugin/blob/master/readme.md) - Android多渠道打包工具Gradle插件。
 * [Gradle-Plugin-User-Guide-Chinese-Verision](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/) - Gradle插件使用指南中文版。
-* [gradle-guide.books](http://gradle-guide.books.yourtion.com/) - Android Gradle 插件中文指南。 
+* [gradle-guide.books](http://gradle-guide.books.yourtion.com/) - Android Gradle 插件中文指南（GitBook）。 
 * [Android-package_tool](https://github.com/ahui2823/package_tool) - 该工程用于编译多渠道Android应用，替换相应的标签，然后重新打包，用perl脚本实现。
 * [兰贝壳儿](http://www.orchidshell.com/) - Android多渠道打包解决方案(兰贝壳儿)，eclipse插件。 
 * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
