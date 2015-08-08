@@ -260,6 +260,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [快递查询](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12274) -  使用了爱查快递[www.ickd.cn](http://www.ickd.cn/)的api接口，可以查询申通、EMS、顺风、圆通、中通、韵达、天天、汇通、全锋、德邦、宅急送等11种快递的单号信息，支持手动输入单号和扫描单号(红米测试的时候扫描单号有点问题)，可以保存单号查询记录方便下次查询，，另外还包括了网络状态判断、快递自动更新、软件更新等功能，项目完美运行，有很详细的中文注释和逻辑分层。
 * [SmartCall](http://git.oschina.net/yso/SmartCall) - SmartCall Android 企业通讯录。
 * [Android-高仿大众点评客户端源码](http://download.jikexueyuan.com/detail/id/539.html#0-tsina-1-72241-397232819ff9a47a7b7e80a40613cfe1) - Android-高仿大众点评客户端源码。
+* [八个Android项目源码](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12974) - 八个Android项目源码，大部分功能相信可以在实战项目中直接使用，供大家下载学习，大部分项目是基于Android Studio开发，IDE为Eclipse的童鞋可通过网上教程自行转换，这里就不多说了。大家可以下载下来学习看看！ [百度云盘下载地址](http://pan.baidu.com/s/1mgMlCBA)。
 
 ========
 ### 插件
