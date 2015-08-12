@@ -273,11 +273,13 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [ 8 个最优秀的 Android Studio 插件](http://www.imooc.com/article/1148) -  8 个最优秀的 Android Studio 插件（H.A.X.M（硬件加速执行管理器）、Genymotion、Android Drawable Importer、Android ButterKnife Zelezny、Android Holo Colors Generator、Robotium Recorder、jimu Mirror、Strings-xml-tools）。
 * [smalidea](https://github.com/JesusFreke/smali/wiki/smalidea) - 一款 IntelliJ IDEA/Android Studio 的 smali 插件～ ，[Smalidea 无源码调试 Android 应用](http://drops.wooyun.org/tips/7181)。
 * [gradle-fir-plugin](https://github.com/sangmingming/gradle-fir-plugin) - 一个上传apk到fir的gradle插件，[使用说明](http://blog.isming.me/2015/08/01/gradle-fir-plugin/)。
+* [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - 一个ButterKnife的Android Studio插件, 该插件可以让你手动生成上述注入代码。
 
 ========
 ### 出名框架
 * [xUtils](https://github.com/wyouflf/xUtils) - xUtils 包含了很多实用的android工具。支持大文件上传，更全面的http请求协议支持(10种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响。最低兼容android 2.2 (api level 8)。目前xUtils主要有四大模块：DbUtils模块、ViewUtils模块、HttpUtils模块、BitmapUtils模块。
-* [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。 
+* [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。
+* [ButterKnife](https://github.com/JakeWharton/butterknife) - ButterKnife是一个专注于Android系统的View注入框架，让你从此从这些烦人臃肿的代码中解脱出来，[ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)。
 * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。
 * [dexposed](https://github.com/alibaba/dexposed) - 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51)。
 
