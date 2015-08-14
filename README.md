@@ -506,7 +506,7 @@ DEMO演示：
 
 * [GitHub优秀Android开源项目](http://www.cnblogs.com/hawkon/p/3593709.html) - GitHub 优秀的 Android 开源项目,很多中文现成项目。
 
-* [Android开发工具及文档](http://www.androiddevtools.cn/) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
+* [Android开发工具及文档](http://www.androiddevtools.cn/) - androiddevtools，收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 
 * [material_design](https://github.com/1sters/material_design_zh) - eoeAndroid Material Design 中文协同翻译。
 * [Android Design Support Library](http://www.jianshu.com/p/1078568e859f) - Android Design Support Library 的 代码实验——几行代码，让你的 APP 变得花俏。
