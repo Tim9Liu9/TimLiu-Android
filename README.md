@@ -184,7 +184,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 
 ========
 ##### 图像获取
-* [glide](https://github.com/bumptech/glide) - glide 。
+* [glide](https://github.com/bumptech/glide) - glide google出品，[使用教程](http://www.jianshu.com/p/4a3177b57949)、[GlidePalette](https://github.com/florent37/GlidePalette)。
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Universal Image Loader 是一个强大的、可高度定制的图片缓存，简称：UIL，可以高度配置的网络图片缓存库，非常灵活，用户量最多 。
 * [picasso](https://github.com/square/picasso) - picasso 功能单一，没有缓存过期，同androidQuery一样链式调用，载入本地文件速度慢（没有生成thumbnails） ,[Picasso and Android-Universal-Image-Loader](http://donal-tong.github.io/blog/2014/05/21/picasso-and-auil/),另外的一些诸如裁剪图片：Picasso.with(context)  .load(url)  .resize(50, 50)  .centerCrop()  .into(imageView)。
 * [fresco](https://github.com/facebook/fresco) - Facebook 又放出的一个新项目，一个类似 Picasso, Glide 的库，不过比他们做的更好。 强烈推荐！［Fresco集成示例］（https://github.com/liaohuqiu/fresco-demo-for-gradle）。
@@ -227,6 +227,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) - 重写后的 RecyclerViewPager 完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持VerticalViewPager，支持Fragment。
 * [StickerCamera](https://github.com/Skykai521/StickerCamera) - 可以说是一个完整的相机、图片编辑的 APP，集成了大部分市面上有的同类 APP 的功能，裁剪、滤镜、贴纸应有尽有。
 * [demo6_PhotoRiver](https://github.com/debolee/demo6_PhotoRiver) - 图片流动显示的demo，可以点击流动中的图片放大显示，双击空白处图片以九宫格排列。
+* [glide-transformations](https://github.com/wasabeef/glide-transformations) - 一个基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果。
 
 ========
 #### 视频音频处理
