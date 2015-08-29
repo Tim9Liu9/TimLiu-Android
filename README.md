@@ -12,6 +12,7 @@ TimLiu-Android
     - [模糊效果](#模糊效果)
     - [HUD与Toast](#HUD与Toast)
     - [进度条](#进度条)
+    - [UI其它](#UI其他)
     
 - [动画](#动画)
 
@@ -154,6 +155,12 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) - 带动态效果的Button(按钮)可要比静态的按钮炫酷的多了，大家看到效果图就知道了。
 * [CircularBarPager](https://github.com/OrangeGangsters/CircularBarPager) - Android实现的动态效果，一个数字圆圈进度效果，源码CircularBarPager，material 风格的数字圆圈进度显示库（api10 +）。
 * [dotted-progress-bar](https://github.com/igortrncic/dotted-progress-bar) - 一个小清新的进度条。
+* [WhorlView](https://github.com/Kyson/WhorlView) - 一个炫酷的漩涡加载效果自定义View。
+
+========
+##### UI其他
+* [MixtureTextView](https://github.com/hongyangAndroid/MixtureTextView) - 富文本，支持Android图文混排、文字环绕图片等效果。
+* [android-ActionQueue](https://github.com/liaohuqiu/android-ActionQueue) - Action Queue 用于执行有次序的队列操作，比如按次序弹出对话框，这在 Android 中尤其有用。
 
 ========
 #### 动画
@@ -167,6 +174,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) - Material风格动画，可以定义两个Activity之间的动画。
 * [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) - android-shapeLoadingView实现高仿新版58 加载动画，loading。
 * [一个绚丽的loading](http://blog.csdn.net/tianjian4592/article/details/44538605) - 一个绚丽的loading动效分析与实现。
+* [TransitionPlayer](https://github.com/XMFE-TEAM/TransitionPlayer) - 一个 Transition 动画控制控制库，可以让你很轻松的创建一个可交互的动画。
 
 
 ========
@@ -230,6 +238,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [demo6_PhotoRiver](https://github.com/debolee/demo6_PhotoRiver) - 图片流动显示的demo，可以点击流动中的图片放大显示，双击空白处图片以九宫格排列。
 * [glide-transformations](https://github.com/wasabeef/glide-transformations) - 一个基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果。
 * [ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading) - 一个用纯代码实现自动绘画效果动画的项目。
+* [SlidingCard](https://github.com/mxn21/SlidingCard) - 漂亮的卡片滑动翻页特效。
 
 ========
 #### 视频音频处理
@@ -268,7 +277,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [Android-高仿大众点评客户端源码](http://download.jikexueyuan.com/detail/id/539.html#0-tsina-1-72241-397232819ff9a47a7b7e80a40613cfe1) - Android-高仿大众点评客户端源码。
 * [八个Android项目源码](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12974) - 八个Android项目源码，大部分功能相信可以在实战项目中直接使用，供大家下载学习，大部分项目是基于Android Studio开发，IDE为Eclipse的童鞋可通过网上教程自行转换，这里就不多说了。大家可以下载下来学习看看！ [百度云盘下载地址](http://pan.baidu.com/s/1mgMlCBA)。
 * [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
-* [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
+* [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。
 
 
 ========
