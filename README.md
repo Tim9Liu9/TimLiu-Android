@@ -275,13 +275,14 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [gradle-fir-plugin](https://github.com/sangmingming/gradle-fir-plugin) - 一个上传apk到fir的gradle插件，[使用说明](http://blog.isming.me/2015/08/01/gradle-fir-plugin/)。
 * [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - 一个ButterKnife的Android Studio插件, 该插件可以让你手动生成上述注入代码。
 
+
 ========
 ### 出名框架
 * [xUtils](https://github.com/wyouflf/xUtils) - xUtils 包含了很多实用的android工具。支持大文件上传，更全面的http请求协议支持(10种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响。最低兼容android 2.2 (api level 8)。目前xUtils主要有四大模块：DbUtils模块、ViewUtils模块、HttpUtils模块、BitmapUtils模块。
 * [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。
 * [ButterKnife](https://github.com/JakeWharton/butterknife) - ButterKnife是一个专注于Android系统的View注入框架，让你从此从这些烦人臃肿的代码中解脱出来，[ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)。
 * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。
-* [dexposed](https://github.com/alibaba/dexposed) - 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) 。 [Android Hotpatch系列之-项目介绍](http://my.oschina.net/fengcunhan/blog/487296) - [客户端例子实现](https://github.com/fengcunhan/Hotpatch-Sample),[服务器简易实现](https://github.com/fengcunhan/Hotpatch-SimpleServer)  。
+* [dexposed](https://github.com/alibaba/dexposed) - 淘宝 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) 。 [Android Hotpatch系列之-项目介绍](http://my.oschina.net/fengcunhan/blog/487296) - [客户端例子实现](https://github.com/fengcunhan/Hotpatch-Sample),[服务器简易实现](https://github.com/fengcunhan/Hotpatch-SimpleServer)  。
 * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
 
 ========
@@ -325,6 +326,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [json2notification](https://github.com/8tory/json2notification) - 一个多功能方便好用的notification通知栏通知开源库。
 * [barcodescanner](https://github.com/dm77/barcodescanner) - 一个封装好的基于zxing二维码扫描库。
 * [mqtt](https://github.com/mcxiaoke/mqtt) - MQTT 协议 3.1.1 中文翻译版。
+* [Droid Plugin](https://github.com/Qihoo360/DroidPlugin) - DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
 
 ========
 #### 好的文章
