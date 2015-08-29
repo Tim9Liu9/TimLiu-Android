@@ -220,6 +220,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) - (国人开发)基于Android Canvas来绘制各种图表,使用简便,定制灵活。
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - 绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。
 * [CropImageView](https://github.com/cesards/CropImageView) - 原生ImageView只支持centerCrop，这里有支持9个方向裁剪的ImageView。
+* [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) - 一个Android的图片裁剪库，使用简单，易于定制。
 * [DrawableView](https://github.com/PaNaVTEC/DrawableView) - DrawableView实现画板功能，可以改变画笔粗细，颜色，支持撤销功能。
 * [ImageCoverFlow](https://github.com/dolphinwang/ImageCoverFlow) - ImageCoverFlow效果不错的画廊控件 可以设置画廊一次可见图片的张数，和其他第三方Gallery控件不同的是，该控件直接继承自View，而不是sdk中的Gallery控件。
 * [FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow) - 支持Item切换动画效果的类似Gallery View。[改进版本](https://github.com/LittleLiByte/GlFancyCoverFlow)可以无限轮播，可以选择自动轮播或者 手动滑动。
@@ -228,11 +229,13 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [StickerCamera](https://github.com/Skykai521/StickerCamera) - 可以说是一个完整的相机、图片编辑的 APP，集成了大部分市面上有的同类 APP 的功能，裁剪、滤镜、贴纸应有尽有。
 * [demo6_PhotoRiver](https://github.com/debolee/demo6_PhotoRiver) - 图片流动显示的demo，可以点击流动中的图片放大显示，双击空白处图片以九宫格排列。
 * [glide-transformations](https://github.com/wasabeef/glide-transformations) - 一个基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果。
+* [ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading) - 一个用纯代码实现自动绘画效果动画的项目。
 
 ========
 #### 视频音频处理
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。
 * [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) - 这里是Android上最好的开源弹幕引擎·烈焰弹幕使。
+* [YouTubePlayerActivity](https://github.com/TheFinestArtist/YouTubePlayerActivity) - 一个可以播放YouTube视频的Activity，支持屏幕旋转、声音控制、播放失败处理、可以自定义Activity关闭动画以及在横屏播放的时候自动隐藏status bar。
 
 ========
 #### 测试及调试
