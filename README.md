@@ -287,7 +287,8 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [smalidea](https://github.com/JesusFreke/smali/wiki/smalidea) - 一款 IntelliJ IDEA/Android Studio 的 smali 插件～ ，[Smalidea 无源码调试 Android 应用](http://drops.wooyun.org/tips/7181)。
 * [gradle-fir-plugin](https://github.com/sangmingming/gradle-fir-plugin) - 一个上传apk到fir的gradle插件，[使用说明](http://blog.isming.me/2015/08/01/gradle-fir-plugin/)。
 * [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - 一个ButterKnife的Android Studio插件, 该插件可以让你手动生成上述注入代码。
-
+* [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) - Gradle 依赖自动补全插件。
+* [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) - 可以根据指定颜色生成Selector Drawable的插件。
 
 ========
 ### 出名框架
