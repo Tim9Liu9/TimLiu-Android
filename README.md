@@ -289,6 +289,8 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - 一个ButterKnife的Android Studio插件, 该插件可以让你手动生成上述注入代码。
 * [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) - Gradle 依赖自动补全插件。
 * [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) - 可以根据指定颜色生成Selector Drawable的插件。
+* [7个最佳的Android模拟器](http://www.imooc.com/article/1425) - 7个最佳的Android模拟器。
+
 
 ========
 ### 出名框架
@@ -540,6 +542,7 @@ DEMO演示：
 Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码：Android Wear、Communication 、Education、Finance、Game、Multi-Media、News & Magazines、Personalization、Productivity、Social Network、Tools、Travel & Local。
 * [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - Android 常用开发工具 （Android Studio 插件、Android 网站、Android 系统性能调优工具、Android测试工具）。
+* [Android平台上最好的几款免费的代码编辑器](http://www.imooc.com/article/1281) - Android平台上最好的几款免费的代码编辑器:Quoda、DroidEdit、AWD、AIDE、CppDroid。
 
 
 ##### 中文开发博客列表
