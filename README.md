@@ -544,7 +544,7 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码：Android Wear、Communication 、Education、Finance、Game、Multi-Media、News & Magazines、Personalization、Productivity、Social Network、Tools、Travel & Local。
 * [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - Android 常用开发工具 （Android Studio 插件、Android 网站、Android 系统性能调优工具、Android测试工具）。
 * [Android平台上最好的几款免费的代码编辑器](http://www.imooc.com/article/1281) - Android平台上最好的几款免费的代码编辑器:Quoda、DroidEdit、AWD、AIDE、CppDroid。
-
+* [androidweekly](http://www.androidweekly.cn/) - android技术开发周报，干货很多。
 
 ##### 中文开发博客列表
 * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
