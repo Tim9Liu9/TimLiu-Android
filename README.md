@@ -61,8 +61,6 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [SearchAnimation](https://github.com/NiaNingXue/SearchAnimation) - 一个很棒的带动画的搜索框，支持低版本。
 * [快速支持emoji表情显示](http://www.eoeandroid.com/thread-567299-1-1.html) - 让项目快速支持emojicon表情的显示，并可判断用户输入的内容中是否含有emojicon表情以及过滤掉emojicon。
 * [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) - 可以方便快速集成漂亮带有动画效果的上下文菜单。
-* [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) - 提供一个简单可以自定义的下拉刷新实现。
-* [Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) - Taurus，很精美的下拉刷新。
 * [Titanic](https://github.com/RomainPiel/Titanic) - 可以显示水位上升下降的TextView。
 * [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - 滑动Layout，支持单个View，ListView，GridView，[demo-apk](https://github.com/daimajia/AndroidSwipeLayout/releases/download/v1.0.0/AndroidSwipeLayout-Demo-1.0.1-snapshot.apk)。
 * [android-typeface-helper](https://github.com/norbsoft/android-typeface-helper) - Android Typeface Helper 可以帮你轻松实现自定义字体的库。
@@ -141,6 +139,10 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 实现了模仿微信眼睛下拉效果，源码PullDownListView，下拉刷新，上拉加载，模仿微信眼睛。 
 * [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) - 又一个下拉刷新的实现，水滴效果。
 * [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) - 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位。
+* [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) - 提供一个简单可以自定义的下拉刷新实现。
+* [Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) - Taurus，很精美的下拉刷新。
+* [ParallaxListView](https://github.com/Gnod/ParallaxListView) - 模仿Path的下拉刷新，Head头部图片下拉放大。
+ 
 
 ##### 模糊效果
 * [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
