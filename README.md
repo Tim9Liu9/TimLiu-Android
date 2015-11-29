@@ -164,6 +164,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 ##### UI其他
 * [MixtureTextView](https://github.com/hongyangAndroid/MixtureTextView) - 富文本，支持Android图文混排、文字环绕图片等效果。
 * [android-ActionQueue](https://github.com/liaohuqiu/android-ActionQueue) - Action Queue 用于执行有次序的队列操作，比如按次序弹出对话框，这在 Android 中尤其有用。
+* [WheelView-Android](https://github.com/lantouzi/WheelView-Android) - WheelView-Android 是一款开源的 Android 滚动选择控件, 适用于不少应用场景。
 
 ========
 #### 动画
