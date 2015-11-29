@@ -111,7 +111,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [DraggedViewPager](https://github.com/yueban/DraggedViewPager) - 可以在多个 Page 之间可以拖放元素的控件。
 * [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) - 对 ViewPager 的一个扩展，Page 可宽可窄，表现很像 Gallelry。
 * [Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View是一种用于应用程序中显示日历的安卓库。它支持自定义样式。。
-* [MaterialCalendarView](MaterialCalendarView) - 是一款遵循 Material Design 风格的 Android 日历.
+* [MaterialCalendarView](https://github.com/jonisaa/MaterialCalendarView) - 是一款遵循 Material Design 风格的 Android 日历.
 * [DragLinearLayout](https://github.com/justasm/DragLinearLayout) - DragLinearLayout:自定义的线性布局，里面的UI可以自由拖动。
 * [floatingsearchview](https://github.com/arimorty/floatingsearchview) - floatingsearchview 一个带搜索下拉列表提示的搜索控件。
 
