@@ -187,6 +187,8 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [多线程下载](http://www.eoeandroid.com/thread-564501-1-1.html) - Android 实现多线程下载 完美代码。
 * [opandroid](https://github.com/openpeer/opandroid) - android p2p的开源实现。
 * [okio](https://github.com/square/okio) - square出的Okio这个库，尤其擅长处理二进制数据。如果觉得Java的输入输出流实在太复杂啰嗦，不妨试试Okio。
+* [okhttp](https://github.com/square/okhttp) - square出的okhttp库。
+* [OkHttpPlus](https://github.com/ZhaoKaiQiang/OkHttpPlus) - OkHttp 的一个工具类开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载 ，[OkHttpPlus介绍](http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815)。
 * [Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - 一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你。
 
 ========
