@@ -166,6 +166,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [android-ActionQueue](https://github.com/liaohuqiu/android-ActionQueue) - Action Queue 用于执行有次序的队列操作，比如按次序弹出对话框，这在 Android 中尤其有用。
 * [WheelView-Android](https://github.com/lantouzi/WheelView-Android) - WheelView-Android 是一款开源的 Android 滚动选择控件, 适用于不少应用场景。
 * [Highlight](https://github.com/hongyangAndroid/Highlight) - Highlight一款可应用于 Android 应用上的指向性功能高亮的库, 可以快速的给应用添加上应用引导的效果。
+* [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) - 支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案 。 
 
 ========
 #### 动画
