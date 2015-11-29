@@ -143,7 +143,6 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) - 提供一个简单可以自定义的下拉刷新实现。
 * [Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) - Taurus，很精美的下拉刷新。
 * [ParallaxListView](https://github.com/Gnod/ParallaxListView) - 模仿Path的下拉刷新，Head头部图片下拉放大。
- 
 
 ##### 模糊效果
 * [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
@@ -179,7 +178,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) - android-shapeLoadingView实现高仿新版58 加载动画，loading。
 * [一个绚丽的loading](http://blog.csdn.net/tianjian4592/article/details/44538605) - 一个绚丽的loading动效分析与实现。
 * [TransitionPlayer](https://github.com/XMFE-TEAM/TransitionPlayer) - 一个 Transition 动画控制控制库，可以让你很轻松的创建一个可交互的动画。
-
+* [loading-balls](https://github.com/glomadrian/loading-balls) - loading-balls 一款支持高度配置的 Android 加载进度球。
 
 ========
 #### 网络相关
