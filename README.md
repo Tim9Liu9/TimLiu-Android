@@ -169,6 +169,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) - 支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案 。 
 * [CleverRecyclerView](https://github.com/luckyandyzhang/CleverRecyclerView) - 是一个基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性。
 * [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) - 一个Android TabLayout库,目前有两个TabLayout:SlidingTabLayout、CommonTabLayout。
+* [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) - 一种完全无侵入的 Android 应用换肤方式，支持插件式和应用内换肤，无需重启 Activity。
 
 ========
 #### 动画
