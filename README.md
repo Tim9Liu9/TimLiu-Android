@@ -302,7 +302,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [八个Android项目源码](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12974) - 八个Android项目源码，大部分功能相信可以在实战项目中直接使用，供大家下载学习，大部分项目是基于Android Studio开发，IDE为Eclipse的童鞋可通过网上教程自行转换，这里就不多说了。大家可以下载下来学习看看！ [百度云盘下载地址](http://pan.baidu.com/s/1mgMlCBA)。
 * [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
 * [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。
-
+* [GithubTrends](https://github.com/laowch/GithubTrends) - 是一个用来看查看 GitHub 热门项目的 Android App, 遵循 Material Design, 支持订阅 50 多种编程语言, 9 种颜色主题切换, 可在上面收藏喜欢的项目。
 
 ========
 ### 插件
