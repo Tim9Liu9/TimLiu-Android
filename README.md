@@ -160,6 +160,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [CircularBarPager](https://github.com/OrangeGangsters/CircularBarPager) - Android实现的动态效果，一个数字圆圈进度效果，源码CircularBarPager，material 风格的数字圆圈进度显示库（api10 +）。
 * [dotted-progress-bar](https://github.com/igortrncic/dotted-progress-bar) - 一个小清新的进度条。
 * [WhorlView](https://github.com/Kyson/WhorlView) - 一个炫酷的漩涡加载效果自定义View。
+* [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - AVLoadingIndicatorView整合了一些漂亮的 Android 动画加载效果。
 
 ========
 ##### UI其他
