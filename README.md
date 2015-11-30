@@ -144,6 +144,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) - 提供一个简单可以自定义的下拉刷新实现。
 * [Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) - Taurus，很精美的下拉刷新。
 * [ParallaxListView](https://github.com/Gnod/ParallaxListView) - 模仿Path的下拉刷新，Head头部图片下拉放大。
+* [WaveRefreshForAndroid](https://github.com/alienjun/WaveRefreshForAndroid) - 下拉刷新水波纹动画。
 
 ##### 模糊效果
 * [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
