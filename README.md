@@ -257,6 +257,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。
 * [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) - 这里是Android上最好的开源弹幕引擎·烈焰弹幕使。
 * [YouTubePlayerActivity](https://github.com/TheFinestArtist/YouTubePlayerActivity) - 一个可以播放YouTube视频的Activity，支持屏幕旋转、声音控制、播放失败处理、可以自定义Activity关闭动画以及在横屏播放的时候自动隐藏status bar。
+* [AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer) - 开源的 Android 视频播放器，支持 DLNA。
 
 ========
 #### 测试及调试
