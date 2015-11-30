@@ -175,7 +175,8 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) - 一个Android TabLayout库,目前有两个TabLayout:SlidingTabLayout、CommonTabLayout。
 * [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) - 一种完全无侵入的 Android 应用换肤方式，支持插件式和应用内换肤，无需重启 Activity。
 * [Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker) - Lobsterpicker 为 Android 开发者提供了满足 Material Design 风格的颜色选择器。
-* [FlycoRoundView](https://github.com/H07000223/FlycoRoundView) - 一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用. 。
+* [FlycoRoundView](https://github.com/H07000223/FlycoRoundView) - 一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用。
+* [FlowingDrawer](https://github.com/mxn21/FlowingDrawer) - FlowingDrawer 一个弹性效果的抽屉菜单，图片是概念图，实际效果实现了70%（侧滑菜单）。
 
 ========
 #### 动画
