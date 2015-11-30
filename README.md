@@ -151,7 +151,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 
 ##### HUD与Toast
 * [android-UCToast](https://github.com/liaohuqiu/android-UCToast) - 在不申请任何权限的情况下在 Android 应用中弹出悬浮窗,[实现文档](http://gold.xitu.io/entry/5626f73960b25974a0e5e57c)。
-
+* [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog) - sweet-alert-dialog是一款清新文艺的 Android 弹窗, 灵感来自于 JS 版的 SweetAlert。
 
 ##### 进度条
 * [easyloadingbtn](https://github.com/DevinShine/easyloadingbtn) - 模仿了一个Dribbble上的Material Design效果，环形loading， 进度条、进度圈。
