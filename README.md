@@ -173,7 +173,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) - 实现了类似 Google Photos 风格的图片多选效果。
 * [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) - 一个Android TabLayout库,目前有两个TabLayout:SlidingTabLayout、CommonTabLayout。
 * [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) - 一种完全无侵入的 Android 应用换肤方式，支持插件式和应用内换肤，无需重启 Activity。
-
+* [Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker) - Lobsterpicker 为 Android 开发者提供了满足 Material Design 风格的颜色选择器。
 
 
 ========
