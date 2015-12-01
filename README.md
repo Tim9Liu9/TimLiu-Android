@@ -308,6 +308,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [minicat](https://github.com/mcxiaoke/minicat) - 一个简洁的饭否App，支持Android 4.0以上版本。
 * [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。
 * [GithubTrends](https://github.com/laowch/GithubTrends) - 是一个用来看查看 GitHub 热门项目的 Android App, 遵循 Material Design, 支持订阅 50 多种编程语言, 9 种颜色主题切换, 可在上面收藏喜欢的项目。
+* [jianshi](https://github.com/wingjay/jianshi) - jianshi简诗是国人开发的一个用于记录文字信息的 Android 完整应用, 作者仅用了一天便将其开发出来, 并将开发的流程记录成文放到了简书上。
 
 ========
 ### 插件
