@@ -181,6 +181,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [FlowingDrawer](https://github.com/mxn21/FlowingDrawer) - FlowingDrawer 一个弹性效果的抽屉菜单，图片是概念图，实际效果实现了70%（侧滑菜单）。
 * [TextSurface](https://github.com/elevenetc/TextSurface) -是用 Java 写的一款借助酷炫的动画效果来完成消息展示的微型动画框架。
 * [android-animate-RichEditor](https://github.com/xmuSistone/android-animate-RichEditor) -android-animate-RichEditor是一款支持图片插入动画效果的 Android 富文本编辑器。
+* [FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator) -android-animate-RichEditor是一款支持图片插入动画效果的 Android 富文本编辑器。
 
 ========
 #### 动画
