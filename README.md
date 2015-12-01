@@ -16,7 +16,6 @@ TimLiu-Android
     
 - [动画](#动画)
 
-
 - [网络相关](#网络相关)
 - [响应式编程](#响应式编程)
 - [地图](#地图)
@@ -310,6 +309,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。
  * [GithubTrends](https://github.com/laowch/GithubTrends) - 是一个用来看查看 GitHub 热门项目的 Android App, 遵循 Material Design, 支持订阅 50 多种编程语言, 9 种颜色主题切换, 可在上面收藏喜欢的项目。
  * [jianshi](https://github.com/wingjay/jianshi) - jianshi简诗是国人开发的一个用于记录文字信息的 Android 完整应用, 作者仅用了一天便将其开发出来, 并将开发的流程记录成文放到了简书上。
+ * [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) - 积木： 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；依循 Material Design 作为主导设计 UI 的应用。
 
 ========
 ### 插件
