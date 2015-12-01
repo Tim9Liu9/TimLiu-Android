@@ -197,6 +197,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [一个绚丽的loading](http://blog.csdn.net/tianjian4592/article/details/44538605) - 一个绚丽的loading动效分析与实现。
 * [TransitionPlayer](https://github.com/XMFE-TEAM/TransitionPlayer) - 一个 Transition 动画控制控制库，可以让你很轻松的创建一个可交互的动画。
 * [loading-balls](https://github.com/glomadrian/loading-balls) - loading-balls 一款支持高度配置的 Android 加载进度球。
+* [SogoLoading](https://github.com/dengshiwei/SogoLoading) - 仿搜狗浏览器加载动画，[实现说明](http://blog.csdn.net/mr_dsw/article/details/49026531)。
 
 ========
 #### 网络相关
