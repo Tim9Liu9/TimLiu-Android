@@ -271,6 +271,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [YouTubePlayerActivity](https://github.com/TheFinestArtist/YouTubePlayerActivity) - 一个可以播放YouTube视频的Activity，支持屏幕旋转、声音控制、播放失败处理、可以自定义Activity关闭动画以及在横屏播放的时候自动隐藏status bar。
 * [AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer) - 开源的 Android 视频播放器，支持 DLNA。
 * [Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player) - Hide音乐播放器。
+* [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) - 是一个功能强大的 Android 开源播放器, 作者将原本收费的项目拿出来开源, 实在令人敬佩。
 
 ========
 #### 测试及调试
