@@ -180,6 +180,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 * [FlycoRoundView](https://github.com/H07000223/FlycoRoundView) - 一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用。
 * [FlowingDrawer](https://github.com/mxn21/FlowingDrawer) - FlowingDrawer 一个弹性效果的抽屉菜单，图片是概念图，实际效果实现了70%（侧滑菜单）。
 * [TextSurface](https://github.com/elevenetc/TextSurface) -是用 Java 写的一款借助酷炫的动画效果来完成消息展示的微型动画框架。
+* [android-animate-RichEditor](https://github.com/xmuSistone/android-animate-RichEditor) -android-animate-RichEditor是一款支持图片插入动画效果的 Android 富文本编辑器。
 
 ========
 #### 动画
