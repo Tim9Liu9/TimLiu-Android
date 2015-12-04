@@ -284,6 +284,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Androguard](https://github.com/androguard/androguard) - Androguard使用Python写的一系列逆向工具集，功能很强大哦，对逆向工程感兴趣的小伙伴可以这个系列，[教程](http://www.technotalkative.com/part-1-reverse-engineering-using-androguard/)。
  * [logger](https://github.com/orhanobut/logger) - 一个简单、漂亮、功能强大的Android日志程序。
  * [stf](https://github.com/openstf/stf) - WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行，[使用说明](https://testerhome.com/topics/2988) 。
+ * [DecompileApk](https://github.com/MasonLiuChn/DecompileApk) - 一键反编译 APK，输出所有反编译后的代码、资源，使用方便。
 
 ========
 #### 消息推送
