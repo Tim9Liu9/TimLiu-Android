@@ -386,7 +386,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) - 里面是安卓的一些外国前沿文章的翻译，想课余时间学习 Android 的看看，已经收录了。
  * [android-tuning-tool-strictmode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/) - Android性能调优利器StrictMode。
  * [Android-Tips](https://github.com/tangqi92/Android-Tips) - Android-Tips 安卓方面各种难点坑汇总，按字母排序。
-
+ * [jvm-core-learning-example](https://github.com/JeffLi1993/jvm-core-learning-example) - 关于Java虚拟机核心知识点学习积累的例子，是初学者及虚拟机核心知识巩固的最佳实践。。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
