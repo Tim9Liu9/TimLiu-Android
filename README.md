@@ -296,6 +296,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 
 ========
 #### 完整项目
+ * [Leisure](https://github.com/MummyDing/Leisure)  - 闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用。 果壳、知乎和豆瓣在国内拥有大量用户，这些社区的用户每天都产生很多高质量内容。闲暇以其简介的风格将这几大社区 的优质内容整合于一体，使得用户能有效地获取这些内容，大大节省了用户的时间。[酷安下载地址](http://coolapk.com/apk/com.mummyding.app.leisure).    
  * [SuesNews新闻客户端](https://github.com/sues-lee/SuesNews) - 腾飞新闻，一个符合 Google Material Design 的 Android 校园新闻客户端 ，[新闻客户端说明](http://www.eoeandroid.com/thread-569074-1-1.html) 。
  * [新闻客户端](http://bbs.aiyingli.com/forum.php?mod=viewthread&tid=12170) - Android应用源码比较不错的新闻客户端，本项目启动引导登录注册用户中心列表显示文章分页下拉刷新文章收藏更新反馈等新闻客户端常见的功能都有，项目分层合理，代码质量较高。  
  * [materialistic](https://github.com/hidroh/materialistic) - Material Desgin风格的Hacker News客户端。
@@ -313,7 +314,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [GithubTrends](https://github.com/laowch/GithubTrends) - 是一个用来看查看 GitHub 热门项目的 Android App, 遵循 Material Design, 支持订阅 50 多种编程语言, 9 种颜色主题切换, 可在上面收藏喜欢的项目。
  * [jianshi](https://github.com/wingjay/jianshi) - jianshi简诗是国人开发的一个用于记录文字信息的 Android 完整应用, 作者仅用了一天便将其开发出来, 并将开发的流程记录成文放到了简书上。
  * [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) - 积木： 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；依循 Material Design 作为主导设计 UI 的应用。
-
+ 
 ========
 ### 插件
  * [Android Studio 插件和工具](http://stormzhang.com/android/2015/05/26/android-tools/) -  5个  推荐几个有用的 Android Studio 插件和工具（ButterKnife、selectorChapek、GsonFormat、ParcelableGenerator、LeakCanary）。
