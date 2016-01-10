@@ -267,7 +267,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading) - 一个用纯代码实现自动绘画效果动画的项目。
  * [SlidingCard](https://github.com/mxn21/SlidingCard) - 漂亮的卡片滑动翻页特效。
  * [LargeImage](https://github.com/LuckyJayce/LargeImage) - 加载大图 可以高清显示10000*10000像素的图片。
-
+ * [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选 择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。
 
 ========
 #### 视频音频处理
