@@ -212,6 +212,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [okhttp](https://github.com/square/okhttp) - square出的okhttp库。
  * [OkHttpPlus](https://github.com/ZhaoKaiQiang/OkHttpPlus) - OkHttp 的一个工具类开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载 ，[OkHttpPlus介绍](http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815)。
  * [Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - 一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你。
+ * [FileDownloader](https://github.com/lingochamp/FileDownloader) - 文件下载引擎，稳定、高效、简单易用。
 
 ========
 ##### 网络测试
