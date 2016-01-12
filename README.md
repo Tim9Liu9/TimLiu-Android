@@ -184,6 +184,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [android-animate-RichEditor](https://github.com/xmuSistone/android-animate-RichEditor) -android-animate-RichEditor是一款支持图片插入动画效果的 Android 富文本编辑器。
  * [FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator) - android-animate-RichEditor是一款支持图片插入动画效果的 Android 富文本编辑器。
  * [AndroidMosaicLayout](https://github.com/adhamenaya/AndroidMosaicLayout) - 马赛克效果 Layout,磁片风格View 自适应大小。
+ * [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等。
 
 ========
 #### 动画
