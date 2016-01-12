@@ -339,6 +339,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [dexposed](https://github.com/alibaba/dexposed) - 淘宝 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) 。 [Android Hotpatch系列之-项目介绍](http://my.oschina.net/fengcunhan/blog/487296) - [客户端例子实现](https://github.com/fengcunhan/Hotpatch-Sample),[服务器简易实现](https://github.com/fengcunhan/Hotpatch-SimpleServer)  。热更新。
  * [Xposed](https://github.com/rovo89/Xposed) - Xposed是一款可以在不修改APK的情况下影响程序运行的框架服务,[Android Hook神器：XPosed入门与登陆劫持演示](http://www.csdn.net/article/2015-08-14/2825462) 。热更新。
  * [code-push](http://microsoft.github.io/code-push/) -大微软推出的一套可以为用 React Native 和 Cordova 开发的 App 提供代码热更新的方案。
+ * [Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架，目前已支持Android、iOS以及html5插件。并且三者之间可以通过同一套javascript接口进行通信。 
  * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
 
 ========
