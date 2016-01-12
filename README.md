@@ -201,7 +201,8 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [loading-balls](https://github.com/glomadrian/loading-balls) - loading-balls 一款支持高度配置的 Android 加载进度球。
  * [SogoLoading](https://github.com/dengshiwei/SogoLoading) - 仿搜狗浏览器加载动画，[实现说明](http://blog.csdn.net/mr_dsw/article/details/49026531)。
  * [ExplosionField](https://github.com/tyrantgit/ExplosionField) - Android中View 炸裂特效的[实现分析](http://blog.csdn.net/feelang/article/details/48817145)。
- * [AZExplosion](https://github.com/Xieyupeng520/AZExplosion) - AZExplosion：模仿ExplosionField的粒子破碎效果 。
+ * [AZExplosion](https://github.com/Xieyupeng520/AZExplosion) - AZExplosion：模仿ExplosionField的粒子破碎效果。
+ * [BrokenView](https://github.com/zhanyongsheng/BrokenView) -玻璃碎裂动画效果。
 
 ========
 #### 网络相关
