@@ -166,6 +166,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [dotted-progress-bar](https://github.com/igortrncic/dotted-progress-bar) - 一个小清新的进度条。
  * [WhorlView](https://github.com/Kyson/WhorlView) - 一个炫酷的漩涡加载效果自定义View。
  * [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - AVLoadingIndicatorView整合了一些漂亮的 Android 动画加载效果。
+ * [MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget) - 渐变的圆形进度条与轻量横向进度条。
 
 ========
 ##### UI其他
