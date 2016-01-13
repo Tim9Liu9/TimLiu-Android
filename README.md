@@ -298,6 +298,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [logger](https://github.com/orhanobut/logger) - 一个简单、漂亮、功能强大的Android日志程序。
  * [stf](https://github.com/openstf/stf) - WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行，[使用说明](https://testerhome.com/topics/2988) 。
  * [DecompileApk](https://github.com/MasonLiuChn/DecompileApk) - 一键反编译 APK，输出所有反编译后的代码、资源，使用方便。
+ * [AppCrashTracker](https://github.com/macroday/AppCrashTracker) - 一个异常追踪器，可以生成一个 JSON 格式的日志并可以上传到服务器。 
 
 ========
 #### 消息推送
