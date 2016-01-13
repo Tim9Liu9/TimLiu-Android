@@ -110,9 +110,11 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [DraggedViewPager](https://github.com/yueban/DraggedViewPager) - 可以在多个 Page 之间可以拖放元素的控件。
  * [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) - 对 ViewPager 的一个扩展，Page 可宽可窄，表现很像 Gallelry。
  * [Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View是一种用于应用程序中显示日历的安卓库。它支持自定义样式。。
- * [MaterialCalendarView](https://github.com/jonisaa/MaterialCalendarView) - 是一款遵循 Material Design 风格的 Android 日历.
+ * [MaterialCalendarView](https://github.com/jonisaa/MaterialCalendarView) - 是一款遵循 Material Design 风格的 Android 日历。
+ * [WeekCalendar](https://github.com/nomanr/WeekCalendar) - 周模式的日历自定义控件，支持 4.0 以上。
  * [DragLinearLayout](https://github.com/justasm/DragLinearLayout) - DragLinearLayout:自定义的线性布局，里面的UI可以自由拖动。
  * [floatingsearchview](https://github.com/arimorty/floatingsearchview) - floatingsearchview 一个带搜索下拉列表提示的搜索控件。
+ * [LabelView](https://github.com/corerzhang/LabelView) - LabelView 一个简单的标签控件 支持自定义 文字大小（textSize）， 间距（labelTopPadding）， 背景色（backgroundColor）， 和方向（direction）等。
 
 ##### 卫星菜单
  * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
@@ -186,7 +188,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [AndroidMosaicLayout](https://github.com/adhamenaya/AndroidMosaicLayout) - 马赛克效果 Layout,磁片风格View 自适应大小。
  * [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等。
  * [Swipe-Deck](https://github.com/aaronbond/Swipe-Deck) - 仿 Tinder 的可以左右滑动消除卡片效果的自定义控件。
- * [LabelView](https://github.com/corerzhang/LabelView) - LabelView 一个简单的标签控件 支持自定义 文字大小（textSize）， 间距（labelTopPadding）， 背景色（backgroundColor）， 和方向（direction）等。
+
 
 ========
 #### 动画
