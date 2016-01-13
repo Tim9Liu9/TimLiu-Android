@@ -338,6 +338,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) - 可以根据指定颜色生成Selector Drawable的插件。
  * [7个最佳的Android模拟器](http://www.imooc.com/article/1425) - 7个最佳的Android模拟器。
  * [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - 可以生成 java doc 的 Gradle 插件。
+ * [gradle-android-junit-jacoco-plugin](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin) - 可以生成代码单元测试覆盖率报告的 Gradle 插件。
 
 ========
 ### 出名框架
