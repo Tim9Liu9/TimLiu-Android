@@ -188,7 +188,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [AndroidMosaicLayout](https://github.com/adhamenaya/AndroidMosaicLayout) - 马赛克效果 Layout,磁片风格View 自适应大小。
  * [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等。
  * [Swipe-Deck](https://github.com/aaronbond/Swipe-Deck) - 仿 Tinder 的可以左右滑动消除卡片效果的自定义控件。
-
+ * [IntlPhoneInput](https://github.com/Rimoto/IntlPhoneInput) - 一个支持国际化的电话号码输入的自定义控件。
 
 ========
 #### 动画
