@@ -186,6 +186,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [AndroidMosaicLayout](https://github.com/adhamenaya/AndroidMosaicLayout) - 马赛克效果 Layout,磁片风格View 自适应大小。
  * [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等。
  * [Swipe-Deck](https://github.com/aaronbond/Swipe-Deck) - 仿 Tinder 的可以左右滑动消除卡片效果的自定义控件。
+ * [LabelView](https://github.com/corerzhang/LabelView) - LabelView 一个简单的标签控件 支持自定义 文字大小（textSize）， 间距（labelTopPadding）， 背景色（backgroundColor）， 和方向（direction）等。
 
 ========
 #### 动画
