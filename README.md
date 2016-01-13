@@ -255,6 +255,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [sqlbrite](https://github.com/LuckyJayce/DBExecutor) - DBExecutor android ORM数据库 1.使用了读写锁，支持多线程操作数据。 2.支持操作多个数据库 3.支持事务 4.缓存Sql，缓存表结构。
  * [Iron](https://github.com/FabianTerhorst/Iron) - 一个快速和易用的 NoSQL 数据存储框架。
  * [hawk](https://github.com/orhanobut/hawk) - 一个快速和易用的键值对数据存储框架，支持AES加密，支持SharedPreferences或Sqlite存储，支持Gson解析。
+ * [AndroidKeyValueStore](https://github.com/lusfold/AndroidKeyValueStore) - 一个基于 SQLite 的 Key/Value 存储框架。
 
 ========
 #### 图像浏览及处理
