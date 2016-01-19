@@ -340,6 +340,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - 可以生成 java doc 的 Gradle 插件。
  * [gradle-android-junit-jacoco-plugin](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin) - 可以生成代码单元测试覆盖率报告的 Gradle 插件。
  * [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin) - 可以将 Apk 大小记录到 CSV 文件的 Gradle 插件。
+ * [几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b) - 几款实用的Android Studio 插件：1、android-butterknife-zelezny；2、Gsonformat：可根据json数据快速生成java实体类；3、Android Postfix Completion；4、AndroidAccessors；5、Lifecycle Sorter：根据Activity或者fragment的生命周期对其生命周期方法位置进行先后排序，快捷键Ctrl + alt + K；6、JsonOnlineViewer；7、CodeGlance；8、findBugs-IDEA：帮你一起找bug的；9、ADB WIFI：使用wifi无线调试你的app，无需root权限。
 
 ========
 ### 出名框架
