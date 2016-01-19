@@ -277,6 +277,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [demo6_PhotoRiver](https://github.com/debolee/demo6_PhotoRiver) - 图片流动显示的demo，可以点击流动中的图片放大显示，双击空白处图片以九宫格排列。
  * [glide-transformations](https://github.com/wasabeef/glide-transformations) - 一个基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果。
  * [ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading) - 一个用纯代码实现自动绘画效果动画的项目。
+ * [SmartDrawing](https://github.com/SmartDengg/SmartDrawing) - 一个轻量级的手绘板，加入了一点截图功能。这只是一个Demo。并不能作为类库，也不是完整的项目工程，仅供学习或参考使用。
  * [SlidingCard](https://github.com/mxn21/SlidingCard) - 漂亮的卡片滑动翻页特效。
  * [LargeImage](https://github.com/LuckyJayce/LargeImage) - 加载大图 可以高清显示10000*10000像素的图片。
  * [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选 择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。
