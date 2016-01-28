@@ -193,6 +193,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [IntlPhoneInput](https://github.com/Rimoto/IntlPhoneInput) - 一个支持国际化的电话号码输入的自定义控件。
  * [AndroidUI4Web](https://github.com/linfaxin/AndroidUI4Web) - AndroidUI4Web是一个高性能的WebApp框架, 在移动浏览器上有与原生App一致的体验。
  * [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - SmoothCheckBox带有切换动画的CheckBox。
+ * [AndroidTimelineViewx](https://github.com/anyunzhong/AndroidTimelineViewx) - AndroidTimelineViewx仿微信朋友圈 时间轴。
 
 ========
 #### 动画
