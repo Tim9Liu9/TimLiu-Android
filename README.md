@@ -287,6 +287,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [LargeImage](https://github.com/LuckyJayce/LargeImage) - 加载大图 可以高清显示10000*10000像素的图片。
  * [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选 择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。
  * [AndroidAlbum](https://github.com/D-clock/AndroidAlbum) - AndroidAlbum图片选择器：1、MVP结构设计；2、工厂模式对载图框架进行封装抽象，方便替换其他载图框架；3、闪退日志的搜集，方便揪BUG。
+ * [uCrop](https://github.com/Yalantis/uCrop) - uCrop 是 Yalantis 推出的又一款力作, 用于裁剪 Android 系统上的图片, 致力于打造最佳的图片裁剪体验。
 
 ========
 #### 视频音频处理
