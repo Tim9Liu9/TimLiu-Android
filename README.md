@@ -610,6 +610,7 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
  * [Android平台上最好的几款免费的代码编辑器](http://www.imooc.com/article/1281) - Android平台上最好的几款免费的代码编辑器:Quoda、DroidEdit、AWD、AIDE、CppDroid。
  * [androidweekly](http://www.androidweekly.cn/) - android技术开发周报，干货很多。
  * [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) - 收集了很多在平时使用 Rails 开发网站时经常会使用到的 Gem, 当中包括的有用户认证系统, API 接口开发, 文件上传, 站内搜索等优秀的 Gem 源。
+ * [Android_Data](https://github.com/Freelander/Android_Data) - 一份旨在帮助 Android 初学者快速入门以及找到适合自己学习的资料。
 
 ##### 中文开发博客列表
  * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
