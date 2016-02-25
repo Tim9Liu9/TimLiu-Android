@@ -214,6 +214,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [ExplosionField](https://github.com/tyrantgit/ExplosionField) - Android中View 炸裂特效的[实现分析](http://blog.csdn.net/feelang/article/details/48817145)。
  * [AZExplosion](https://github.com/Xieyupeng520/AZExplosion) - AZExplosion：模仿ExplosionField的粒子破碎效果。
  * [BrokenView](https://github.com/zhanyongsheng/BrokenView) -玻璃碎裂动画效果。
+ * [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - SwipeCardView一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）。[类似SwipeCard](https://github.com/Diolor/Swipecards)
 
 ========
 #### 网络相关
