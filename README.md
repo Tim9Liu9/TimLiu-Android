@@ -420,6 +420,9 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [android-tuning-tool-strictmode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/) - Android性能调优利器StrictMode。
  * [Android-Tips](https://github.com/tangqi92/Android-Tips) - Android-Tips 安卓方面各种难点坑汇总，按字母排序。
  * [jvm-core-learning-example](https://github.com/JeffLi1993/jvm-core-learning-example) - 关于Java虚拟机核心知识点学习积累的例子，是初学者及虚拟机核心知识巩固的最佳实践。。
+ * [Translucent System Bar 的最佳实践](http://www.jianshu.com/p/0acc12c29c1b) - Translucent System Bar 的最佳实践。
+ * [最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae) - 最详细的 Toolbar 开发实践总结。
+ * [最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a) - 最详细的 NavigationDrawer 开发实践总结。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
