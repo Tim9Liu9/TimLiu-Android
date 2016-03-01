@@ -201,6 +201,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - 深度定制的 LayoutManager，在显示网格布局的时候会考虑屏幕宽高比。
  * [Rosie](https://github.com/Karumi/Rosie) - 可以让你创建遵循 Clean Architecture 的应用的框架。
  * [CreditCardView](https://github.com/cooltechworks/CreditCardView) - 一个交互很赞的信用卡自定义 View。
+ * [android-md-core](https://github.com/henrytao-me/android-md-core) - Material风格bootstrap的框架。
 
 ========
 #### 动画
