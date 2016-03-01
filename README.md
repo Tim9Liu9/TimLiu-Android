@@ -423,6 +423,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Translucent System Bar 的最佳实践](http://www.jianshu.com/p/0acc12c29c1b) - Translucent System Bar 的最佳实践。
  * [最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae) - 最详细的 Toolbar 开发实践总结。
  * [最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a) - 最详细的 NavigationDrawer 开发实践总结。
+ * [MVVM 模式介绍](https://github.com/xitu/gold-miner/blob/master/TODO%2Fapproaching-android-with-mvvm.md) - MVVM 模式介绍。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
