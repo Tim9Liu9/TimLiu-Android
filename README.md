@@ -223,6 +223,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [AZExplosion](https://github.com/Xieyupeng520/AZExplosion) - AZExplosion：模仿ExplosionField的粒子破碎效果。
  * [BrokenView](https://github.com/zhanyongsheng/BrokenView) -玻璃碎裂动画效果。
  * [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - SwipeCardView一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）。[类似SwipeCard](https://github.com/Diolor/Swipecards)
+ * [CRAudioVisualizationView](https://github.com/Cleveroad/CRAudioVisualizationView) - 水波纹效果的声音可视化自定义 View。
 
 ========
 #### 网络相关
