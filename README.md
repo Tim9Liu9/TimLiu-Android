@@ -197,6 +197,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [AndroidTimelineViewx](https://github.com/anyunzhong/AndroidTimelineViewx) - AndroidTimelineViewx仿微信朋友圈 时间轴。
  * [CityPicker](https://github.com/zaaach/CityPicker) - CityPicker仿美团等选择城市列表。
  * [material-intro](https://github.com/HeinrichReimer/material-intro) - Material Design 风格的引导页。
+ * [EmphasisTextView](https://github.com/athkalia/EmphasisTextView) - 支持部分文字高亮的 TextView。
 
 ========
 #### 动画
