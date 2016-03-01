@@ -198,6 +198,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [CityPicker](https://github.com/zaaach/CityPicker) - CityPicker仿美团等选择城市列表。
  * [material-intro](https://github.com/HeinrichReimer/material-intro) - Material Design 风格的引导页。
  * [EmphasisTextView](https://github.com/athkalia/EmphasisTextView) - 支持部分文字高亮的 TextView。
+ * [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - 深度定制的 LayoutManager，在显示网格布局的时候会考虑屏幕宽高比。
 
 ========
 #### 动画
