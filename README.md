@@ -411,6 +411,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Droid Plugin](https://github.com/Qihoo360/DroidPlugin) - DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
  * [JsonAnnotation](https://github.com/tianzhijiexian/JsonAnnotation) - 利用注解自动生成Gson‘s Model的库。
  * [WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - 微信抢红包插件。
+ * [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - support 库在 23.2 版本新增内容示例项目。
 
 ========
 #### 好的文章
