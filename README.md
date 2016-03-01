@@ -202,6 +202,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Rosie](https://github.com/Karumi/Rosie) - 可以让你创建遵循 Clean Architecture 的应用的框架。
  * [CreditCardView](https://github.com/cooltechworks/CreditCardView) - 一个交互很赞的信用卡自定义 View。
  * [android-md-core](https://github.com/henrytao-me/android-md-core) - Material风格bootstrap的框架。
+ * [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - 一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）。
 
 ========
 #### 动画
