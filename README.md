@@ -203,6 +203,8 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [CreditCardView](https://github.com/cooltechworks/CreditCardView) - 一个交互很赞的信用卡自定义 View。
  * [android-md-core](https://github.com/henrytao-me/android-md-core) - Material风格bootstrap的框架。
  * [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - 一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）。
+ * [SwipeSelector](https://github.com/roughike/SwipeSelector) - 可以左右滑动切换 item 的 Selector。
+
 
 ========
 #### 动画
