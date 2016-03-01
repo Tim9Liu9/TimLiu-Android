@@ -13,9 +13,7 @@ TimLiu-Android
     - [HUD与Toast](#HUD与Toast)
     - [进度条](#进度条)
     - [UI其它](#UI其他)
-    
 - [动画](#动画)
-
 - [网络相关](#网络相关)
 - [响应式编程](#响应式编程)
 - [地图](#地图)
@@ -198,6 +196,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - SmoothCheckBox带有切换动画的CheckBox。
  * [AndroidTimelineViewx](https://github.com/anyunzhong/AndroidTimelineViewx) - AndroidTimelineViewx仿微信朋友圈 时间轴。
  * [CityPicker](https://github.com/zaaach/CityPicker) - CityPicker仿美团等选择城市列表。
+ * [material-intro](https://github.com/HeinrichReimer/material-intro) - Material Design 风格的引导页。
 
 ========
 #### 动画
