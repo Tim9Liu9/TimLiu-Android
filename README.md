@@ -384,7 +384,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架，目前已支持Android、iOS以及html5插件。并且三者之间可以通过同一套javascript接口进行通信。 
  * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
  * [retrofit](https://github.com/square/retrofit/tree/version-one) - retrofit将 REST API 转换为 Java 接口。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
- * [Dagger2](https://github.com/google/dagger) - Dagger 2 是著名的依赖注入库 Dagger 的继承者，我们强烈推荐它。[文档](http://google.github.io/dagger/)，[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
+ * [Dagger2](https://github.com/google/dagger) - Dagger 2 是著名的依赖注入库 [Dagger](https://github.com/square/dagger) 的继承者，我们强烈推荐它。[文档](http://google.github.io/dagger/)，[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
 
 ========
 #### 其他
