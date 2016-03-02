@@ -21,6 +21,7 @@ TimLiu-Android
 - [图像浏览及处理](#图像浏览及处理)
 - [视频音频处理](#视频音频处理)
 - [测试及调试](#测试及调试)
+- [动态更新热更新](#动态更新热更新)
 - [消息推送](#消息推送)
 - [完整项目](#完整项目) 
 - [插件](#插件)
@@ -325,6 +326,13 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [AppCrashTracker](https://github.com/macroday/AppCrashTracker) - 一个异常追踪器，可以生成一个 JSON 格式的日志并可以上传到服务器。 
 
 ========
+#### 动态更新热更新
+ * [dexposed](https://github.com/alibaba/dexposed) - 淘宝 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) 。 [Android Hotpatch系列之-项目介绍](http://my.oschina.net/fengcunhan/blog/487296) - [客户端例子实现](https://github.com/fengcunhan/Hotpatch-Sample),[服务器简易实现](https://github.com/fengcunhan/Hotpatch-SimpleServer)  。热更新。
+ * [Xposed](https://github.com/rovo89/Xposed) - Xposed是一款可以在不修改APK的情况下影响程序运行的框架服务,[Android Hook神器：XPosed入门与登陆劫持演示](http://www.csdn.net/article/2015-08-14/2825462) 。热更新。
+ * [code-push](http://microsoft.github.io/code-push/) -大微软推出的一套可以为用 React Native 和 Cordova 开发的 App 提供代码热更新的方案。
+ * [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) - 实现Android App多apk插件化和动态加载，支持资源分包和热修复。
+
+========
 #### 消息推送
 ##### 客户端
 
@@ -372,9 +380,6 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。
  * [ButterKnife](https://github.com/JakeWharton/butterknife) - ButterKnife是一个专注于Android系统的View注入框架，让你从此从这些烦人臃肿的代码中解脱出来，[ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)。
  * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。
- * [dexposed](https://github.com/alibaba/dexposed) - 淘宝 支付宝的Android底层技术团队即将为Dexposed开源项目贡献一个重要的扩展能力 —— 方法粒度的完整替换，大幅度降低基于AOP方式替换大型方法的开发成本，[使用教程](http://www.apkbus.com/android-244457-1-1.html)，[Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) 。 [Android Hotpatch系列之-项目介绍](http://my.oschina.net/fengcunhan/blog/487296) - [客户端例子实现](https://github.com/fengcunhan/Hotpatch-Sample),[服务器简易实现](https://github.com/fengcunhan/Hotpatch-SimpleServer)  。热更新。
- * [Xposed](https://github.com/rovo89/Xposed) - Xposed是一款可以在不修改APK的情况下影响程序运行的框架服务,[Android Hook神器：XPosed入门与登陆劫持演示](http://www.csdn.net/article/2015-08-14/2825462) 。热更新。
- * [code-push](http://microsoft.github.io/code-push/) -大微软推出的一套可以为用 React Native 和 Cordova 开发的 App 提供代码热更新的方案。
  * [Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架，目前已支持Android、iOS以及html5插件。并且三者之间可以通过同一套javascript接口进行通信。 
  * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
 
