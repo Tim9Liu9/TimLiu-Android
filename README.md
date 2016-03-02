@@ -382,6 +382,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。
  * [Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架，目前已支持Android、iOS以及html5插件。并且三者之间可以通过同一套javascript接口进行通信。 
  * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
+ * [retrofit](https://github.com/square/retrofit/tree/version-one) - retrofit将 REST API 转换为 Java 接口。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
 
 ========
 #### 其他
