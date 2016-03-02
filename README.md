@@ -247,7 +247,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 
 ========
 ##### 图像获取
- * [glide](https://github.com/bumptech/glide) - glide google出品，[使用教程](http://www.jianshu.com/p/4a3177b57949)、[GlidePalette](https://github.com/florent37/GlidePalette)。
+ * [glide](https://github.com/bumptech/glide) - glide google出品，[使用教程](http://www.jianshu.com/p/4a3177b57949)、[GlidePalette](https://github.com/florent37/GlidePalette)。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
  * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Universal Image Loader 是一个强大的、可高度定制的图片缓存，简称：UIL，可以高度配置的网络图片缓存库，非常灵活，用户量最多 。
  * [picasso](https://github.com/square/picasso) - picasso 功能单一，没有缓存过期，同androidQuery一样链式调用，载入本地文件速度慢（没有生成thumbnails） ,[Picasso and Android-Universal-Image-Loader](http://donal-tong.github.io/blog/2014/05/21/picasso-and-auil/),另外的一些诸如裁剪图片：Picasso.with(context)  .load(url)  .resize(50, 50)  .centerCrop()  .into(imageView)。
  * [fresco](https://github.com/facebook/fresco) - Facebook 又放出的一个新项目，一个类似 Picasso, Glide 的库，不过比他们做的更好。 强烈推荐！［Fresco集成示例］（https://github.com/liaohuqiu/fresco-demo-for-gradle）。
@@ -379,11 +379,12 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 ### 出名框架
  * [xUtils](https://github.com/wyouflf/xUtils) - xUtils 包含了很多实用的android工具。支持大文件上传，更全面的http请求协议支持(10种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响。最低兼容android 2.2 (api level 8)。目前xUtils主要有四大模块：DbUtils模块、ViewUtils模块、HttpUtils模块、BitmapUtils模块。
  * [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。
- * [ButterKnife](https://github.com/JakeWharton/butterknife) - ButterKnife是一个专注于Android系统的View注入框架，让你从此从这些烦人臃肿的代码中解脱出来，[ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)。
+ * [ButterKnife](https://github.com/JakeWharton/butterknife) - ButterKnife是一个专注于Android系统的View注入框架，让你从此从这些烦人臃肿的代码中解脱出来，[ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
  * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。
  * [Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架，目前已支持Android、iOS以及html5插件。并且三者之间可以通过同一套javascript接口进行通信。 
  * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
  * [retrofit](https://github.com/square/retrofit/tree/version-one) - retrofit将 REST API 转换为 Java 接口。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
+ * [Dagger2](https://github.com/google/dagger) - Dagger 2 是著名的依赖注入库 Dagger 的继承者，我们强烈推荐它。[文档](http://google.github.io/dagger/)，[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
 
 ========
 #### 其他
