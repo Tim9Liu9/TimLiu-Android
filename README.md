@@ -106,6 +106,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [advanced-textview](https://github.com/chiuki/advanced-textview) -  advanced-textview各种高级功能的textview，包括动画，阴影，各种字体，艺术字，HTML格式显示，表情等。
  * [QuickReturn](https://github.com/lawloretienne/QuickReturn) - 给几乎所有可以滑动的 View 加上快速返回的 Header 或者 Footer，使用非常方便。
  * [Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView) - 仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果。
+ * [idisfkj.picker](https://github.com/idisfkj/idisfkj.picker) - 滑轮选择器,[教程](https://segmentfault.com/a/1190000004595715)。
  * [DraggedViewPager](https://github.com/yueban/DraggedViewPager) - 可以在多个 Page 之间可以拖放元素的控件。
  * [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) - 对 ViewPager 的一个扩展，Page 可宽可窄，表现很像 Gallelry。
  * [Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View是一种用于应用程序中显示日历的安卓库。它支持自定义样式。。
