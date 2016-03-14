@@ -150,6 +150,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [WaveRefreshForAndroid](https://github.com/alienjun/WaveRefreshForAndroid) - 下拉刷新水波纹动画。
  * [CoordinatorLayoutDemos](https://github.com/sungerk/CoordinatorLayoutDemos) - 收集了不少资源写了一个基于CoordinatorLayout实现的下拉刷新效果。
  * [Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - 下拉刷新开源库集锦 。
+ * [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - 下拉刷新：打砖块和打坦克。
 
 ##### 模糊效果
  * [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
