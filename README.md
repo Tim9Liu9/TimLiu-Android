@@ -210,6 +210,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [SwipeSelector](https://github.com/roughike/SwipeSelector) - 可以左右滑动切换 item 的 Selector。
  * [ForegroundViews](https://github.com/Commit451/ForegroundViews) - 类似于 FrameLayout 的支持的前景自定义 View。
  * [android-material-chips](https://github.com/DoodleScheduling/android-material-chips) - Material Design 的 Chips 控件实现。
+ * [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - 表情键盘解决方案。
 
 ========
 #### 动画
