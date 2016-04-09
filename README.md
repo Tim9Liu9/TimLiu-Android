@@ -71,6 +71,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - 一个易于使用的 Material Design ViewPager 库。
  * [PinnedListView](http://www.eoeandroid.com/thread-567853-1-1.html) - PinnedListView悬浮Head效果修改，[github pinned-section-listview](https://github.com/beworker/pinned-section-listview)。
  * [APP启动引导页](http://www.eoeandroid.com/thread-564018-1-1.html) - APP应用中最常用的APP启动引导页，常见的4种引导项目方式：splash，viewpage，viewflipper，scrollview。
+ * [GuideHelper](https://github.com/LuckyJayce/GuideHelper) - 实现Android新手引导页，可以在提示也绘制实际的view，在view的上下左右位置添加提示信息的图片。
  * [AwesomeText](https://github.com/JMPergar/AwesomeText) - 简化TextViews中Spans使用的库。 
  * [dialogplus](https://github.com/orhanobut/dialogplus) - 一个简单容易使用的对话框——DialogPlus。 
  * [material-dialogs](https://github.com/afollestad/material-dialogs) - Material Design风格Dialogs。 
