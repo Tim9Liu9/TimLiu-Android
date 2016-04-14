@@ -444,7 +444,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 ========
 #### 好的文章
  * [高效抽取loading](http://www.apkbus.com/android-244454-1-1.html) - 高效抽取loading，再多的加载页面也不怕。
- * [修复bug的12个关键步骤](http://www.imooc.com/wenda/detail/209282) - 修复bug的12个关键步骤。
+ * [修复bug的12个关键步骤](http://news.cnblogs.com/n/505055/) - 修复bug的12个关键步骤。
  * [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) - 里面是安卓的一些外国前沿文章的翻译，想课余时间学习 Android 的看看，已经收录了。
  * [android-tuning-tool-strictmode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/) - Android性能调优利器StrictMode。
  * [Android-Tips](https://github.com/tangqi92/Android-Tips) - Android-Tips 安卓方面各种难点坑汇总，按字母排序。
