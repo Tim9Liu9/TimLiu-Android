@@ -214,6 +214,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [android-material-chips](https://github.com/DoodleScheduling/android-material-chips) - Material Design 的 Chips 控件实现。
  * [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - 表情键盘解决方案。
  * [GestureLibray](https://github.com/leoliuzhou/GestureLibray) - 九宫格解锁。
+ * [RecyclerItemDecoration](https://github.com/dinuscxj/RecyclerItemDecoration) - RecyclerView相关的ItemDecorstion仍然保持高度定制性，易用性。
 
 ========
 #### 动画
