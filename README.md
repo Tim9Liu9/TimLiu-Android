@@ -444,6 +444,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - 微信抢红包插件。
  * [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - support 库在 23.2 版本新增内容示例项目。
  * [Sunoath](https://github.com/Rtsunoath/Sunoath) - 基于MVP+Retrofit+Material Design的Demo。
+ * [ActivityRouter](https://github.com/mzule/ActivityRouter) - 一个url打开activity的Router库，支持指定参数类型，支持参数transfer，支持callback。
 
 ========
 #### 好的文章
