@@ -320,6 +320,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) - 是一个功能强大的 Android 开源播放器, 作者将原本收费的项目拿出来开源, 实在令人敬佩。
  * [RxAndroidAudior](https://github.com/Piasy/RxAndroidAudior) - RxAndroidAudior目前最鲁棒的Android声音录制和播放封装库了,[说明](http://blog.piasy.com/Robust-Android-Audio-encapsulation/)。
  * [Timber](https://github.com/naman14/Timber) - 一款遵循了Material Design并且设计精美的播放器 Timber Music Player，已经在google play上架。
+ * [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera) - 一款功能强大的 Android 视频录制库, 仅允许横屏录制, 提供细粒度控制视频的质量与文件大小。
 
 ========
 #### 测试及调试
