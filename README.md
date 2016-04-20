@@ -119,6 +119,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [MaterialCalendarView](https://github.com/jonisaa/MaterialCalendarView) - 是一款遵循 Material Design 风格的 Android 日历。
  * [SlideDetailsLayout](https://github.com/cnbleu/SlideDetailsLayout) - SlideDetailsLayout:高仿淘宝、京东商品详情页面的上拉加载图文详情功能。
  * [MaterialDesignDemo](https://github.com/burgessjp/MaterialDesignDemo/) - 基于Material Design Support Library的一个小Demo，这个Demo会慢慢的去完善，不仅仅是一个基于MD的Demo。里面会含有各种工具类，通用的一些Aadpter以及一些组件等。[Android自定义View之高仿QQ健康](http://www.jianshu.com/p/740c64ba15ac)
+ * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - 集成了RecyclerViewAdapter的常用功能的基类，大量减少Adapter写的代码，轻松添加点击事件、添加RecyclerView加载动画、新增添加头部、添加尾部、新增下拉刷新、上拉加载更多、新增分组、自定义item类型。
 
 ##### 卫星菜单
  * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
