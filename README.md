@@ -388,6 +388,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin) - 可以将 Apk 大小记录到 CSV 文件的 Gradle 插件。
  * [几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b) - 几款实用的Android Studio 插件：1、android-butterknife-zelezny；2、Gsonformat：可根据json数据快速生成java实体类；3、Android Postfix Completion；4、AndroidAccessors；5、Lifecycle Sorter：根据Activity或者fragment的生命周期对其生命周期方法位置进行先后排序，快捷键Ctrl + alt + K；6、JsonOnlineViewer；7、CodeGlance；8、findBugs-IDEA：帮你一起找bug的；9、ADB WIFI：使用wifi无线调试你的app，无需root权限。
  * [Leisure](https://github.com/MummyDing/Leisure)  - 闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用。 果壳、知乎和豆瓣在国内拥有大量用户，这些社区的用户每天都产生很多高质量内容。闲暇以其简介的风格将这几大社区 的优质内容整合于一体，使得用户能有效地获取这些内容，大大节省了用户的时间。[酷安下载地址](http://coolapk.com/apk/com.mummyding.app.leisure).  
+ * [LayoutFormatter插件](https://github.com/drakeet/LayoutFormatter) - 可自动将乱序的布局文件进行重新属性排序并格式化，比如 style 和 android:id 必须排在前面，紧接着 layout、padding，而值设定如 text 只能排在最后。
 
 ========
 ### 出名框架
