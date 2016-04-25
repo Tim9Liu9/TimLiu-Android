@@ -50,7 +50,7 @@ TimLiu-Android
  * [material design card](https://dribbble.com/search?q=material+design+card) - material design card 。
  * [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) -  本APP用来演示Material Design控件的使用。
 http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明](http://www.aswifter.com/2015/08/01/android-material-design-animation/)。
- * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - InstalMaterial 项目(非常多的UI样式：ViewAnimator、RecyclerView、拍照)， [InstalMaterial学习笔记之Reveal效果](http://www.jianshu.com/p/35492fb2c269)。  
+ * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - InstalMaterial 项目(非常多的UI样式：ViewAnimator、RecyclerView、拍照)， [InstalMaterial学习笔记之Reveal效果](http://www.jianshu.com/p/35492fb2c269)。
  * [NavigationDrawer-MaterialDesign](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) - 一个Material Design的抽屉模板库，分分钟搭起一个程序框架。
  * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 直接继承EditText，无需修改Java文件即能实现自定义控件颜色， [直接拿来用！十大Material Design开源项目](http://www.csdn.net/article/2014-11-21/2822753-material-design-libs)。
  * [fab](https://github.com/shell-software/fab) - Floating Action Button library for Android。
@@ -83,7 +83,6 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - 这是一个终极的 RecyclerView，有下拉刷新、滑动删除、拖拽、加载更多、丰富动画等功能。
  * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - SmartTabLayout实现viewpgaer页面导航效果，简化并实现android的TabHost效果，顶部滑动tab，引导页，可以自定义tab样式，过渡效果 实现网易tab，微博tab，微信tab等so easy。 集成了SpringIndicator拖拽效果 。
  * [richeditor](https://github.com/wasabeef/richeditor-android) - RichEditor for Android 是 Android 平台下一个所见即所得的文本编辑器控件。
-
  * [StatedFragment](https://github.com/nuuneoi/StatedFragment) - 保存Fragment的状态。
  * [PopoverView](https://github.com/lupidan/PopoverView) - 一个模仿iOS UIPopoverController效果的控件。
  * [CreditsRoll](https://github.com/frakbot/CreditsRoll) - 实现星球大战字幕效果。
@@ -120,6 +119,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [SlideDetailsLayout](https://github.com/cnbleu/SlideDetailsLayout) - SlideDetailsLayout:高仿淘宝、京东商品详情页面的上拉加载图文详情功能。
  * [MaterialDesignDemo](https://github.com/burgessjp/MaterialDesignDemo/) - 基于Material Design Support Library的一个小Demo，这个Demo会慢慢的去完善，不仅仅是一个基于MD的Demo。里面会含有各种工具类，通用的一些Aadpter以及一些组件等。[Android自定义View之高仿QQ健康](http://www.jianshu.com/p/740c64ba15ac)
  * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - 集成了RecyclerViewAdapter的常用功能的基类，大量减少Adapter写的代码，轻松添加点击事件、添加RecyclerView加载动画、新增添加头部、添加尾部、新增下拉刷新、上拉加载更多、新增分组、自定义item类型。
+ * [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - 一个仿 Material Bottom Navigation 的类库。
 
 ##### 卫星菜单
  * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
