@@ -49,7 +49,7 @@ TimLiu-Android
  * [MaterialList](https://github.com/dexafree/MaterialList) - MaterialList 。
  * [material design card](https://dribbble.com/search?q=material+design+card) - material design card 。
  * [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) -  本APP用来演示Material Design控件的使用。
-http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明](http://www.aswifter.com/2015/08/01/android-material-design-animation/)。
+https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明](https://www.aswifter.com/2015/08/01/android-material-design-animation/)。
  * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - InstalMaterial 项目(非常多的UI样式：ViewAnimator、RecyclerView、拍照)， [InstalMaterial学习笔记之Reveal效果](http://www.jianshu.com/p/35492fb2c269)。
  * [NavigationDrawer-MaterialDesign](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) - 一个Material Design的抽屉模板库，分分钟搭起一个程序框架。
  * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 直接继承EditText，无需修改Java文件即能实现自定义控件颜色， [直接拿来用！十大Material Design开源项目](http://www.csdn.net/article/2014-11-21/2822753-material-design-libs)。
@@ -66,7 +66,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [ToggleButton](https://github.com/zcweng/ToggleButton) - 状态切换的 Button，类似 iOS，用 View 实现。
  * [android-typeface-helper](https://github.com/norbsoft/android-typeface-helper) - Android Typeface Helper 可以帮你轻松实现自定义字体的库。
  * [GuideBackgroundColorAnimation](https://github.com/TaurusXi/GuideBackgroundColorAnimation) - 实现滑动ViewPager渐变背景色。
- * [Toolbar](https://github.com/xamarin/monodroid-samples/tree/master/android_l/Toolbar) - Toolbar替换Android Toolbar，[说明](http://blog.xamarin.com/android-tips-hello-toolbar-goodbye-action-bar/)。
+ * [Toolbar](https://github.com/xamarin/monodroid-samples/tree/master/android_l/Toolbar) - Toolbar替换Android Toolbar，[说明](https://blog.xamarin.com/android-tips-hello-toolbar-goodbye-action-bar/)。
  * [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) - 一个支持Material Design的PagerSlidingTabStrip。
  * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - 一个易于使用的 Material Design ViewPager 库。
  * [PinnedListView](http://www.eoeandroid.com/thread-567853-1-1.html) - PinnedListView悬浮Head效果修改，[github pinned-section-listview](https://github.com/beworker/pinned-section-listview)。
@@ -93,7 +93,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [ParallaxSwipeBack](https://github.com/bushijie/ParallaxSwipeBack) - 带视觉差的侧滑返回，类似于新版微信和lofter的侧滑返回效果。核心代码小于50行。
  * [AndroidFlowLayout](https://github.com/LyndonChin/AndroidFlowLayout) - A flow layout for Android。
  * [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) - 取代TabHost，实现滑动tab，引导页等效果。
- * [Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager) - Full screen slide pager to display images fetched from Internet by Picasso。
+ * [Android-ScreenSlidePager](https://github.com/LyndonChin/AndroidScreenSlidePager) - Full screen slide pager to display images fetched from Internet by Picasso。
  * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - MaterialViewPager。
  * [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - FlipViewPager.Draco。
  * [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) - 图片圆角、三角、五角、圆形、多角。
@@ -110,7 +110,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [DraggedViewPager](https://github.com/yueban/DraggedViewPager) - 可以在多个 Page 之间可以拖放元素的控件。
  * [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) - 对 ViewPager 的一个扩展，Page 可宽可窄，表现很像 Gallelry。
  * [Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View是一种用于应用程序中显示日历的安卓库。它支持自定义样式。。
- * [MaterialCalendarView](https://github.com/jonisaa/MaterialCalendarView) - 是一款遵循 Material Design 风格的 Android 日历。
+ * [MaterialCalendarView](https://github.com/BlackBoxVision/material-calendar-view) - 是一款遵循 Material Design 风格的 Android 日历。
  * [WeekCalendar](https://github.com/nomanr/WeekCalendar) - 周模式的日历自定义控件，支持 4.0 以上。
  * [DragLinearLayout](https://github.com/justasm/DragLinearLayout) - DragLinearLayout:自定义的线性布局，里面的UI可以自由拖动。
  * [floatingsearchview](https://github.com/arimorty/floatingsearchview) - floatingsearchview 一个带搜索下拉列表提示的搜索控件。
@@ -130,10 +130,10 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [ElasticDownload](https://github.com/Tibolte/ElasticDownload) -  挺酷的下载进度条。
 
 ##### 节选器
- * [SegmentView](https://github.com/bboyfeiyu/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
+ * [SegmentView](https://github.com/hehonghui/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
  * [SHSegmentControl](https://github.com/7heaven/SHSegmentControl) - 类似iOS的Segment Control控件，此种方式的可定制化更好。
  * [android-segmentedradiobutton](https://github.com/vinc3m1/android-segmentedradiobutton) - 在Android中实现类似iOS的分段单选按钮（segmented control），本人以前项目一直使用，值得拥有。
- * [android-segmented-control](https://github.com/hoang8f/android-segmented-control) - RadioGroup实现类似ios的分段选择(UISegmentedControl)控件。
+ * [android-segmented-control](https://github.com/Kaopiz/android-segmented-control) - RadioGroup实现类似ios的分段选择(UISegmentedControl)控件。
 
 
 ##### 下拉刷新
@@ -148,10 +148,10 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 实现了模仿微信眼睛下拉效果，源码PullDownListView，下拉刷新，上拉加载，模仿微信眼睛。 
  * [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) - 又一个下拉刷新的实现，水滴效果。
  * [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) - 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位，目前已经实现了四种下拉刷新效果:新浪微博下拉刷新风格、慕课网下拉刷新风格、美团下拉刷新风格、类似qq好友列表黏性下拉刷新风格。
- * [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) - 提供一个简单可以自定义的下拉刷新实现。
+ * [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Phoenix) - 提供一个简单可以自定义的下拉刷新实现。
  * [Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) - Taurus，很精美的下拉刷新。
  * [ParallaxListView](https://github.com/Gnod/ParallaxListView) - 模仿Path的下拉刷新，Head头部图片下拉放大。
- * [WaveRefreshForAndroid](https://github.com/alienjun/WaveRefreshForAndroid) - 下拉刷新水波纹动画。
+ * [WaveRefreshForAndroid](https://github.com/alienjun/AJWaveRefreshForAndroid) - 下拉刷新水波纹动画。
  * [CoordinatorLayoutDemos](https://github.com/sungerk/CoordinatorLayoutDemos) - 收集了不少资源写了一个基于CoordinatorLayout实现的下拉刷新效果。
  * [Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - 下拉刷新开源库集锦 。
  * [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - 下拉刷新：打砖块和打坦克。
@@ -181,7 +181,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [MixtureTextView](https://github.com/hongyangAndroid/MixtureTextView) - 富文本，支持Android图文混排、文字环绕图片等效果。
  * [android-ActionQueue](https://github.com/liaohuqiu/android-ActionQueue) - Action Queue 用于执行有次序的队列操作，比如按次序弹出对话框，这在 Android 中尤其有用。
  * [WheelView-Android](https://github.com/lantouzi/WheelView-Android) - WheelView-Android 是一款开源的 Android 滚动选择控件, 适用于不少应用场景。
- * [Android Wheel](https://code.google.com/p/android-wheel/) - 带有刻度的旋转器：日历、三级联动。
+ * [Android Wheel](https://code.google.com/archive/p/android-wheel) - 带有刻度的旋转器：日历、三级联动。
  * [CharacterPickerView](https://github.com/alafighting/CharacterPickerView) - 可实现三级联动的选择器，高仿iOS的滚轮控件,可实现单项选择，并支持一二三级联动效果。
  * [Highlight](https://github.com/hongyangAndroid/Highlight) - Highlight一款可应用于 Android 应用上的指向性功能高亮的库, 可以快速的给应用添加上应用引导的效果。
  * [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) - 支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案 。 
@@ -199,7 +199,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - 一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等。
  * [Swipe-Deck](https://github.com/aaronbond/Swipe-Deck) - 仿 Tinder 的可以左右滑动消除卡片效果的自定义控件。
  * [IntlPhoneInput](https://github.com/Rimoto/IntlPhoneInput) - 一个支持国际化的电话号码输入的自定义控件。
- * [AndroidUI4Web](https://github.com/linfaxin/AndroidUI4Web) - AndroidUI4Web是一个高性能的WebApp框架, 在移动浏览器上有与原生App一致的体验。
+ * [AndroidUI4Web](https://github.com/linfaxin/AndroidUI-WebApp) - AndroidUI4Web是一个高性能的WebApp框架, 在移动浏览器上有与原生App一致的体验。
  * [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - SmoothCheckBox带有切换动画的CheckBox。
  * [AndroidTimelineViewx](https://github.com/anyunzhong/AndroidTimelineViewx) - AndroidTimelineViewx仿微信朋友圈 时间轴。
  * [CityPicker](https://github.com/zaaach/CityPicker) - CityPicker仿美团等选择城市列表。
@@ -230,14 +230,14 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Material-Animations](https://github.com/lgvalle/Material-Animations) - Material风格动画，可以定义两个Activity之间的动画。
  * [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) - android-shapeLoadingView实现高仿新版58 加载动画，loading。
  * [一个绚丽的loading](http://blog.csdn.net/tianjian4592/article/details/44538605) - 一个绚丽的loading动效分析与实现。
- * [TransitionPlayer](https://github.com/XMFE-TEAM/TransitionPlayer) - 一个 Transition 动画控制控制库，可以让你很轻松的创建一个可交互的动画。
+ * [TransitionPlayer](https://github.com/linfaxin/TransitionPlayer) - 一个 Transition 动画控制控制库，可以让你很轻松的创建一个可交互的动画。
  * [loading-balls](https://github.com/glomadrian/loading-balls) - loading-balls 一款支持高度配置的 Android 加载进度球。
  * [SogoLoading](https://github.com/dengshiwei/SogoLoading) - 仿搜狗浏览器加载动画，[实现说明](http://blog.csdn.net/mr_dsw/article/details/49026531)。
  * [ExplosionField](https://github.com/tyrantgit/ExplosionField) - Android中View 炸裂特效的[实现分析](http://blog.csdn.net/feelang/article/details/48817145)。
  * [AZExplosion](https://github.com/Xieyupeng520/AZExplosion) - AZExplosion：模仿ExplosionField的粒子破碎效果。
  * [BrokenView](https://github.com/zhanyongsheng/BrokenView) -玻璃碎裂动画效果。
  * [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - SwipeCardView一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）。[类似SwipeCard](https://github.com/Diolor/Swipecards)
- * [CRAudioVisualizationView](https://github.com/Cleveroad/CRAudioVisualizationView) - 水波纹效果的声音可视化自定义 View。
+ * [CRAudioVisualizationView](https://github.com/Cleveroad/WaveInApp) - 水波纹效果的声音可视化自定义 View。
 
 ========
 #### 网络相关
@@ -262,7 +262,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [picasso](https://github.com/square/picasso) - picasso 功能单一，没有缓存过期，同androidQuery一样链式调用，载入本地文件速度慢（没有生成thumbnails） ,[Picasso and Android-Universal-Image-Loader](http://donal-tong.github.io/blog/2014/05/21/picasso-and-auil/),另外的一些诸如裁剪图片：Picasso.with(context)  .load(url)  .resize(50, 50)  .centerCrop()  .into(imageView)。
  * [fresco](https://github.com/facebook/fresco) - Facebook 又放出的一个新项目，一个类似 Picasso, Glide 的库，不过比他们做的更好。 强烈推荐！［Fresco集成示例］（https://github.com/liaohuqiu/fresco-demo-for-gradle）。
  * [tape](http://square.github.io/tape/) - 类似于图片加载库（例如UIL、Picasso等）实现异步加载，但是加载的不一定是图片。！
- * [ImageLoader](https://github.com/novoda/ImageLoader) - ImageLoader 。
+ * [ImageLoader](https://github.com/novoda/image-loader) - ImageLoader 。
  * [Volley](https://github.com/mcxiaoke/android-volley) - Volley 综合框架,包含图片部分，[Volley与Picasso的对比](http://blog.happyhls.me/2014/11/27/volley%E4%B8%8Epicasso%E7%9A%84%E5%AF%B9%E6%AF%94/)。
  * [enif](code.google.com/p/enif/) - enif 。
  * [wqgallery](https://github.com/wqandroid/wqgallery) - wqgallery实现类似微信选择照片功能，可以通过相机或相册选择，支持单张裁剪，支持单选模式、支持多选模式。
@@ -281,7 +281,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 #### 数据库
  * [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - ORMLite做的最棒但是学习成本有点儿高，ORMLite的文档有点儿烂。
  * [SugarORM](http://satyan.github.io/sugar/index.html) - SugarORM比较轻便， 支持Has a 和 Has many映射，但无法保存集合，没有映射关系。
- * [GreenDAO](http://greendao-orm.com/) - GreenDAO要先建立一个java项目来生成对应的表，一变动又要生成，很不方便。
+ * [GreenDAO](http://greenrobot.org/greendao/) - GreenDAO要先建立一个java项目来生成对应的表，一变动又要生成，很不方便。
  * [ActiveDriod](https://github.com/pardom/ActiveAndroid) - ActiveDriod也不错 [官网](http://www.activeandroid.com/)。
  * [ORMDroid](https://github.com/roscopeco/ormdroid) - ormdroid 。
  * [sqlbrite](https://github.com/square/sqlbrite) - 良心企业Square的又一开源项目，当你不想给用ContentProvider，只想简单监听SQLite表增删改的数据变更时可以试试它。
@@ -403,7 +403,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 
 ========
 #### 其他
- * [java-zhconverter](http://code.google.com/p/java-zhconverter/) - java-zhconverter是一个简繁体中文互换的Java开源类库。
+ * [java-zhconverter](https://code.google.com/archive/p/java-zhconverter) - java-zhconverter是一个简繁体中文互换的Java开源类库。
  * [joda-time-android](https://github.com/dlew/joda-time-android) - 一个超赞的时间处理的库，Joda-Time ！ 他能帮你轻松处理时区，处理时间加减，计算到期时间等等场景下的问题。[java版本](http://www.joda.org/joda-time/key_partial.html)
  * [AssistiveTouch](https://github.com/luozi/AssistiveTouch) - 配合Android手机沉浸式隐藏虚拟按键后快捷操作 (Nexus5屏幕变大了)。
  * [S-Tools](https://github.com/naman14/S-Tools) - S-Tools一个可以实时查看的CPU状态和手机各类传感器数据，还有一些例如颜色选择、指南针和设备信息等功能。
@@ -420,7 +420,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [兰贝壳儿](http://www.orchidshell.com/) - Android多渠道打包解决方案(兰贝壳儿)，eclipse插件。 
  * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
  * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 一个常见设计模式的java实现。
- * [PreferenceInjector](https://github.com/denley/PreferenceInjector) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
+ * [PreferenceInjector](https://github.com/denley/preferencebinder) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
  * [prettytime](http://www.ocpsoft.org/prettytime/) - 一个实用的人性化的时间显示，比如：几分钟前，几天前。
  * [Material-Movies](https://github.com/saulmm/Material-Movies) - Material Design 下的Movie App（电影展示），可供学习，或者直接二次开发。
  * [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts) - 充满技术含量的一个 Contact App（联系人）。
@@ -436,7 +436,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
  * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) - Android 一些重要知识点解析整理 。
  * [AppStoreLibrary](https://github.com/mcsong/AppStoreLibrary) - 检测是否在appstore安装了应用，搜索应用。
  * [LeakCanary](https://github.com/liaohuqiu/leakcanary-demo) - 利用此类库，排查内存泄露变得非常简单，[LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)，[LeakCanary: 让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/) 。
- * [anko](https://github.com/JetBrains/anko) - 快速开发框架。
+ * [anko](https://github.com/Kotlin/anko) - 快速开发框架。
  * [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) - 通过对于原生Adapter的封装，产生了支持ListView，GridView，RecyclerView的简单通用的Adapter。这种方式将item变成独立的“视图”对象，方便操作，又增加了可扩展性。
  * [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap) - 一个Android MVP 模式实例项目。
  * [json2notification](https://github.com/8tory/json2notification) - 一个多功能方便好用的notification通知栏通知开源库。
@@ -453,7 +453,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 #### 好的文章
  * [高效抽取loading](http://www.apkbus.com/android-244454-1-1.html) - 高效抽取loading，再多的加载页面也不怕。
  * [修复bug的12个关键步骤](http://news.cnblogs.com/n/505055/) - 修复bug的12个关键步骤。
- * [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) - 里面是安卓的一些外国前沿文章的翻译，想课余时间学习 Android 的看看，已经收录了。
+ * [Android开发技术前线](https://github.com/hehonghui/android-tech-frontier) - 里面是安卓的一些外国前沿文章的翻译，想课余时间学习 Android 的看看，已经收录了。
  * [android-tuning-tool-strictmode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/) - Android性能调优利器StrictMode。
  * [Android-Tips](https://github.com/tangqi92/Android-Tips) - Android-Tips 安卓方面各种难点坑汇总，按字母排序。
  * [jvm-core-learning-example](https://github.com/JeffLi1993/jvm-core-learning-example) - 关于Java虚拟机核心知识点学习积累的例子，是初学者及虚拟机核心知识巩固的最佳实践。。
@@ -486,7 +486,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 
 4.SwipeBackLayout
 项目介绍：拖动关闭当前活动窗体
-项目地址：https://github.com/Issacw0ng/SwipeBackLayout
+项目地址：https://github.com/ikew0ng/SwipeBackLayout
 
 5.AndroidImageSlider
 项目介绍：一个漂亮的Slider，可以通过自定义达到更好的效果
@@ -562,7 +562,7 @@ http://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明]
 
 23.LDrawer
 项目介绍：Android抽屉与材料设计动画图标
-项目地址：https://github.com/ikimuhendis/LDrawer
+项目地址：https://github.com/keklikhasan/LDrawer
 
 视觉篇
 ------
@@ -585,7 +585,7 @@ DEMO演示：
 
 5.FloatingActionButton
 项目介绍：浮动的按钮
-项目地址：https://github.com/FaizMalkani/FloatingActionButton
+项目地址：https://github.com/FaizMalkani/Fabulous
 
 6.JumpingBeans
 项目介绍：跳动的文本
@@ -654,7 +654,7 @@ DEMO演示：
  * [apkbus](http://d.apkbus.com/) - code4app 与 apkbus整理的Android开源资源分类， [
 Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
  * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - 他人收集的开源代码：Android Wear、Communication 、Education、Finance、Game、Multi-Media、News & Magazines、Personalization、Productivity、Social Network、Tools、Travel & Local。
- * [android-developer-tools-list](http://codingfish.top/2015/07/07/android-developer-tools-list/) - Android 常用开发工具 （Android Studio 插件、Android 网站、Android 系统性能调优工具、Android测试工具）。
+ * [android-developer-tools-list](http://www.codingfish.top/2015/07/07/android-developer-tools-list/) - Android 常用开发工具 （Android Studio 插件、Android 网站、Android 系统性能调优工具、Android测试工具）。
  * [Android平台上最好的几款免费的代码编辑器](http://www.imooc.com/article/1281) - Android平台上最好的几款免费的代码编辑器:Quoda、DroidEdit、AWD、AIDE、CppDroid。
  * [androidweekly](http://www.androidweekly.cn/) - android技术开发周报，干货很多。
  * [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) - 收集了很多在平时使用 Rails 开发网站时经常会使用到的 Gem, 当中包括的有用户认证系统, API 接口开发, 文件上传, 站内搜索等优秀的 Gem 源。
