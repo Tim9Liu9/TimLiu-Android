@@ -129,6 +129,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [android-circlebutton](https://github.com/markushi/android-circlebutton) - 圆形按钮，有动画点击效果。 
  * [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) - 卫星菜单。
  * [ElasticDownload](https://github.com/Tibolte/ElasticDownload) -  挺酷的下载进度条。
+ * [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - 仿 Tumblr 的 Android 可拖拽蛇形动画菜单。
 
 ##### 节选器
  * [SegmentView](https://github.com/hehonghui/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
