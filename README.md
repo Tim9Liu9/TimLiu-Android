@@ -176,6 +176,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - AVLoadingIndicatorView整合了一些漂亮的 Android 动画加载效果。
  * [MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget) - 渐变的圆形进度条与轻量横向进度条。
  * [GBSlideBar](https://github.com/edanel/GBSlideBar) - GBSlideBar类似uber/滴滴等app的滑动选择工具条。
+ * [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - 一些好看的 loadingview。
 
 ========
 ##### UI其他
