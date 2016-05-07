@@ -355,6 +355,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) - 实现Android App多apk插件化和动态加载，支持资源分包和热修复。
  * [AndFixDemo](https://github.com/AlanCheen/AndFixDemo) - AndFix是alibaba出品的开源热更新技术。
  * [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) - 通过Gradle Transform和aspectj来实现代码动态修改，业务逻辑数据埋点、性能数据统计等侵入性修改从此不再需要修改业务代码，完美解决Dexposed兼容性问题，实现代码自动插桩。[AspectJX-Demo](https://github.com/HujiangTechnology/AspectJX-Demo)
+ * [RoboAspectJ](https://github.com/meituan/RoboAspectJ) - 美团出品的开源热更新技术。
 
 ========
 #### 消息推送
