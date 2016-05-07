@@ -352,6 +352,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [Xposed](https://github.com/rovo89/Xposed) - Xposed是一款可以在不修改APK的情况下影响程序运行的框架服务,[Android Hook神器：XPosed入门与登陆劫持演示](http://www.csdn.net/article/2015-08-14/2825462) 。热更新。
  * [code-push](http://microsoft.github.io/code-push/) -大微软推出的一套可以为用 React Native 和 Cordova 开发的 App 提供代码热更新的方案。
  * [DynamicAPK](https://github.com/CtripMobile/DynamicAPK) - 实现Android App多apk插件化和动态加载，支持资源分包和热修复。
+ * [AndFixDemo](https://github.com/AlanCheen/AndFixDemo) - AndFix是alibaba出品的开源热更新技术。
 
 ========
 #### 消息推送
