@@ -240,6 +240,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - SwipeCardView一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）。[类似SwipeCard](https://github.com/Diolor/Swipecards)
  * [CRAudioVisualizationView](https://github.com/Cleveroad/WaveInApp) - 水波纹效果的声音可视化自定义 View。
  * [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - 一些酷炫的加载动画， 可以与任何View配合使用，作为加载动画或者Progressbar, 此外很适合与RecyclerRefreshLayout 配合使用作为刷新的loading 动画。
+ * [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - 一款酷炫的 Android 界面过渡动画效果。
 
 ========
 #### 网络相关
