@@ -78,6 +78,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [CardView](https://github.com/chiemy/CardView) - 3d卡片效果-国人。
  * [FilterMenu](https://github.com/linroid/FilterMenu) - 这是一个自定义的圆形菜单，效果非常酷。
  * [GridPasswordView](https://github.com/Jungerr/GridPasswordView) - 类似微信，支付宝支付时候的输入密码页面效果，带格子的密码输入框。
+ * [BlurLockView](https://github.com/Nightonke/BlurLockView) - 毛玻璃效果的密码解锁界面, 支持简单定制。
  * [PersistentSearch](https://github.com/Quinny898/PersistentSearch) - 模仿Google Now, Google Maps Google Play的SearchBar，下拉列表匹配、录音。
  * [Droppy](https://github.com/shehabic/Droppy) - Android 下简洁好看的 Dropdown 菜单。
  * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - 这是一个终极的 RecyclerView，有下拉刷新、滑动删除、拖拽、加载更多、丰富动画等功能。
