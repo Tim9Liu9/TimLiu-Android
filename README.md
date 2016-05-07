@@ -179,6 +179,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget) - 渐变的圆形进度条与轻量横向进度条。
  * [GBSlideBar](https://github.com/edanel/GBSlideBar) - GBSlideBar类似uber/滴滴等app的滑动选择工具条。
  * [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - 一些好看的 loadingview。
+ * [HouseLoading](https://github.com/BaymaxTong/HouseLoading) - 一个有趣的android加载loading动画。[实现原理](https://segmentfault.com/a/1190000004997743)
 
 ========
 ##### UI其他
