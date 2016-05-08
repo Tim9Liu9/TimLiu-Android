@@ -277,7 +277,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [wqgallery](https://github.com/wqandroid/wqgallery) - wqgallery实现类似微信选择照片功能，可以通过相机或相册选择，支持单张裁剪，支持单选模式、支持多选模式。
 
 #### 响应式编程
- * [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 ，[RxJava](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目, [RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)， [RxJava资料汇总](https://github.com/lzyzsd/Awesome-RxJava)。
+ * [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 ，[RxJava](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目, [RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)， [RxJava资料汇总](https://github.com/lzyzsd/Awesome-RxJava)。[Rxjava+Retrofit 实现全局过期 Token 自动刷新](http://alighters.com/blog/2016/05/02/rxjava-plus-retrofitshi-xian-wang-luo-dai-li/)
 
 
 
