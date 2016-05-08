@@ -323,6 +323,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [AndroidAlbum](https://github.com/D-clock/AndroidAlbum) - AndroidAlbum图片选择器：1、MVP结构设计；2、工厂模式对载图框架进行封装抽象，方便替换其他载图框架；3、闪退日志的搜集，方便揪BUG。
  * [uCrop](https://github.com/Yalantis/uCrop) - uCrop 是 Yalantis 推出的又一款力作, 用于裁剪 Android 系统上的图片, 致力于打造最佳的图片裁剪体验。
  * [crop-image-layout](https://github.com/yulu/crop-image-layout) - crop-image-layout：图片裁切布局。
+ * [RenderscriptHistogramEqualization](https://github.com/qhutch/RenderscriptHistogramEqualization) - [RenderScript :简单而快速的图像处理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0504/4205.html)
 
 ========
 #### 视频音频处理
