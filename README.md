@@ -273,9 +273,10 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [fresco](https://github.com/facebook/fresco) - Facebook 又放出的一个新项目，一个类似 Picasso, Glide 的库，不过比他们做的更好。 强烈推荐！［Fresco集成示例］（https://github.com/liaohuqiu/fresco-demo-for-gradle）。
  * [tape](http://square.github.io/tape/) - 类似于图片加载库（例如UIL、Picasso等）实现异步加载，但是加载的不一定是图片。！
  * [ImageLoader](https://github.com/novoda/image-loader) - ImageLoader 。
- * [Volley](https://github.com/mcxiaoke/android-volley) - Volley 综合框架,包含图片部分，[Volley与Picasso的对比](http://blog.happyhls.me/2014/11/27/volley%E4%B8%8Epicasso%E7%9A%84%E5%AF%B9%E6%AF%94/)。
+ * [Volley](https://github.com/mcxiaoke/android-volley) - Volley 综合框架,包含图片部分，[Volley与Picasso的对比](http://blog.happyhls.me/2014/11/27/volley%E4%B8%8Epicasso%E7%9A%84%E5%AF%B9%E6%AF%94/)
  * [enif](code.google.com/p/enif/) - enif 。
  * [wqgallery](https://github.com/wqandroid/wqgallery) - wqgallery实现类似微信选择照片功能，可以通过相机或相册选择，支持单张裁剪，支持单选模式、支持多选模式。
+ * [httplite](https://github.com/alexclin0188/httplite) - A android http library。[Android网络框架httplite使用指南](http://www.jianshu.com/p/db66b49ec974)
 
 #### 响应式编程
  * [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - RxAndroid：函数响应式编程 ，[RxJava](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目, [RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)， [RxJava资料汇总](https://github.com/lzyzsd/Awesome-RxJava)。[Rxjava+Retrofit 实现全局过期 Token 自动刷新](http://alighters.com/blog/2016/05/02/rxjava-plus-retrofitshi-xian-wang-luo-dai-li/)
