@@ -223,6 +223,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - 一套 Android 键盘面板冲突, 布局闪动的处理方案。
  * [GestureLibray](https://github.com/leoliuzhou/GestureLibray) - 九宫格解锁。
  * [RecyclerItemDecoration](https://github.com/dinuscxj/RecyclerItemDecoration) - RecyclerView相关的ItemDecorstion仍然保持高度定制性，易用性。
+ * [materiallogindemo](https://github.com/sourcey/materiallogindemo) - 一个炫酷的Material Design 风格的登录和注册页面 。[教程](http://tikitoo.github.io/2016/05/17/beautiful-android-login-and-signup-screens-with-material-design-zh/)
 
 ========
 #### 动画
