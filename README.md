@@ -483,6 +483,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e) - RecyclerView技术栈。
  * [awesome-github](https://github.com/AntBranch/awesome-github)  - awesome-github:收集这个列表，只是为了更好地使用亲爱的GitHub。
  * [Android多渠道打包这样做才酸爽](http://www.simlinux.com/archives/1689.html) - Android多渠道打包这样做才酸爽。
+ * [使用 CheckStyle 检查代码](http://gudong.name/2016/04/07/checkstyle.html) - 使用 CheckStyle 检查代码。
 
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
