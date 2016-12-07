@@ -263,6 +263,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - 一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你。
  * [FileDownloader](https://github.com/lingochamp/FileDownloader) - 文件下载引擎，稳定、高效、简单易用。
  * [jchat-android](https://github.com/jpush/jchat-android) - 一个聊天 App,具有完备的即时通讯功能,JChat 的功能基于极光 JMessage SDK 来开发。
+ * [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava和Retrofit打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能。
 
 ========
 ##### 网络测试
