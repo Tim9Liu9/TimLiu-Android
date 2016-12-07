@@ -250,6 +250,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - 一些酷炫的加载动画， 可以与任何View配合使用，作为加载动画或者Progressbar, 此外很适合与RecyclerRefreshLayout 配合使用作为刷新的loading 动画。
  * [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - 一款酷炫的 Android 界面过渡动画效果。
  * [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - 自定义View，仿一个斗鱼web端滑动验证码。 [博文](http://gold.xitu.io/post/5835660261ff4b0061f28f54)
+ * [AndroidAHRSView](https://github.com/billhsu/AndroidAHRSView) -显示飞行器姿态的Android控件。
 
 ========
 #### 网络相关
