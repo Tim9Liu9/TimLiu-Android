@@ -160,6 +160,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [CoordinatorLayoutDemos](https://github.com/sungerk/CoordinatorLayoutDemos) - 收集了不少资源写了一个基于CoordinatorLayout实现的下拉刷新效果。
  * [Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - 下拉刷新开源库集锦 。
  * [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - 下拉刷新：打砖块和打坦克。
+ * [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - 仿写京东、天猫下拉刷新。
 
 ##### 模糊效果
  * [BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer) - 背景模糊的Navigation Drawer。
