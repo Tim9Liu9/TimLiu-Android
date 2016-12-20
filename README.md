@@ -265,7 +265,9 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [opandroid](https://github.com/openpeer/opandroid) - android p2p的开源实现。
  * [okio](https://github.com/square/okio) - square出的Okio这个库，尤其擅长处理二进制数据。如果觉得Java的输入输出流实在太复杂啰嗦，不妨试试Okio。
  * [okhttp](https://github.com/square/okhttp) - square出的okhttp库。
+ * [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - 全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的标准RESTful风格的网络框架。
  * [OkHttpPlus](https://github.com/ZhaoKaiQiang/OkHttpPlus) - OkHttp 的一个工具类开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载 ，[OkHttpPlus介绍](http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815)。
+https://github.com/jeasonlzy/okhttp-OkGo
  * [Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - 一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你。
  * [FileDownloader](https://github.com/lingochamp/FileDownloader) - 文件下载引擎，稳定、高效、简单易用。
  * [jchat-android](https://github.com/jpush/jchat-android) - 一个聊天 App,具有完备的即时通讯功能,JChat 的功能基于极光 JMessage SDK 来开发。
