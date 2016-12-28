@@ -256,7 +256,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [AndroidAHRSView](https://github.com/billhsu/AndroidAHRSView) - 显示飞行器姿态的Android控件。
  * [Material-Animations](https://github.com/lgvalle/Material-Animations) - 炫酷的Activity切换效果，共享元素。
  * [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) - 修改 v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局。
-
+ * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 漂亮的下雪效果。
 
 ========
 #### 网络相关
