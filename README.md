@@ -352,6 +352,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [RxAndroidAudior](https://github.com/Piasy/RxAndroidAudior) - RxAndroidAudior目前最鲁棒的Android声音录制和播放封装库了,[说明](http://blog.piasy.com/Robust-Android-Audio-encapsulation/)。
  * [Timber](https://github.com/naman14/Timber) - 一款遵循了Material Design并且设计精美的播放器 Timber Music Player，已经在google play上架。
  * [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera) - 一款功能强大的 Android 视频录制库, 仅允许横屏录制, 提供细粒度控制视频的质量与文件大小。
+ * [MovieHub](https://github.com/lawloretienne/MovieHub) - 非常漂亮的一款 Android Movie 工具。
 
 ========
 #### 测试及调试
