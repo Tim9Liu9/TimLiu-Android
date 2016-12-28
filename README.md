@@ -353,6 +353,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [Timber](https://github.com/naman14/Timber) - 一款遵循了Material Design并且设计精美的播放器 Timber Music Player，已经在google play上架。
  * [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera) - 一款功能强大的 Android 视频录制库, 仅允许横屏录制, 提供细粒度控制视频的质量与文件大小。
  * [MovieHub](https://github.com/lawloretienne/MovieHub) - 非常漂亮的一款 Android Movie 工具。
+ * [LyricViewDemo](https://github.com/zhengken/LyricViewDemo) - 歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码。
 
 ========
 #### 测试及调试
