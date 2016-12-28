@@ -445,6 +445,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [android_gradle_script](https://github.com/lihei12345/android_gradle_script) - gradle批量打包脚本，用txt配置一下，就可以支持多个渠道打包，适合国内这种动不动上百个渠道包的环境。目前有个问题，一次打包脚本超过80个就会GC问题。
  * [BatchPackApk](https://github.com/MasonLiuChn/BatchPackApk) - 免签名直接打包工具。 
  * [Android多渠道打包工具Gradle插件](https://github.com/mcxiaoke/gradle-packer-plugin/blob/master/readme.md) - Android多渠道打包工具Gradle插件。
+ * [Android批量打包极速版](http://ihongqiqu.com/2015/07/16/android-mutiple-channel-build/) - 用python实现的在META-INF目录内添加空文件的方式，实现批量快速打包Android应用。
  * [Gradle-Plugin-User-Guide-Chinese-Verision](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/) - Gradle插件使用指南中文版。
  * [gradle-guide.books](http://gradle-guide.books.yourtion.com/) - Android Gradle 插件中文指南（GitBook）。 
  * [Android-package_tool](https://github.com/ahui2823/package_tool) - 该工程用于编译多渠道Android应用，替换相应的标签，然后重新打包，用perl脚本实现。
