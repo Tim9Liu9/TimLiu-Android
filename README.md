@@ -363,6 +363,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [stf](https://github.com/openstf/stf) - WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行，[使用说明](https://testerhome.com/topics/2988) 。
  * [DecompileApk](https://github.com/MasonLiuChn/DecompileApk) - 一键反编译 APK，输出所有反编译后的代码、资源，使用方便。
  * [AppCrashTracker](https://github.com/macroday/AppCrashTracker) - 一个异常追踪器，可以生成一个 JSON 格式的日志并可以上传到服务器。 
+ * [preferator](https://github.com/Sloy/preferator) - 开发辅助工具，帮助你快速的在 Android 端修改 SharedPreference，以达到测试的目的。 
 
 ========
 #### 动态更新热更新
