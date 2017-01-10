@@ -258,6 +258,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [Material-Animations](https://github.com/lgvalle/Material-Animations) - 炫酷的Activity切换效果，共享元素。
  * [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) - 修改 v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局。
  * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 漂亮的下雪效果。
+ * [ViewSpreadTranslationController](https://github.com/zhangke3016/ViewSpreadTranslationController) - 两行代码搞定Android视图扩散切换效果。
 
 ========
 #### 网络相关
