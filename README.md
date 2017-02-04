@@ -101,6 +101,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - FlipViewPager.Draco。
  * [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) - 图片圆角、三角、五角、圆形、多角。
  * [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) - 隐藏图片的导航栏。
+ * [AwesomeBar](https://github.com/florent37/AwesomeBar) - 很有特点的一个 Bar，动画效果很 Android。
  * [MultiCardMenu](https://github.com/wujingchao/MultiCardMenu) - 仿QQ手机管家首页菜单写的一个开源组件MultiCardMenu。
  * [fit-chart](https://github.com/txusballesteros/fit-chart) - fit-chart 一个类似于谷歌健康应用的轮子（wheel view）视图，效果很不错。
  * [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) - Badge控件分享，各式各样的徽章控件。
