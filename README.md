@@ -232,6 +232,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel) - 一个二维可拖动的面板控件，交互像一个二维的RecyclerView，用法也非常简单和RecyclerView的用法基本一样，横向竖向滑动也都实现了View的复用。 如果你想做房态、计划表、待办事项、课程表等需要一个二维的面板的话，这个控件应该是比较适合的。
  * [VerificationCodeView](https://github.com/Freshman111/VerificationCodeView) - 可用于动态生成验证码，常见于金融类app。
  * [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) - 类似 Facebook 加载时，条目的闪烁效果，酷酷的。
+ * [StatusView](https://github.com/iammert/StatusView) - 简洁优雅的网络状态提示。
 
 ========
 #### 动画
