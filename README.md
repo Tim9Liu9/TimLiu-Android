@@ -70,6 +70,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [Toolbar](https://github.com/xamarin/monodroid-samples/tree/master/android_l/Toolbar) - Toolbar替换Android Toolbar，[说明](https://blog.xamarin.com/android-tips-hello-toolbar-goodbye-action-bar/)。
  * [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) - 一个支持Material Design的PagerSlidingTabStrip。
  * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - 一个易于使用的 Material Design ViewPager 库。
+ * [YViewPagerDemo](https://github.com/youngkaaa/YViewPagerDemo) - 一基于官方ViewPager，支持水平方向上滑动和竖直方向上的滑动的ViewPager。
  * [PinnedListView](http://www.eoeandroid.com/thread-567853-1-1.html) - PinnedListView悬浮Head效果修改，[github pinned-section-listview](https://github.com/beworker/pinned-section-listview)。
  * [APP启动引导页](http://www.eoeandroid.com/thread-564018-1-1.html) - APP应用中最常用的APP启动引导页，常见的4种引导项目方式：splash，viewpage，viewflipper，scrollview。
  * [GuideHelper](https://github.com/LuckyJayce/GuideHelper) - 实现Android新手引导页，可以在提示也绘制实际的view，在view的上下左右位置添加提示信息的图片。
