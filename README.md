@@ -117,6 +117,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View是一种用于应用程序中显示日历的安卓库。它支持自定义样式。。
  * [MaterialCalendarView](https://github.com/BlackBoxVision/material-calendar-view) - 是一款遵循 Material Design 风格的 Android 日历。
  * [WeekCalendar](https://github.com/nomanr/WeekCalendar) - 周模式的日历自定义控件，支持 4.0 以上。
+ * [WeekCalendar](https://github.com/loonggg/WeekCalendar) - 一个可以动态修改标记日期和显示预约列表的周日历。
  * [DragLinearLayout](https://github.com/justasm/DragLinearLayout) - DragLinearLayout:自定义的线性布局，里面的UI可以自由拖动。
  * [floatingsearchview](https://github.com/arimorty/floatingsearchview) - floatingsearchview 一个带搜索下拉列表提示的搜索控件。
  * [LabelView](https://github.com/corerzhang/LabelView) - LabelView 一个简单的标签控件 支持自定义 文字大小（textSize）， 间距（labelTopPadding）， 背景色（backgroundColor）， 和方向（direction）等。
