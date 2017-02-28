@@ -2,7 +2,7 @@ TimLiu-Android
 ==============
 
 自己总结的Android开源项目及库。 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)           
-Android库学习收集QQ群: 339129051  欢迎入群。
+Android库学习收集QQ群: 339129051  欢迎入群。
 
 ###  目录
 - [UI](#UI)
@@ -386,11 +386,9 @@ https://github.com/jeasonlzy/okhttp-OkGo
 
 ========
 #### 消息推送与及时通讯
- * [即时通讯和sns开源项目汇总](http://www.jianshu.com/p/b2ca52337fe5) - 源码提供！Android即时通讯和sns开源项目汇总。
+ * [即时通讯和sns开源项目汇总](http://www.jianshu.com/p/b2ca52337fe5) - 源码提供！Android即时通讯和sns开源项目汇总，[github地址](https://github.com/CameloeAnthony/Perfect_IM_SNS)。
 
-##### 客户端
 
-##### 服务器端
 
 ========
 #### 完整项目
