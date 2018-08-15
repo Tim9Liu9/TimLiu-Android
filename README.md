@@ -349,6 +349,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [crop-image-layout](https://github.com/yulu/crop-image-layout) - crop-image-layout：图片裁切布局。
  * [RenderscriptHistogramEqualization](https://github.com/qhutch/RenderscriptHistogramEqualization) - [RenderScript :简单而快速的图像处理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0504/4205.html)
  * [IDCardCamera](https://github.com/wildma/IDCardCamera) - Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪。
+ * [BigImageViewer](https://github.com/Piasy/BigImageViewer) - 强大的大图查看库。
 
 ========
 #### 视频音频处理
