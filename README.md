@@ -128,6 +128,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - 一个仿 Material Bottom Navigation 的类库。
  * [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等。
  * [material-about-library](https://github.com/daniel-stoneuk/material-about-library) - Material Design风格的About页面设计。
+ * [RuleView](https://github.com/zjun615/RuleView) - 卷尺系列控件，包含：普通卷尺（如：体重）、金额尺、时间尺。
 
 ##### 卫星菜单
  * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
@@ -137,6 +138,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) - 卫星菜单。
  * [ElasticDownload](https://github.com/Tibolte/ElasticDownload) -  挺酷的下载进度条。
  * [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - 仿 Tumblr 的 Android 可拖拽蛇形动画菜单。
+ * [RuleView](https://github.com/zjun615/RuleView) - 卷尺系列控件，包含：普通卷尺（如：体重）、金额尺、时间尺。
 
 ##### 节选器
  * [SegmentView](https://github.com/hehonghui/SegmentView) - 类似iOS的Segment Control控件，第一种方式是使用 RadioGroup 实现，O网页链接。
