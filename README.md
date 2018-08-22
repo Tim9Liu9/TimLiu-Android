@@ -267,6 +267,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) - 修改 v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局。
  * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 漂亮的下雪效果。
  * [ViewSpreadTranslationController](https://github.com/zhangke3016/ViewSpreadTranslationController) - 两行代码搞定Android视图扩散切换效果。
+ * [Android-Animation-Set](https://github.com/OCNYang/Android-Animation-Set) - Android 所有动画系列详尽教程。 Explain all animations in Android. [Android 一共有多少种动画？准确告诉你！](https://www.jianshu.com/p/0eb89d43eea4)
 
 ========
 #### 网络相关
