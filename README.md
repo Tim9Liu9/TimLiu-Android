@@ -380,6 +380,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [DecompileApk](https://github.com/MasonLiuChn/DecompileApk) - 一键反编译 APK，输出所有反编译后的代码、资源，使用方便。
  * [AppCrashTracker](https://github.com/macroday/AppCrashTracker) - 一个异常追踪器，可以生成一个 JSON 格式的日志并可以上传到服务器。 
  * [preferator](https://github.com/Sloy/preferator) - 开发辅助工具，帮助你快速的在 Android 端修改 SharedPreference，以达到测试的目的。 
+ * [UETool](https://github.com/eleme/UETool) - UETool 是一个各方人员（设计师、程序员、测试）都可以使用的调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。 
 
 ========
 #### 动态更新热更新
