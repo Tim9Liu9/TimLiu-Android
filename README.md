@@ -420,7 +420,6 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 豆瓣客户端。
  * [TranslateApp](https://github.com/maoruibin/TranslateApp) - 一个实现『划词翻译』功能的 Android 开源应用。
  * [likequanmintvp](https://github.com/a371166028/likequanmintvp) - 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV。
- * [MVVMHabit](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
 
 ========
 ### 插件
@@ -501,6 +500,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [ActivityRouter](https://github.com/mzule/ActivityRouter) - 一个url打开activity的Router库，支持指定参数类型，支持参数transfer，支持callback。
  * [AnalysisApp](https://github.com/fengzhizi715/AnalysisApp) - 一个快速分析 Android App 使用了哪些 SDK 的工具。
  * [AndroidLuaExample](https://github.com/haodynasty/AndroidLuaExample) - 封装了最新Lua代码的Android库。
+ * [MVVMHabit](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
 
 ========
 #### 好的文章
