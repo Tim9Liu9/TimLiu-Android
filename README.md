@@ -371,6 +371,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [ExoPlayer](https://github.com/google/ExoPlayer) - ExoPlayer是运行在YouTube app Android版本上的视频播放器。
  * [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器，HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，其他一些小动画效果，rtsp、concat、mpeg。
  * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) - 饺子播放器是一个支持高度自定义的视频播放器。
+ * [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
 
 ========
 #### 测试及调试
