@@ -368,6 +368,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera) - 一款功能强大的 Android 视频录制库, 仅允许横屏录制, 提供细粒度控制视频的质量与文件大小。
  * [MovieHub](https://github.com/lawloretienne/MovieHub) - 非常漂亮的一款 Android Movie 工具。
  * [LyricViewDemo](https://github.com/zhengken/LyricViewDemo) - 歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码。
+ * [ExoPlayer](https://github.com/google/ExoPlayer) - ExoPlayer是运行在YouTube app Android版本上的视频播放器。
 
 ========
 #### 测试及调试
