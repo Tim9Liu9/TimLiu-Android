@@ -177,6 +177,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [android-UCToast](https://github.com/liaohuqiu/android-UCToast) - 在不申请任何权限的情况下在 Android 应用中弹出悬浮窗,[实现文档](http://gold.xitu.io/entry/5626f73960b25974a0e5e57c)。
  * [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog) - sweet-alert-dialog是一款清新文艺的 Android 弹窗, 灵感来自于 JS 版的 SweetAlert。
  * [BasePopup](https://github.com/razerdp/BasePopup) - 通用便捷的PopupWindow。
+ * [XPopup](https://github.com/li-xiaojun/XPopup) - 功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！
 
 ##### 进度条
  * [easyloadingbtn](https://github.com/DevinShine/easyloadingbtn) - 模仿了一个Dribbble上的Material Design效果，环形loading， 进度条、进度圈。
