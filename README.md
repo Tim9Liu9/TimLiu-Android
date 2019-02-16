@@ -241,6 +241,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) - 类似 Facebook 加载时，条目的闪烁效果，酷酷的。
  * [StatusView](https://github.com/iammert/StatusView) - 简洁优雅的网络状态提示。
  * [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案。
+ * [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - StatusBarUtil 是一个 Android 状态栏修改工具，超级好用。
 
 ========
 #### 动画
