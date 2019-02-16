@@ -356,6 +356,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [RenderscriptHistogramEqualization](https://github.com/qhutch/RenderscriptHistogramEqualization) - [RenderScript :简单而快速的图像处理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0504/4205.html)
  * [IDCardCamera](https://github.com/wildma/IDCardCamera) - Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪。
  * [BigImageViewer](https://github.com/Piasy/BigImageViewer) - 强大的大图查看库。
+ * [Luban](https://github.com/Curzibn/Luban) - Luban（鲁班 —— Android图片压缩工具，仿微信朋友圈压缩策略。
 
 ========
 #### 视频音频处理
