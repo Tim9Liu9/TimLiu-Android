@@ -129,6 +129,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等。
  * [material-about-library](https://github.com/daniel-stoneuk/material-about-library) - Material Design风格的About页面设计。
  * [RuleView](https://github.com/zjun615/RuleView) - 卷尺系列控件，包含：普通卷尺（如：体重）、金额尺、时间尺。
+ * [XUI](https://github.com/xuexiangjys/XUI) - 一个简洁而优雅的Android原生UI框架，解放你的双手！
 
 ##### 卫星菜单
  * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
