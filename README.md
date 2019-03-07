@@ -431,6 +431,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [TranslateApp](https://github.com/maoruibin/TranslateApp) - 一个实现『划词翻译』功能的 Android 开源应用。
  * [likequanmintvp](https://github.com/a371166028/likequanmintvp) - 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV。
  * [Upchain-wallet](https://github.com/xilibi2003/Upchain-wallet) - 登链钱包（一款功能强大的以太坊钱包）, 模仿imToken及ETHWallet，Google play 也已经上架。
+ * [ETHWallet](https://github.com/DwyaneQ/ETHWallet) - 一款模仿imToken实现的ETH钱包，包括生成助记词创建钱包，通过助记词、私钥、json导入钱包，导出助记词、私钥、json串，转账，ETH转账，主要应用web3j、bitcoinj开发库。
 
 ========
 ### 插件
