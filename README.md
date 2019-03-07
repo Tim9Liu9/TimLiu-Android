@@ -430,6 +430,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 豆瓣客户端。
  * [TranslateApp](https://github.com/maoruibin/TranslateApp) - 一个实现『划词翻译』功能的 Android 开源应用。
  * [likequanmintvp](https://github.com/a371166028/likequanmintvp) - 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV。
+ * [Upchain-wallet](https://github.com/xilibi2003/Upchain-wallet) - 登链钱包（一款功能强大的以太坊钱包）, 模仿imToken及ETHWallet，Google play 也已经上架。
 
 ========
 ### 插件
