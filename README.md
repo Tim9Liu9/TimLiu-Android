@@ -514,6 +514,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [AndroidLuaExample](https://github.com/haodynasty/AndroidLuaExample) - 封装了最新Lua代码的Android库。
  * [MVVMHabit](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
  * [permissions4m](https://github.com/jokermonn/permissions4m) - Android 动态权限是在 6.0 才推出的，但是很多国产手机在 5.0 时代就有了这一功能。permission4m 不但适配了大部分国产机型，也支持国产机型 5.0 系统的权限申请。
+ * [XXPermissions](https://github.com/getActivity/XXPermissions) - 一句代码搞定权限请求，XXPermissions 也是一个优秀的权限申请框架，它的特点是简洁易用，支持链式调用的方式，支持多个权限同时请求，支持请求 6.0 及以上的悬浮窗权限和 8.0 及以上的安装权限，也提供了直接跳转到具体的权限设置页面的接口。
 
 ========
 #### 好的文章
