@@ -513,6 +513,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [AnalysisApp](https://github.com/fengzhizi715/AnalysisApp) - 一个快速分析 Android App 使用了哪些 SDK 的工具。
  * [AndroidLuaExample](https://github.com/haodynasty/AndroidLuaExample) - 封装了最新Lua代码的Android库。
  * [MVVMHabit](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
+ * [permissions4m](https://github.com/jokermonn/permissions4m) - Android 动态权限是在 6.0 才推出的，但是很多国产手机在 5.0 时代就有了这一功能。permission4m 不但适配了大部分国产机型，也支持国产机型 5.0 系统的权限申请。
 
 ========
 #### 好的文章
