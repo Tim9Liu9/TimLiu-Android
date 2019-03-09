@@ -515,6 +515,10 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [MVVMHabit](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
  * [permissions4m](https://github.com/jokermonn/permissions4m) - Android 动态权限是在 6.0 才推出的，但是很多国产手机在 5.0 时代就有了这一功能。permission4m 不但适配了大部分国产机型，也支持国产机型 5.0 系统的权限申请。
  * [XXPermissions](https://github.com/getActivity/XXPermissions) - 一句代码搞定权限请求，XXPermissions 也是一个优秀的权限申请框架，它的特点是简洁易用，支持链式调用的方式，支持多个权限同时请求，支持请求 6.0 及以上的悬浮窗权限和 8.0 及以上的安装权限，也提供了直接跳转到具体的权限设置页面的接口。
+ * [settingscompat](https://github.com/czy1121/settingscompat) - SettingsCompa 所针对的是一些特殊权限的获取，比如前面提到的悬浮窗权限以及修改系统设置权限 (WRITE_SETTINGS)，这些权限在 Android 6.0 以上都是需要申请并且通过发送 Intent 让用户在设置界面进行勾选后才能使用。
+
+Android 6.0以前只要在manifest中申请了权限就是默认开启的
+Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置界面进行勾选。
 
 ========
 #### 好的文章
