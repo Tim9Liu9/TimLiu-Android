@@ -432,6 +432,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [likequanmintvp](https://github.com/a371166028/likequanmintvp) - 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV。
  * [Upchain-wallet](https://github.com/xilibi2003/Upchain-wallet) - 登链钱包（一款功能强大的以太坊钱包）, 模仿imToken及ETHWallet，Google play 也已经上架。
  * [ETHWallet](https://github.com/DwyaneQ/ETHWallet) - 一款模仿imToken实现的ETH钱包，包括生成助记词创建钱包，通过助记词、私钥、json导入钱包，导出助记词、私钥、json串，转账，ETH转账，主要应用web3j、bitcoinj开发库。
+ * [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary/) -一个 MVP 架构的 Android 快速开发框架，该框架提供了一套开发标准（View，Data，Event）以及模板和工具类并规范代码。封装层级少，简单高效兼容性好。Demo最全面、注释最详细、使用最简单、代码最严谨的 Android 开源 UI 框架。
 
 ========
 ### 插件
