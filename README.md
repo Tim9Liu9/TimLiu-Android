@@ -401,6 +401,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [AndFixDemo](https://github.com/AlanCheen/AndFixDemo) - AndFix是alibaba出品的开源热更新技术。
  * [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) - 通过Gradle Transform和aspectj来实现代码动态修改，业务逻辑数据埋点、性能数据统计等侵入性修改从此不再需要修改业务代码，完美解决Dexposed兼容性问题，实现代码自动插桩。[AspectJX-Demo](https://github.com/HujiangTechnology/AspectJX-Demo)
  * [RoboAspectJ](https://github.com/meituan/RoboAspectJ) - 美团出品的开源热更新技术。
+ * [Shadow](https://github.com/Tencent/Shadow) - 它是一个腾讯自主研发的 Android 插件框架，经过线上亿级用户量检验。Shadow 不仅开源分享了插件技术的关键代码，还完整的分享了上线部署所需要的所有设计。
 
 ========
 #### 消息推送与及时通讯
