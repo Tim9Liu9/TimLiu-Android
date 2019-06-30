@@ -406,7 +406,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
 ========
 #### 消息推送与及时通讯
  * [即时通讯和sns开源项目汇总](http://www.jianshu.com/p/b2ca52337fe5) - 源码提供！Android即时通讯和sns开源项目汇总，[github地址](https://github.com/CameloeAnthony/Perfect_IM_SNS)。
-
+ * [NettyChat](https://github.com/FreddyChen/NettyChat) - 基于Netty+TCP+Protobuf实现的Android IM库，包含Protobuf序列化、TCP拆包与粘包、长连接握手认证、心跳机制、断线重连机制、消息重发机制、读写超时机制、离线消息、线程池等功能。
 
 
 ========
