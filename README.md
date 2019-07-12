@@ -391,6 +391,7 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [preferator](https://github.com/Sloy/preferator) - 开发辅助工具，帮助你快速的在 Android 端修改 SharedPreference，以达到测试的目的。 
  * [UETool](https://github.com/eleme/UETool) - UETool 是一个各方人员（设计师、程序员、测试）都可以使用的调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。 
  * [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
+ * [SoloPi](https://github.com/alipay/SoloPi) - Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
 
 ========
 #### 动态更新热更新
